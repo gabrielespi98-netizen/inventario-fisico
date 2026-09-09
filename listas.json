@@ -1,10 +1,8858 @@
 {
-  "periodo": "Septiembre 2026",
-  "actualizado": "2026-09-09",
-  "inventarios": [
-    {"id": "insumos",   "nombre": "Insumos",   "items": []},
-    {"id": "taller",    "nombre": "Taller",    "items": []},
-    {"id": "marketing", "nombre": "Marketing", "items": []},
-    {"id": "uniformes", "nombre": "Uniformes", "items": []}
-  ]
+ "periodo": "Agosto 2026",
+ "actualizado": "2026-09-09",
+ "inventarios": [
+  {
+   "id": "insumos",
+   "nombre": "Insumos",
+   "items": [
+    [
+     "4208",
+     "GUANTE MAXI GRIP DESCARTABLE"
+    ],
+    [
+     "4367",
+     "ALCOHOL EN GEL"
+    ],
+    [
+     "4478",
+     "BOLSA PICOTADA 40X60 IMPRES"
+    ],
+    [
+     "4479",
+     "BOLSA PICOTADA 35X50 IMPRES"
+    ],
+    [
+     "4480",
+     "BOLSA PICOTADA 25X40 IMPRES"
+    ],
+    [
+     "4560",
+     "CABLE P/IMPRESORA"
+    ],
+    [
+     "4894",
+     "PAPEL HIGIENICO 500MTS"
+    ],
+    [
+     "5194",
+     "TOALLA ROLLO 200 MTS"
+    ],
+    [
+     "5292",
+     "BALDE PLASTICO"
+    ],
+    [
+     "5444",
+     "BOBINAS TRIPLICADAS 7,5X7,5"
+    ],
+    [
+     "6127",
+     "RELOJ DE PARED"
+    ],
+    [
+     "6409",
+     "PILOTO IMPERMEABLE"
+    ],
+    [
+     "6410",
+     "ORGANIZADOR PLASTICO P/ACCESOR"
+    ],
+    [
+     "6455",
+     "TERMOHIGROMETRO"
+    ],
+    [
+     "6470",
+     "PROTECTOR OCULAR"
+    ],
+    [
+     "6497",
+     "JABON ANTISEPTICO"
+    ],
+    [
+     "6652",
+     "EXIBIDORA BRIKET M4200 C/CENEF"
+    ],
+    [
+     "7135",
+     "INVERSOR DE VOLTAJE"
+    ],
+    [
+     "7232",
+     "FIBRA VERDE P/ZOCALERO"
+    ],
+    [
+     "7399",
+     "CAJA P/DELIVERY"
+    ],
+    [
+     "7454",
+     "SOPORTE P/TV"
+    ],
+    [
+     "7594",
+     "CAJA PARA SACHET L ENVAPAR C/I"
+    ],
+    [
+     "7688",
+     "TONER COMPATIBLE HP 85A"
+    ],
+    [
+     "7784",
+     "CONTADOR DE BILLETES"
+    ],
+    [
+     "7797",
+     "TINTA HP 670 MAGENTA"
+    ],
+    [
+     "7808",
+     "ADAPTADOR BLUETOOTH"
+    ],
+    [
+     "7939",
+     "CEPILLO P/TUBOS"
+    ],
+    [
+     "8018",
+     "AIRE ACOND. 18000BTU"
+    ],
+    [
+     "8020",
+     "FAJA C/TIRANTES AJUSTABLES"
+    ],
+    [
+     "8281",
+     "TAPPERS"
+    ],
+    [
+     "8350",
+     "PESA SALINOMETRO S/ TERMOMETRO"
+    ],
+    [
+     "8776",
+     "LISSE LECHE ENTERA CACIQUE 1L"
+    ],
+    [
+     "8798",
+     "CAJA REGISTRADORA"
+    ],
+    [
+     "8939",
+     "BALANZA 30KG TOKYO"
+    ],
+    [
+     "9133",
+     "TONER COMPATIBLE 80A"
+    ],
+    [
+     "10420",
+     "VASO 70CC BLANCO X100"
+    ],
+    [
+     "10422",
+     "PISETA PLASTICA 500ML"
+    ],
+    [
+     "10839",
+     "CRONOMETRO"
+    ],
+    [
+     "11248",
+     "SPRAY BACTISAN"
+    ],
+    [
+     "11287",
+     "ARMARIO BAJO C/2 PUERTAS"
+    ],
+    [
+     "11311",
+     "BLUETOOH P/MOVILES"
+    ],
+    [
+     "11361",
+     "EXHIBIDORA UGUR TKL 440LTS C/"
+    ],
+    [
+     "11455",
+     "EXHIBIDORA UGUR 374TKL"
+    ],
+    [
+     "11522",
+     "IMPRESORA EPSON LX-350"
+    ],
+    [
+     "11580",
+     "ESCOBILLON 50CM NYLON"
+    ],
+    [
+     "11581",
+     "ESCOBILLON 30CM NYLON"
+    ],
+    [
+     "11713",
+     "ARMARIO MULTIUSO"
+    ],
+    [
+     "11795",
+     "PALLET DE ACERO"
+    ],
+    [
+     "11799",
+     "CABLE P/BATERIA"
+    ],
+    [
+     "12199",
+     "CARRO MONTA CARGA DE DOS RUEDA"
+    ],
+    [
+     "12228",
+     "CONGELADOR TOKYO 400LTS"
+    ],
+    [
+     "12820",
+     "CIF CREMA 250GR"
+    ],
+    [
+     "12901",
+     "CEPILLO SANITARIO PEDILUVIO"
+    ],
+    [
+     "13040",
+     "ALCOHOLIMETRO"
+    ],
+    [
+     "13061",
+     "BASURERO CERRADO 60LTS VAIVEN"
+    ],
+    [
+     "13460",
+     "BOLSA DE BASURA 70LTS"
+    ],
+    [
+     "13505",
+     "MICROONDA 25LTS. MARCA JAM"
+    ],
+    [
+     "13732",
+     "BALANZA ELECTRONICA NAIKESI 30"
+    ],
+    [
+     "13794",
+     "PATA P/MESA REDONDA VERDE"
+    ],
+    [
+     "13795",
+     "TAPA P/MESA REDONDA VERDE"
+    ],
+    [
+     "14042",
+     "PAPEL TOALLA X300MTS"
+    ],
+    [
+     "14101",
+     "MOPA 350GRS"
+    ],
+    [
+     "14201",
+     "BALANZA SYSTEL BUMER 30KG"
+    ],
+    [
+     "14717",
+     "PISETA PLASTICA 1000ML"
+    ],
+    [
+     "14743",
+     "REFRACTOMETRO DIGITAL DE BOLSI"
+    ],
+    [
+     "14803",
+     "JERINGA 200MM"
+    ],
+    [
+     "16405",
+     "LYSOFORM AEROSOL"
+    ],
+    [
+     "16406",
+     "LYSOFORM LIQUIDO"
+    ],
+    [
+     "16512",
+     "TONER TK-1175 P/FOTOCOPIADORA"
+    ],
+    [
+     "16519",
+     "BATERIA 50AH 12V"
+    ],
+    [
+     "16728",
+     "CEPILLO P/LIMPIEZA DE TUBOS DE"
+    ],
+    [
+     "16825",
+     "TERMOMETRO PINCHA CARNE T -50C"
+    ],
+    [
+     "17032",
+     "BASURERO 100LTS TAPA VAIVEN"
+    ],
+    [
+     "17099",
+     "PILOTIN DE 2 PIEZAS"
+    ],
+    [
+     "17105",
+     "EXHIBIDORA HORIZONTAL UGUR 400"
+    ],
+    [
+     "17265",
+     "HELADERA JAM 325LTS FRIO/SECO"
+    ],
+    [
+     "17312",
+     "CONTENEDOR CN 180"
+    ],
+    [
+     "17376",
+     "EXHIBIDORA JAM 1 PUERTA 410LTS"
+    ],
+    [
+     "17424",
+     "FUENTE DE ALIMENT.24-28VDC 120"
+    ],
+    [
+     "17492",
+     "GUANTE NEOPRENO BICOLOR"
+    ],
+    [
+     "17624",
+     "TEST ACIDO PERACETICO 50-500MG"
+    ],
+    [
+     "17706",
+     "BASURERO CERRADO 30 LTS VAIVEN"
+    ],
+    [
+     "17999",
+     "EXHIBIDORA UGUR 300 LTS. HORIZ"
+    ],
+    [
+     "18005",
+     "MOPA DE ALGODON CON MANGO"
+    ],
+    [
+     "18038",
+     "SOPORTE C/ ROSCA.MANGO P/ FIBR"
+    ],
+    [
+     "18043",
+     "KIT P/ DETERMINACION DE CLORO"
+    ],
+    [
+     "18082",
+     "PLACA P/ PETRI TAPA+BASE"
+    ],
+    [
+     "18226",
+     "TV LED 32\" JAM"
+    ],
+    [
+     "19081",
+     "PH METRO DIGITAL PORTATIL ATAG"
+    ],
+    [
+     "19264",
+     "CAJA POLLERA ENVAPAR"
+    ],
+    [
+     "19284",
+     "ALCOHOL EN GEL 5 LTS"
+    ],
+    [
+     "19299",
+     "TAPA BOCA DE TELA"
+    ],
+    [
+     "19315",
+     "MICROONDAS 20 LTS"
+    ],
+    [
+     "19335",
+     "GUANTE VINILO DESECHABLE"
+    ],
+    [
+     "19402",
+     "DISPENSADOR DE JABON 1 LT"
+    ],
+    [
+     "19554",
+     "DISPENSADOR DE JABON 1/2 LT"
+    ],
+    [
+     "19602",
+     "ALCOHOL EN GEL EXE"
+    ],
+    [
+     "19744",
+     "BOLSA CAMISILLA \"M\" 40X50 LP"
+    ],
+    [
+     "19745",
+     "BOLSA CAMISILLA \"G\" 50X60 LP"
+    ],
+    [
+     "19987",
+     "TONER COMPATIBLE TN880"
+    ],
+    [
+     "19993",
+     "TAPPER DE 17 LITROS"
+    ],
+    [
+     "19995",
+     "PIPETA ELECTRONICA SARTORIUS 1"
+    ],
+    [
+     "20857",
+     "GUANTE DE LATEX"
+    ],
+    [
+     "20866",
+     "BANDEJA DE ISOPOR N?617"
+    ],
+    [
+     "20867",
+     "BANDEJA DE ISOPOR N?618"
+    ],
+    [
+     "20971",
+     "LIMPIA VIDRIOS X 5 LTS."
+    ],
+    [
+     "21233",
+     "EXHIBIDORA BRIKET 500LTS. M500"
+    ],
+    [
+     "21437",
+     "ALGODON"
+    ],
+    [
+     "21645",
+     "ALFOMBRA COLOR PASTO"
+    ],
+    [
+     "21916",
+     "JABON LIQUIDO"
+    ],
+    [
+     "22011",
+     "EXHIBIDORA FRIDER VERTICAL 870"
+    ],
+    [
+     "22102",
+     "HELADERA 300 LTS. JAM BLANCA F"
+    ],
+    [
+     "22260",
+     "CEPILLO LIMPIA PARABRISA"
+    ],
+    [
+     "22696",
+     "BUTACA"
+    ],
+    [
+     "22772",
+     "HOJAS TROQUELADAS A4"
+    ],
+    [
+     "22782",
+     "CUCHILLO 30CM"
+    ],
+    [
+     "22811",
+     "CUCHARITAS P/SALONES"
+    ],
+    [
+     "22837",
+     "ESCOBA CERDA CORTA"
+    ],
+    [
+     "22957",
+     "PAJITAS-EXPO"
+    ],
+    [
+     "23291",
+     "JABON DE COCO"
+    ],
+    [
+     "23321",
+     "DIFERENCIA DE PRECIO"
+    ],
+    [
+     "23641",
+     "HOJAS TROQUELADAS CARTA"
+    ],
+    [
+     "23836",
+     "CUCHARITAS P/HELADO"
+    ],
+    [
+     "24025",
+     "DELANTAL P/PLANTA"
+    ],
+    [
+     "28542",
+     "PISO PLASTICO POLIUSO"
+    ],
+    [
+     "37984",
+     "EXHIBIDORA JAM 410 LTS"
+    ],
+    [
+     "80032",
+     "FILM POF 400X1067X19MIC"
+    ],
+    [
+     "80050",
+     "FILM POLIOLEFINA 350X1067X19 M"
+    ],
+    [
+     "80095",
+     "CABLE USB P/ IMPRESORA"
+    ],
+    [
+     "80149",
+     "CABLE SERIAL"
+    ],
+    [
+     "80256",
+     "SECAVIDRIOS DE ACERO INOXIDABL"
+    ],
+    [
+     "80283",
+     "CLISSE DL C/CHOCO MANI LP 15KG"
+    ],
+    [
+     "80325",
+     "MASCARILLA KN95 DOBLABLE BLANC"
+    ],
+    [
+     "80332",
+     "CIF CREMA 375GR."
+    ],
+    [
+     "80336",
+     "GUANTE PALMA ESPUMA NITRILO AZ"
+    ],
+    [
+     "80337",
+     "CINTA REFLECTIVA ROJA/BLANCA D"
+    ],
+    [
+     "80350",
+     "MILKSAFE 3BTC"
+    ],
+    [
+     "80351",
+     "MILKSAFE MINI INCUBATOR"
+    ],
+    [
+     "80373",
+     "DELANTAL COMPLETO VERDE MANULA"
+    ],
+    [
+     "80375",
+     "GUANTE PVC MANO ASPERA LIVIANO"
+    ],
+    [
+     "80376",
+     "ANTEOJO TIPO SG551 INCOLORO"
+    ],
+    [
+     "80386",
+     "PROTECTOR FACIAL MARCA STELLPR"
+    ],
+    [
+     "80387",
+     "RIBETE ALUM8X16.STEELPRO P/PRO"
+    ],
+    [
+     "80409",
+     "CHALECO POLYESTER MALLA VERDE"
+    ],
+    [
+     "80410",
+     "CHALECO POLYESTER MALLA VERDE"
+    ],
+    [
+     "80412",
+     "ESTUCHE P/ PROTECTOR AUDITIVO"
+    ],
+    [
+     "80413",
+     "CONJUNTO IMP PVC S/P C/CIERRE"
+    ],
+    [
+     "80414",
+     "CONJUNTO IMP PVC S/P C/CIERRE"
+    ],
+    [
+     "80415",
+     "FAJA LUMBAR STANDARD P"
+    ],
+    [
+     "80416",
+     "FAJA LUMBAR STANDARD XL"
+    ],
+    [
+     "80417",
+     "FAJA LUMBAR STANDARD L"
+    ],
+    [
+     "80418",
+     "FAJA LUMBAR STANDARD M"
+    ],
+    [
+     "80419",
+     "ARNES RACHET P/ CASCO H-700"
+    ],
+    [
+     "80420",
+     "CASCO H-700 VERDE"
+    ],
+    [
+     "80421",
+     "CASCO H-700 BLANCO"
+    ],
+    [
+     "80459",
+     "BARBIQUEJO C/MENTONERA 15CM."
+    ],
+    [
+     "80468",
+     "MASCARA FULL FACE P/2 FILTROS"
+    ],
+    [
+     "80469",
+     "FILTRO P/MASCARA FULL FACE PLC"
+    ],
+    [
+     "80470",
+     "MAMELUCO TYCHEM 2000 AMARILLO"
+    ],
+    [
+     "80471",
+     "GUANTE NEOPRENO 723L-09"
+    ],
+    [
+     "80489",
+     "DISPENSADOR P/ ALCOHOL"
+    ],
+    [
+     "80490",
+     "DISPENSADOR P/ JABON"
+    ],
+    [
+     "80527",
+     "BOLSA DE BASURA 40LTS. AMARILL"
+    ],
+    [
+     "80532",
+     "PROTECTOR AUDITIVO OPTIME 95 T"
+    ],
+    [
+     "80533",
+     "PROTECTOR AUDITIVO OPTIME 98 P"
+    ],
+    [
+     "80534",
+     "PROTECTOR AUDITIVO OPTIME 98 T"
+    ],
+    [
+     "80535",
+     "CASCO H-700 AZUL"
+    ],
+    [
+     "80562",
+     "IMPRESORA LASER BROTHER HL L23"
+    ],
+    [
+     "80707",
+     "CONTENEDOR ALC 64365V AZUL"
+    ],
+    [
+     "80781",
+     "CINTA PRECAUCION AMARILLA/NEGR"
+    ],
+    [
+     "80788",
+     "CASCO H-700 AMARILLO"
+    ],
+    [
+     "80807",
+     "BALANZA ELECTRONICA 60KG."
+    ],
+    [
+     "80886",
+     "PROTECTOR AUDITIVO X4P 3E PELT"
+    ],
+    [
+     "80887",
+     "GUANTE DYNEEMA R. AL CORTE CAL"
+    ],
+    [
+     "80982",
+     "MASCARA CARA COMPLETA 3M 6800"
+    ],
+    [
+     "80983",
+     "FILTRO P/ VAPORES ORGANICOS Y"
+    ],
+    [
+     "80991",
+     "CUCHILLO 10CM"
+    ],
+    [
+     "80998",
+     "ROLLO FILM STRETCH MANUAL 50*2"
+    ],
+    [
+     "81013",
+     "PILOTO IMP PVC DE 1RA CALIDAD"
+    ],
+    [
+     "81067",
+     "GUANTE NEOPRENO"
+    ],
+    [
+     "81068",
+     "GUANTE DIELECTRICO ORION 500 V"
+    ],
+    [
+     "81069",
+     "GUANTE DE KEVLAR JERSEY"
+    ],
+    [
+     "81088",
+     "CASCO ROSA MSA 3M C/ARNES FAS"
+    ],
+    [
+     "81099",
+     "MASCARA C/FILTRO P/POLVO Y VAP"
+    ],
+    [
+     "81100",
+     "DELANTAL PROTEC (P)"
+    ],
+    [
+     "81101",
+     "DELANTAL PROTEC (G)"
+    ],
+    [
+     "81111",
+     "MINITERMOMETRO TESTO TO 0560.1"
+    ],
+    [
+     "81125",
+     "ARNES RACHET P/CASCO INDALCO"
+    ],
+    [
+     "81133",
+     "CONSERVADORA DE ISOPOR 80 LTS."
+    ],
+    [
+     "81134",
+     "CUCHILLO 42 CM."
+    ],
+    [
+     "81135",
+     "MB ASUS PRIME LGA1200 H510M-K"
+    ],
+    [
+     "81172",
+     "TERMOMETRO DIGITAL PDQ400 COMA"
+    ],
+    [
+     "81256",
+     "PAPEL TOALLA 100MTS."
+    ],
+    [
+     "81291",
+     "DISPENSADOR DE PAPEL TOALLA"
+    ],
+    [
+     "81308",
+     "EXHIBIDORA BRIKET M4300 CENEFA"
+    ],
+    [
+     "81351",
+     "FILM STRETCH 50*25*5KG."
+    ],
+    [
+     "81474",
+     "CABLE P/ BLUETOOTH"
+    ],
+    [
+     "81475",
+     "CARGADOR DE BLUETOOTH"
+    ],
+    [
+     "81533",
+     "ORGANIZOR PLASTICO"
+    ],
+    [
+     "81577",
+     "GUANTE PVC MANO ASPERA LIVIANO"
+    ],
+    [
+     "81622",
+     "EXHIBIDORA GELOPAR VERTICAL 95"
+    ],
+    [
+     "81705",
+     "ARNES P/CASCO STIHL"
+    ],
+    [
+     "81714",
+     "ORGANIZADOR PLASTICO 30 LTS."
+    ],
+    [
+     "81715",
+     "ORGANIZADOR PLASTICO 20 LTS."
+    ],
+    [
+     "81716",
+     "ORGANIZADOR PLASTICO 11 LTS."
+    ],
+    [
+     "81717",
+     "BURETA DE VIDRIO 25ML"
+    ],
+    [
+     "81767",
+     "EXHIBIDORA JAM 450LTS. 1 PUERT"
+    ],
+    [
+     "81774",
+     "CABLE P/BLUETOOTH"
+    ],
+    [
+     "81870",
+     "CONSERVADORA 45,4 LTS."
+    ],
+    [
+     "81906",
+     "ORGANIZADOR PLASTICO 42LTS."
+    ],
+    [
+     "81959",
+     "FREEZER VERTICAL JAM 210 LTS."
+    ],
+    [
+     "81960",
+     "HELADERA JAM 325 LTS. 2 PUERTA"
+    ],
+    [
+     "81973",
+     "BOLSA DE BASURA 250LTS. VERDE"
+    ],
+    [
+     "81974",
+     "BOLSA DE BASURA 250LTS. AZUL"
+    ],
+    [
+     "81993",
+     "SILLA INTERLOCUTOR MIMI NEGRO"
+    ],
+    [
+     "82117",
+     "BALANZA ELECTRONICA GC150 CAP."
+    ],
+    [
+     "82273",
+     "ORGANIZADOR PLASTICO 40 LTS."
+    ],
+    [
+     "82339",
+     "PAPEL TOALLA 150MTS."
+    ],
+    [
+     "82425",
+     "IMPRESORA EPSON TM-T20X TERMIC"
+    ],
+    [
+     "82546",
+     "CABECERA C/ 2 MESITAS"
+    ],
+    [
+     "84382",
+     "FREIDORA ELECTRICA X UNID"
+    ],
+    [
+     "84598",
+     "CAMISA M/L C/LOGO BORDADO"
+    ],
+    [
+     "84599",
+     "PANTALON BEIG DE SARGA-NOMBRE"
+    ],
+    [
+     "84600",
+     "KEPIS NEGROS C/LOGO BORDADO"
+    ],
+    [
+     "84614",
+     "BOTIN MBARETE S/CORD. S/PUNT."
+    ],
+    [
+     "84615",
+     "BOTIN MBARETE S/CORD. S/PUNT."
+    ],
+    [
+     "84616",
+     "BOTIN S/CORDON PUNT. PLAST. N?"
+    ],
+    [
+     "84617",
+     "BOTIN S/CORDON PUNT. PLAST. N?"
+    ],
+    [
+     "84618",
+     "BOTIN S/CORDON PUNT. PLAST. N?"
+    ],
+    [
+     "84619",
+     "BOTIN S/CORDON PUNT. PLAST. N?"
+    ],
+    [
+     "84650",
+     "TERMOELECTRICO WEUA 12V/220V"
+    ],
+    [
+     "84658",
+     "BOBINA TERMICA 80X40"
+    ],
+    [
+     "84761",
+     "BALANZA ELECTRONICA GC300 60X6"
+    ],
+    [
+     "84970",
+     "CANASTA VERDE C/MANIJA CAP. 30"
+    ],
+    [
+     "85180",
+     "ADAPTADOR P/TERMO ELECTRICO 22"
+    ],
+    [
+     "85342",
+     "BOLSA CRYOVAC OT7240 412X500 -"
+    ],
+    [
+     "85343",
+     "BOLSA CRYOVAC OT7290 422X275"
+    ],
+    [
+     "85940",
+     "MAQUINA ENVASADORA AL VACIO DO"
+    ],
+    [
+     "86268",
+     "EXHIBIDORA UGUR 171 LTS. C/ CE"
+    ],
+    [
+     "86398",
+     "CARTUCHO 3M 6004 P/ AMONIACO"
+    ],
+    [
+     "86407",
+     "TRAJE P/PROTECCION QUIMICA TIP"
+    ],
+    [
+     "86408",
+     "TRAJE P/PROTECCION QUIMICA TIP"
+    ],
+    [
+     "87579",
+     "EXHIBIDORA GELOPAR VERTICAL 1."
+    ],
+    [
+     "87795",
+     "TELEVISOR JAM 43\""
+    ],
+    [
+     "87836",
+     "BALDE C/ REJILLA P/ ESCURRIR M"
+    ],
+    [
+     "88643",
+     "CUBIERTA 195/65 R15"
+    ],
+    [
+     "90303",
+     "TELEVISOR JAM 32\""
+    ],
+    [
+     "100320",
+     "PALLET PARA DERRAME"
+    ],
+    [
+     "80374",
+     "MAMELUCO TYCHEM 2000 AMARILLO"
+    ],
+    [
+     "18407",
+     "FRASCOS DE VIDRIOS 380 ML P/ E"
+    ],
+    [
+     "18408",
+     "FRASCOS DE VIDRIOS 260 ML P/ E"
+    ],
+    [
+     "18409",
+     "TAPAS PARA FRASCOS DE VIDRIOS"
+    ],
+    [
+     "20098",
+     "TRIPOLIFOSFATO M 216 S"
+    ],
+    [
+     "81213",
+     "CRYOVAC OT7250B FST 412X500 M1"
+    ],
+    [
+     "81214",
+     "CRYOVAC OT721B FSB 422X210 M27"
+    ],
+    [
+     "81314",
+     "CRYOVAC OT7230B FTT 412X609 M0"
+    ],
+    [
+     "82537",
+     "GOMA GUAR"
+    ],
+    [
+     "86033",
+     "BOLSAS NYLON POLY 200X180X160"
+    ],
+    [
+     "86034",
+     "BOLSAS NYLON POLY 200X200X140"
+    ],
+    [
+     "14653",
+     "HYPOFOAM"
+    ],
+    [
+     "19555",
+     "ALCOHOL EN GEL A GRANEL"
+    ],
+    [
+     "19600",
+     "JABON TOCADOR A GRANEL"
+    ],
+    [
+     "20376",
+     "CLORO"
+    ],
+    [
+     "20377",
+     "DESODORANTE"
+    ],
+    [
+     "20378",
+     "DETERGENTE"
+    ],
+    [
+     "20480",
+     "KIT ANTIBIOTICO CMT+ TEST 100"
+    ],
+    [
+     "21663",
+     "CERA P/PISO"
+    ],
+    [
+     "22992",
+     "BUFFER PH 10"
+    ],
+    [
+     "23318",
+     "HIDROXIDO DE SODIO 0.1"
+    ],
+    [
+     "85226",
+     "KIT P/ MILKO SCAN MARS"
+    ],
+    [
+     "19116",
+     "MOLDE PARA GALLETITAS"
+    ],
+    [
+     "84594",
+     "REMERA POLO C/LOGO BORDADO"
+    ],
+    [
+     "84595",
+     "REMERA BASICA C/IMPRESION-NOMB"
+    ],
+    [
+     "84596",
+     "PANTALON SARGA AZUL MARINO"
+    ],
+    [
+     "84597",
+     "KEPIS AZUL MARINO C/BORDADO"
+    ],
+    [
+     "131",
+     "PILOTO PARA LLUVIA"
+    ],
+    [
+     "4115",
+     "CABLE TPR 2X1MM"
+    ],
+    [
+     "4189",
+     "TOMA CORRIENTE COMUN CONATEL"
+    ],
+    [
+     "5532",
+     "PLACA 1 MOD. CONATEL HAB."
+    ],
+    [
+     "7324",
+     "DENSIMETRO PESA LECHE"
+    ],
+    [
+     "7559",
+     "OLLA A PRESION"
+    ],
+    [
+     "8393",
+     "TARUGO PLASTICO 8MM TIPO MARIP"
+    ],
+    [
+     "13096",
+     "RESISTENCIA VERTICAL ESSI COD-"
+    ],
+    [
+     "13236",
+     "CURVA P/ ELECTRODUCTO DE 25MM"
+    ],
+    [
+     "13363",
+     "REACTANCIA ELECTRONICA 2X36/40"
+    ],
+    [
+     "13484",
+     "BASURERO C/PEDAL DE 15 LTS."
+    ],
+    [
+     "15707",
+     "DUCHA C/LAVA OJOS ECONOMICO PC"
+    ],
+    [
+     "16196",
+     "SENSOR INDUCTIVO SICK IM18-05B"
+    ],
+    [
+     "16207",
+     "GANCHO DE PLASTICO P/ PARED"
+    ],
+    [
+     "16814",
+     "TERMOMETRO ENTRADA UNICA TIPO"
+    ],
+    [
+     "16815",
+     "SONDA DE TEMPERATURA TIPO K"
+    ],
+    [
+     "16822",
+     "RESISTENCIA CARTUCHO 600W 230V"
+    ],
+    [
+     "17236",
+     "CINTA ADHESIVA DOBLE FA 3M"
+    ],
+    [
+     "17263",
+     "AUTO PERFORANTE 8MM X 1\""
+    ],
+    [
+     "17280",
+     "RODILLO DE APOYO 90.2MM"
+    ],
+    [
+     "17343",
+     "FICHA INDUSTRIAL D PARED 3P.TI"
+    ],
+    [
+     "17612",
+     "FILTRO BOLSA 5MICR.BHN PP TIP."
+    ],
+    [
+     "17693",
+     "CINTA TERMINACION P/ CAÑERIAS"
+    ],
+    [
+     "18320",
+     "BASURERO C/PEDAL DE 50 LTS."
+    ],
+    [
+     "18371",
+     "PINTURA ACRILICA SUVINIL VERDE"
+    ],
+    [
+     "18372",
+     "PINTURA ACRILICA SUVINIL BLANC"
+    ],
+    [
+     "18373",
+     "PINTURA ACRILICA SUVINIL CERAM"
+    ],
+    [
+     "18596",
+     "CAMARA PARA RUEDA CARRITO 3.50"
+    ],
+    [
+     "18597",
+     "CUBIERTA PARA CARRITO 3.50-8"
+    ],
+    [
+     "18781",
+     "BASURERO C/PEDAL DE 100 LTS."
+    ],
+    [
+     "18914",
+     "RODILLO QUITA PELUSA"
+    ],
+    [
+     "19331",
+     "FLUORECENTE 18W DE EMISION LUZ"
+    ],
+    [
+     "19440",
+     "SP.P.KIT DE REPARO P/VALVULA C"
+    ],
+    [
+     "20420",
+     "CINTA HOT STAMPING-COLOR NEGRO"
+    ],
+    [
+     "20528",
+     "SILICONA BLANCO"
+    ],
+    [
+     "21809",
+     "CAJA CONEXIÓN"
+    ],
+    [
+     "21854",
+     "ESTOPA"
+    ],
+    [
+     "21885",
+     "PIEDRA BRUTA"
+    ],
+    [
+     "22028",
+     "RUEDITA PARA PORTON 3\""
+    ],
+    [
+     "22168",
+     "ARENA LAVADA P/EMPEDRADO"
+    ],
+    [
+     "22207",
+     "PINTURA VERDE PRADERA GALON DE"
+    ],
+    [
+     "22477",
+     "PIZARRA DE CORCHO 60X90"
+    ],
+    [
+     "23560",
+     "SELLO COMPLETO 1 A 3 LIN. N?91"
+    ],
+    [
+     "80765",
+     "JUNTA SUP.TOPE VALV. SEG 04729"
+    ],
+    [
+     "80969",
+     "PANEL VIEW PLUS - ESSI -E1972"
+    ],
+    [
+     "81082",
+     "SELLO COMPLETO 1 A 5 LIN. N? 9"
+    ],
+    [
+     "85341",
+     "PRESOSTATO AJUSTABLE 10BAR 1/4"
+    ],
+    [
+     "100321",
+     "PALLET BOX"
+    ],
+    [
+     "6570",
+     "TALONARIO CONTROL DE DEVOLUCIO"
+    ],
+    [
+     "8653",
+     "TL FACTURA 14-3"
+    ],
+    [
+     "8656",
+     "TL FACTURA 7-7"
+    ],
+    [
+     "8682",
+     "TL FACTURA 2-1"
+    ],
+    [
+     "8683",
+     "TL FACTURA 3-1"
+    ],
+    [
+     "8684",
+     "TL FACTURA 4-1"
+    ],
+    [
+     "8802",
+     "FC FACTURA 1-1"
+    ],
+    [
+     "8803",
+     "TL FACTURA 11-3"
+    ],
+    [
+     "8965",
+     "TL FACTURA 15-5"
+    ],
+    [
+     "8966",
+     "TL FACTURA 15-6"
+    ],
+    [
+     "8967",
+     "TL FACTURA 15-7"
+    ],
+    [
+     "8968",
+     "TL FACTURA 15-8"
+    ],
+    [
+     "9407",
+     "TL FACTURA 9-1"
+    ],
+    [
+     "9515",
+     "TL FACTURA 1-46"
+    ],
+    [
+     "9609",
+     "FC FACTURA 1-37"
+    ],
+    [
+     "9706",
+     "TL NOTA DE REMISION 1-1"
+    ],
+    [
+     "9709",
+     "FC FACTURA 13-5"
+    ],
+    [
+     "10361",
+     "TL FACTURA 16-1"
+    ],
+    [
+     "10364",
+     "TL FACTURA 1-1"
+    ],
+    [
+     "10365",
+     "TL FACTURA 12-3"
+    ],
+    [
+     "10366",
+     "TL FACTURA 10-2"
+    ],
+    [
+     "10431",
+     "FC FACTURA 1-15"
+    ],
+    [
+     "10432",
+     "FC FACTURA 1-21"
+    ],
+    [
+     "10540",
+     "FC FACTURA 1-26"
+    ],
+    [
+     "10751",
+     "FC FACTURA 1-14"
+    ],
+    [
+     "10752",
+     "FC FACTURA 1-16"
+    ],
+    [
+     "10753",
+     "FC FACTURA 1-17"
+    ],
+    [
+     "10754",
+     "FC FACTURA 1-18"
+    ],
+    [
+     "10755",
+     "FC FACTURA 1-19"
+    ],
+    [
+     "10756",
+     "FC FACTURA 1-20"
+    ],
+    [
+     "10757",
+     "FC FACTURA 1-22"
+    ],
+    [
+     "10758",
+     "FC FACTURA 1-23"
+    ],
+    [
+     "10759",
+     "FC FACTURA 1-24"
+    ],
+    [
+     "10760",
+     "FC FACTURA 1-27"
+    ],
+    [
+     "10761",
+     "FC FACTURA 1-28"
+    ],
+    [
+     "10762",
+     "FC FACTURA 1-29"
+    ],
+    [
+     "10763",
+     "FC FACTURA 1-30"
+    ],
+    [
+     "10764",
+     "FC FACTURA 1-31"
+    ],
+    [
+     "10765",
+     "FC FACTURA 1-32"
+    ],
+    [
+     "10766",
+     "FC FACTURA 1-33"
+    ],
+    [
+     "10767",
+     "FC FACTURA 1-35"
+    ],
+    [
+     "10768",
+     "FC FACTURA 1-36"
+    ],
+    [
+     "10769",
+     "FC FACTURA 1-45"
+    ],
+    [
+     "10830",
+     "TL FACTURA 13-7"
+    ],
+    [
+     "11349",
+     "FC FACTURA 9-7"
+    ],
+    [
+     "11350",
+     "FC FACTURA 9-2"
+    ],
+    [
+     "11351",
+     "FC FACTURA 9-8"
+    ],
+    [
+     "11363",
+     "TL FACTURA 16-2"
+    ],
+    [
+     "11764",
+     "FC FACTURA 1-13"
+    ],
+    [
+     "11765",
+     "FC ACTURA 9-9-NO USAR"
+    ],
+    [
+     "11766",
+     "FC FACTURA 9-10"
+    ],
+    [
+     "11767",
+     "FC FACTURA 9-11"
+    ],
+    [
+     "11768",
+     "TL NOTA DE CREDITO 5-1"
+    ],
+    [
+     "12009",
+     "TL NOTA DE CREDITO 1-1"
+    ],
+    [
+     "12120",
+     "FC FACTURA 5-1"
+    ],
+    [
+     "12121",
+     "FC FACTURA 5-3"
+    ],
+    [
+     "12122",
+     "FC FACTURA 5-7"
+    ],
+    [
+     "12123",
+     "FC FACTURA 5-8"
+    ],
+    [
+     "12124",
+     "FC FACTURA 5-9"
+    ],
+    [
+     "12125",
+     "FC FACTURA 5-10"
+    ],
+    [
+     "12739",
+     "TL FACTURA 13-8"
+    ],
+    [
+     "12740",
+     "TL FACTURA 18-1"
+    ],
+    [
+     "12741",
+     "TL FACTURA 18-2"
+    ],
+    [
+     "13285",
+     "FC FACTURA 1-66"
+    ],
+    [
+     "13887",
+     "FC FACTURA 9-12"
+    ],
+    [
+     "14613",
+     "FC FACTURA 7-1"
+    ],
+    [
+     "14614",
+     "FC FACTURA 7-2"
+    ],
+    [
+     "14615",
+     "FC FACTURA 7-5"
+    ],
+    [
+     "14616",
+     "FC FACTURA 7-13"
+    ],
+    [
+     "15233",
+     "FC FACTURA 1-78"
+    ],
+    [
+     "15391",
+     "FC.CONT 13-5 (NO USAR)"
+    ],
+    [
+     "15682",
+     "TL FACTURA 18-3"
+    ],
+    [
+     "16223",
+     "FC FACTURA 13-7"
+    ],
+    [
+     "16224",
+     "FC FACTURA 13-8"
+    ],
+    [
+     "16259",
+     "FC FACTURA 5-16"
+    ],
+    [
+     "16408",
+     "TL NOTA DE CREDITO 1-26"
+    ],
+    [
+     "16409",
+     "TL NOTA DE CREDITO 1-18"
+    ],
+    [
+     "16410",
+     "TL NOTA DE CREDITO 1-35"
+    ],
+    [
+     "16411",
+     "TL NOTA DE CREDITO 1-19"
+    ],
+    [
+     "16412",
+     "TL NOTA DE CREDITO 5-2"
+    ],
+    [
+     "16413",
+     "TL NOTA DE CREDITO 5-3"
+    ],
+    [
+     "16495",
+     "FC FACTURA 1-80"
+    ],
+    [
+     "16600",
+     "FC FACTURA 1-82"
+    ],
+    [
+     "16642",
+     "FC FACTURA 7-14"
+    ],
+    [
+     "16742",
+     "TL NOTA DE CREDITO 1-29"
+    ],
+    [
+     "16841",
+     "FC FACTURA 9-13"
+    ],
+    [
+     "16933",
+     "TL NOTA DE CREDITO 7-15"
+    ],
+    [
+     "16934",
+     "TL NOTA DE REMISION 1-83"
+    ],
+    [
+     "16935",
+     "TL NOTA DE REMISION 1-84"
+    ],
+    [
+     "16936",
+     "TL NOTA DE REMISION 1-85"
+    ],
+    [
+     "16937",
+     "TL NOTA DE REMISION 1-86"
+    ],
+    [
+     "17094",
+     "TL FACTURA 10-1"
+    ],
+    [
+     "17095",
+     "FC FACTURA 1-88"
+    ],
+    [
+     "17096",
+     "FC FACTURA 9-14"
+    ],
+    [
+     "17235",
+     "FC FACTURA 9-9"
+    ],
+    [
+     "17289",
+     "FC FACTURA 18-2"
+    ],
+    [
+     "17290",
+     "FC FACTURA 18-3"
+    ],
+    [
+     "17353",
+     "TL NOTA DE CREDITO 5-7"
+    ],
+    [
+     "17354",
+     "FC FACTURA 9-16"
+    ],
+    [
+     "17355",
+     "TL NOTA DE REMISION 9-15"
+    ],
+    [
+     "17407",
+     "FC FACTURA 16 - 10"
+    ],
+    [
+     "17596",
+     "FC FACTURA 5-17"
+    ],
+    [
+     "17735",
+     "FC FACTURA 1-91"
+    ],
+    [
+     "17766",
+     "FC FACTURA 1-92"
+    ],
+    [
+     "17767",
+     "FC FACTURA 7-16"
+    ],
+    [
+     "17909",
+     "FC FACTURA 9-17"
+    ],
+    [
+     "17972",
+     "FC FACTURA 18-7"
+    ],
+    [
+     "17973",
+     "FC FACTURA 13-9"
+    ],
+    [
+     "18080",
+     "FC FACTURA 1-93"
+    ],
+    [
+     "18311",
+     "FC FACTURA 1-94"
+    ],
+    [
+     "18312",
+     "FC FACTURA 1-95"
+    ],
+    [
+     "18329",
+     "FC FACTURA 5-18"
+    ],
+    [
+     "18415",
+     "TL DEVOLUCION P PROMOTORES"
+    ],
+    [
+     "18463",
+     "TL NOTA DE CREDITO 1-82"
+    ],
+    [
+     "19164",
+     "TL FACTURA 19-4"
+    ],
+    [
+     "19239",
+     "FC FACTURA 18-8"
+    ],
+    [
+     "19702",
+     "FC FACTURA 1-98"
+    ],
+    [
+     "19819",
+     "FC FACTURA 16 - 11"
+    ],
+    [
+     "19937",
+     "FC FACTURA 7-17"
+    ],
+    [
+     "20000",
+     "FC FACTURA 1-99"
+    ],
+    [
+     "21124",
+     "TALONARIO RECIBO"
+    ],
+    [
+     "80042",
+     "FC FACTURA 1-100"
+    ],
+    [
+     "80111",
+     "FC FACTURA 1-101"
+    ],
+    [
+     "80112",
+     "FC FACTURA 1-102"
+    ],
+    [
+     "80124",
+     "FC FACTURA 13-10"
+    ],
+    [
+     "80223",
+     "TL NOTA DE REMISION 11-3"
+    ],
+    [
+     "80224",
+     "TL NOTA DE REMISION 12-3"
+    ],
+    [
+     "80225",
+     "TL NOTA DE REMISION 13-10"
+    ],
+    [
+     "80226",
+     "TL NOTA DE REMISION 16-10"
+    ],
+    [
+     "80227",
+     "TL NOTA DE REMISION 18-2"
+    ],
+    [
+     "80228",
+     "TL NOTA DE REMISION 19-4"
+    ],
+    [
+     "80229",
+     "TL NOTA DE REMISION 1-46"
+    ],
+    [
+     "80230",
+     "TL NOTA DE REMISION 2-1"
+    ],
+    [
+     "80231",
+     "TL NOTA DE REMISION 3-1"
+    ],
+    [
+     "80232",
+     "TL NOTA DE REMISION 4-1"
+    ],
+    [
+     "80233",
+     "TL NOTA DE REMISION 5-3"
+    ],
+    [
+     "80234",
+     "TL NOTA DE REMISION 7-2"
+    ],
+    [
+     "80235",
+     "TL NOTA DE REMISION 9-2"
+    ],
+    [
+     "80465",
+     "FC FACTURA 1-103"
+    ],
+    [
+     "80769",
+     "FC FACTURA 1-104"
+    ],
+    [
+     "80803",
+     "TL NOTA DE CREDITO 5-8"
+    ],
+    [
+     "80804",
+     "TL NOTA DE CREDITO 5-16"
+    ],
+    [
+     "80916",
+     "TL NOTA DE CREDITO 5-10"
+    ],
+    [
+     "81379",
+     "TL NOTA DE CREDITO 1-95"
+    ],
+    [
+     "81442",
+     "FC FACTURA 9-19"
+    ],
+    [
+     "82074",
+     "FC FACTURA 1-105"
+    ],
+    [
+     "82279",
+     "TL NOTA DE REMISION 20-4"
+    ],
+    [
+     "82280",
+     "TL FACTURA 20-4"
+    ],
+    [
+     "82500",
+     "FC FACTURA 1-106"
+    ],
+    [
+     "84981",
+     "FC FACTURA 24-4"
+    ],
+    [
+     "84982",
+     "FC FACTURA 24-5"
+    ],
+    [
+     "85012",
+     "FC FACTURA 24-6"
+    ],
+    [
+     "85478",
+     "TL NOTA DE ENVIO 1/250"
+    ],
+    [
+     "81132",
+     "ESTRUCTURA PARA DOSAJE DE AZUC"
+    ],
+    [
+     "93",
+     "JARRA"
+    ],
+    [
+     "3990",
+     "PAPEL HIGIENICO X300MTS"
+    ],
+    [
+     "4214",
+     "TINTA HP 60 NEGRO"
+    ],
+    [
+     "4215",
+     "TINTA HP 60 COLOR"
+    ],
+    [
+     "4228",
+     "LIMPIA VIDRIOS CON PULVERIZADO"
+    ],
+    [
+     "4353",
+     "ROLO PACK 38X1000"
+    ],
+    [
+     "5247",
+     "TONER COMPATIBLE 05A"
+    ],
+    [
+     "6173",
+     "CUCURUCHOS"
+    ],
+    [
+     "6578",
+     "TONER COMPATIBLE 49A"
+    ],
+    [
+     "6588",
+     "DESODORANTE EN AEROSOL"
+    ],
+    [
+     "6694",
+     "MOPA LARGA ALGODON C/ROSCA"
+    ],
+    [
+     "6880",
+     "PLUMERO"
+    ],
+    [
+     "7154",
+     "TINTA HP 122 NEGRO"
+    ],
+    [
+     "7198",
+     "CINTA CRT ERC TIQ.SALONES"
+    ],
+    [
+     "7447",
+     "TINTA HP 122 COLOR"
+    ],
+    [
+     "7596",
+     "BANDEJA P/QUESO VERDE - CON LO"
+    ],
+    [
+     "7796",
+     "TINTA HP 670 NEGRO"
+    ],
+    [
+     "7798",
+     "TINTA HP 670 YELLOW"
+    ],
+    [
+     "7799",
+     "TINTA HP 670 CYAN"
+    ],
+    [
+     "8091",
+     "BOLSA DE BASURA 200LTS"
+    ],
+    [
+     "8092",
+     "BOLSA DE BASURA 150LTS"
+    ],
+    [
+     "8093",
+     "BOLSA DE BASURA 100LTS"
+    ],
+    [
+     "8094",
+     "BOLSA DE BASURA 60LTS"
+    ],
+    [
+     "8095",
+     "BOLSA DE BASURA 80LTS"
+    ],
+    [
+     "8096",
+     "BOLSA DE BASURA 40LTS"
+    ],
+    [
+     "8407",
+     "CINTA DE EMBALAJE ROJO"
+    ],
+    [
+     "10328",
+     "TONER COMPATIBLE 78A"
+    ],
+    [
+     "10838",
+     "CINTA DE EMBALAJE AMARILLA"
+    ],
+    [
+     "12506",
+     "TONER COMPATIBLE 203 U P/SAMSU"
+    ],
+    [
+     "12800",
+     "SPRAY ANTIBAC"
+    ],
+    [
+     "12801",
+     "PAÑO ABSORBENTE AZUL/ROJO"
+    ],
+    [
+     "13472",
+     "PALITA DE PLASTICO"
+    ],
+    [
+     "13573",
+     "CEPILLO HYDRO WATER"
+    ],
+    [
+     "14264",
+     "EXHIBIDORA UGUR 2 PUERTAS 771L"
+    ],
+    [
+     "14352",
+     "JERINGA 10CC"
+    ],
+    [
+     "14840",
+     "FIBRA BLANCA P/ LIMPIEZA X 10"
+    ],
+    [
+     "15047",
+     "TINTA HP 664 NEGRO"
+    ],
+    [
+     "15048",
+     "TINTA HP 664 COLOR"
+    ],
+    [
+     "16404",
+     "CIF CREMA 750GR"
+    ],
+    [
+     "16407",
+     "CIF LIQUIDO"
+    ],
+    [
+     "16794",
+     "PALLET PLASTICO IMPORTADO"
+    ],
+    [
+     "17313",
+     "PISO PLASTICO M5060 VERDE/AZUL"
+    ],
+    [
+     "17558",
+     "BACTERI KILL 400 ML"
+    ],
+    [
+     "17722",
+     "CINTA ADHESIVA (PROMOCION ESPE"
+    ],
+    [
+     "18037",
+     "BATA QUIRURGICA"
+    ],
+    [
+     "18117",
+     "BOLSA TERM. PROMO P/ SACHET"
+    ],
+    [
+     "18644",
+     "BOLSA DE BASURA 300 LTS"
+    ],
+    [
+     "19196",
+     "TONER COMPATIBLE 30A"
+    ],
+    [
+     "19298",
+     "JABON DE COCO EN PAN LAGO AZUL"
+    ],
+    [
+     "19325",
+     "PAPEL TOALLA 200MTS."
+    ],
+    [
+     "19922",
+     "UNIDAD DE IMAGEN HP32A"
+    ],
+    [
+     "20406",
+     "AGUA DESTILADA"
+    ],
+    [
+     "20737",
+     "RESMA PAPEL CARTA"
+    ],
+    [
+     "20743",
+     "RESMA PAPEL OFICIO"
+    ],
+    [
+     "20744",
+     "CINTA P/IMPRESORA LX300 CARRO"
+    ],
+    [
+     "20745",
+     "PAPEL HIGIENICO 30MTS."
+    ],
+    [
+     "20748",
+     "TAPA BOCA CON ELASTICO"
+    ],
+    [
+     "20750",
+     "PAJITAS"
+    ],
+    [
+     "20856",
+     "JERINGA 5CC"
+    ],
+    [
+     "21062",
+     "CALCULADORA MANUAL 12 DIGITOS"
+    ],
+    [
+     "21184",
+     "CINTA DE EMBALAJE TRASPARENTE"
+    ],
+    [
+     "21308",
+     "CUCHARITAS P/DEGUSTACION"
+    ],
+    [
+     "21316",
+     "ESCOBA CERDA NORMAL"
+    ],
+    [
+     "21393",
+     "COFIAS DESECHABLES"
+    ],
+    [
+     "21412",
+     "REJILLA"
+    ],
+    [
+     "21413",
+     "FRANELA"
+    ],
+    [
+     "21435",
+     "PAPEL ALUMINIO"
+    ],
+    [
+     "21486",
+     "NAFTALINA"
+    ],
+    [
+     "21662",
+     "ESCURRIDOR"
+    ],
+    [
+     "21705",
+     "SOPAPA P/ CISTERNA"
+    ],
+    [
+     "21917",
+     "TRAPO DE PISO"
+    ],
+    [
+     "21951",
+     "CUBRE CALZADOS"
+    ],
+    [
+     "22045",
+     "TALONARIO ORDEN DE PEDIDO"
+    ],
+    [
+     "22421",
+     "ESPONJA"
+    ],
+    [
+     "22730",
+     "ESCOBILLON CHICO"
+    ],
+    [
+     "23383",
+     "PASTILLA P/ INODORO"
+    ],
+    [
+     "23458",
+     "INSECTICIDA AEROSOL"
+    ],
+    [
+     "26126",
+     "DELANTAL BLANCO/GRIS"
+    ],
+    [
+     "26677",
+     "RESMA A4"
+    ],
+    [
+     "80333",
+     "BOLSA DE BASURA 250LTS."
+    ],
+    [
+     "80502",
+     "TONER COMPATIBLE TN-850"
+    ],
+    [
+     "80712",
+     "MASCARILLA N95 DOBLABLE C/ VAL"
+    ],
+    [
+     "80731",
+     "TONER DRUM P/TN-850 (DR-820)"
+    ],
+    [
+     "80746",
+     "BOLSA 90*60*20 S/PERFORAR"
+    ],
+    [
+     "80775",
+     "FILM POF 250*1067*19MIC"
+    ],
+    [
+     "80810",
+     "ESTANTE INOX"
+    ],
+    [
+     "80811",
+     "ESTANTE DE CAJAS COMPLETO"
+    ],
+    [
+     "80891",
+     "FILM POF 400X1332X15MIC"
+    ],
+    [
+     "80952",
+     "TONER COMPATIBLE TN660/2370"
+    ],
+    [
+     "81065",
+     "FIBRA VERDE P/ZOCALERO X 10"
+    ],
+    [
+     "81087",
+     "MOPA ALGODON P/DOBLADA MECHA"
+    ],
+    [
+     "81167",
+     "TONER DRUM P/TN-660"
+    ],
+    [
+     "81227",
+     "TONER COMPATIBLE 116 P/SAMSUNG"
+    ],
+    [
+     "81361",
+     "TONER DRUM 116 P/SAMSUNG"
+    ],
+    [
+     "81377",
+     "TINTA HP 667 NEGRO"
+    ],
+    [
+     "81378",
+     "TINTA HP 667 COLOR"
+    ],
+    [
+     "81385",
+     "LECTOR COD.DE BARRA HF680 HONE"
+    ],
+    [
+     "81547",
+     "TONER COMPATIBLE 330A"
+    ],
+    [
+     "81610",
+     "TONER COMPATIBLE 58A"
+    ],
+    [
+     "81826",
+     "LUSTRA MUEBLE"
+    ],
+    [
+     "81972",
+     "BOLSA DE BASURA 250LTS. AMARIL"
+    ],
+    [
+     "82252",
+     "TONER DRUM P/330A HP408"
+    ],
+    [
+     "82260",
+     "PAPEL TOALLA 120MTS"
+    ],
+    [
+     "84802",
+     "CARTEL SEÑALIZADOR PISO MOJADO"
+    ],
+    [
+     "84827",
+     "ETIQ.ADHESIVA 60X40 P/BALANZA"
+    ],
+    [
+     "84980",
+     "IMPRESORA PORTATIL E3 PLUS"
+    ],
+    [
+     "85000",
+     "BANDEJA DE ISOPOR B190-1 AMARI"
+    ],
+    [
+     "85133",
+     "BOBINA TERMICA 80X44"
+    ],
+    [
+     "85844",
+     "JARRITA JUGIT VERDE"
+    ],
+    [
+     "85915",
+     "JARRITA JUGIT BLANCO"
+    ],
+    [
+     "86146",
+     "TONER TK-3182 P/ FOTOCOPIADORA"
+    ],
+    [
+     "86596",
+     "PASTILLA ADHESIVA P/ INODORO"
+    ],
+    [
+     "86597",
+     "RECARGA AEROSOL P/ AROMATIZADO"
+    ],
+    [
+     "87837",
+     "CINTA DE EMBALAJE VERDE"
+    ],
+    [
+     "87852",
+     "BOLSA CAMISILLA \"M\" 40X50 LP"
+    ],
+    [
+     "87853",
+     "BOLSA CAMISILLA \"G\" 50X60 LP"
+    ],
+    [
+     "88516",
+     "TONER BROTHER COMPATIBLE TN360"
+    ],
+    [
+     "89258",
+     "TONER DRUM BROTHER 3609"
+    ],
+    [
+     "89581",
+     "BOLSA CAMISILLA 40*50 \"M\" ALBI"
+    ],
+    [
+     "89582",
+     "BOLSA CAMISILLA 50*60 \"G\" ALBI"
+    ],
+    [
+     "107201",
+     "JARRITA JUGIT LILA"
+    ],
+    [
+     "107202",
+     "JARRITA JUGIT MARRON"
+    ],
+    [
+     "83167",
+     "EMBUDO GALVANIZADO"
+    ],
+    [
+     "19960",
+     "AIRE ACONDICIONADO 24000 BTU J"
+    ],
+    [
+     "81584",
+     "MILKO SCAN TM MARS"
+    ],
+    [
+     "19334",
+     "GUANTE POLIETILENO X 100 UNID"
+    ],
+    [
+     "19588",
+     "GUANTE NITRILO DESECHABLE"
+    ],
+    [
+     "21523",
+     "GUANTE TELA ANTIDESLIZANTE"
+    ],
+    [
+     "22799",
+     "GUANTE NITRILO VERDE"
+    ],
+    [
+     "80411",
+     "PROTECTOR AUDITIVO SILICONADO"
+    ],
+    [
+     "80467",
+     "TAPON AUTIDITIVO SILICONA C/CA"
+    ],
+    [
+     "80663",
+     "CORTADOR DESECHABLE DE FILM"
+    ],
+    [
+     "80713",
+     "ANTEOJO ANTIPARRA SG5958 INCOL"
+    ],
+    [
+     "80792",
+     "FAJA LUMBAR BLUNDING (P)"
+    ],
+    [
+     "80793",
+     "FAJA LUMBAR BLUNDING (M)"
+    ],
+    [
+     "80794",
+     "FAJA LUMBAR BLUNDING (L)"
+    ],
+    [
+     "81290",
+     "GUANTE 6201 NYLON RECUBIERTO C"
+    ],
+    [
+     "86154",
+     "GUANTE PVC MANO ASPERA LIVIANO"
+    ]
+   ]
+  },
+  {
+   "id": "taller",
+   "nombre": "Taller",
+   "items": [
+    [
+     "19248",
+     "ACCEPTOR GAMMA 70I"
+    ],
+    [
+     "20374",
+     "ACIDO NITRICO"
+    ],
+    [
+     "82262",
+     "ACIDO NITRICO 60% POR 35 KLOS"
+    ],
+    [
+     "20371",
+     "AGUA OXIGENADA"
+    ],
+    [
+     "14008",
+     "AGUA OXIGENADA AL 35%"
+    ],
+    [
+     "81471",
+     "AGUA OXIGENADA 60%"
+    ],
+    [
+     "20372",
+     "ALCOHOL RECTIFICADO"
+    ],
+    [
+     "90177",
+     "ANTIESPUMANTE ADOX 404"
+    ],
+    [
+     "18655",
+     "BIO A 506"
+    ],
+    [
+     "15231",
+     "BIO A508"
+    ],
+    [
+     "20373",
+     "BIO FS - 307"
+    ],
+    [
+     "89434",
+     "BIOACT P/ EFLUENTE"
+    ],
+    [
+     "89435",
+     "BIOFLOW P/ EFLUENTE"
+    ],
+    [
+     "19247",
+     "BIOGENIUN SUPERMIX GTI"
+    ],
+    [
+     "81001",
+     "BOOSTER UB 31"
+    ],
+    [
+     "20376",
+     "CLORO"
+    ],
+    [
+     "18783",
+     "DELLADET POR 21 KL"
+    ],
+    [
+     "20377",
+     "DESODORANTE"
+    ],
+    [
+     "20378",
+     "DETERGENTE"
+    ],
+    [
+     "88710",
+     "DETERGENTE LM MAX 5L 1:40 4PZ INDUSTRIAL"
+    ],
+    [
+     "88751",
+     "DETERGENTE X4 SUPRA 5L 1:100 APZ INDUSTR"
+    ],
+    [
+     "80247",
+     "DIVOSAN FORTE"
+    ],
+    [
+     "20379",
+     "DIVOSAN MH"
+    ],
+    [
+     "86899",
+     "EASYFOAM"
+    ],
+    [
+     "84939",
+     "HERBICIDA PADRON X 20 LTS"
+    ],
+    [
+     "14653",
+     "HYPOFOAM"
+    ],
+    [
+     "88513",
+     "INAP 508"
+    ],
+    [
+     "85537",
+     "INHIBIDOR DE OLOR GSI"
+    ],
+    [
+     "19288",
+     "JONCLEAR 80 X 20KLS"
+    ],
+    [
+     "87332",
+     "LIMPIADOR DE PISOS DUMOX LP60"
+    ],
+    [
+     "88657",
+     "NEUTRALIZADOR DE OLOR EVO"
+    ],
+    [
+     "86975",
+     "PLURON NITRICO"
+    ],
+    [
+     "86974",
+     "PLURON 447 AE"
+    ],
+    [
+     "86976",
+     "PLURON 786 B5"
+    ],
+    [
+     "80220",
+     "POLICLORURO ALUMINIO LIQ."
+    ],
+    [
+     "14006",
+     "POLICLORURO DE ALUMINIO"
+    ],
+    [
+     "16039",
+     "POLIMERO ANIONICO( MAXICIFLOC 301 )"
+    ],
+    [
+     "80933",
+     "POLIMERO BUFLOC 5292 ANIONICO"
+    ],
+    [
+     "84788",
+     "POLIMERO CAT MT 630"
+    ],
+    [
+     "87711",
+     "POLIMERO SIDERFLEX 5311 ANIONICO"
+    ],
+    [
+     "81329",
+     "POLIMERO SIDERFLEX 5645 CATIONICO"
+    ],
+    [
+     "81782",
+     "PROPILEN GLYCOL USP-DOW"
+    ],
+    [
+     "81002",
+     "RESOURCE - AA"
+    ],
+    [
+     "20383",
+     "SODA CAUSTICA EN ESCAMA"
+    ],
+    [
+     "20384",
+     "SODA CAUSTICA LIQ."
+    ],
+    [
+     "89841",
+     "SODA ESCAMA P/CORRECCION"
+    ],
+    [
+     "82182",
+     "SODA LIQUIDA POR 30KG AL 50%"
+    ],
+    [
+     "22273",
+     "SULFATO DE ALUMINIO POLVO"
+    ],
+    [
+     "86175",
+     "SUPER DILAC"
+    ],
+    [
+     "20686",
+     "AMONIACO ANHIDRIDO"
+    ],
+    [
+     "81986",
+     "ABRAZADERA P/MANGUERA DE VACIO"
+    ],
+    [
+     "86501",
+     "ACTUADOR VJ 6230"
+    ],
+    [
+     "87228",
+     "AIRE ACOMDICIONADO COD. 38604"
+    ],
+    [
+     "86531",
+     "ANILLO SELLADOR S/ROSCA 73"
+    ],
+    [
+     "86553",
+     "ANILLO SELLADOR S/ROSCA 88"
+    ],
+    [
+     "88760",
+     "ANILLO SELLADOR 73 C/RAYA S/ROSCA"
+    ],
+    [
+     "88328",
+     "AUXILIARY POWER SUPPLY BOARD"
+    ],
+    [
+     "89830",
+     "BANDA MODULAR EC508C CERRA.ANCHO 400M"
+    ],
+    [
+     "86550",
+     "BANDA TRANSP.E3/1UO/UO 80X3600MM BLCA"
+    ],
+    [
+     "86563",
+     "BANDA TRANSPORT.E 3/1UO/UO FDA 80X2690"
+    ],
+    [
+     "81984",
+     "BARRA DE SOLDADURA"
+    ],
+    [
+     "89290",
+     "BASE P/ SOPORTE"
+    ],
+    [
+     "86586",
+     "BOBINA DANFOS 018F6176 220V 50HZ"
+    ],
+    [
+     "87640",
+     "BOBINA DANFOS 220V P/VALVU.IP67 SOLENOI."
+    ],
+    [
+     "88335",
+     "BOMBA NEUMATICA TAMBOR 200L ALUMINIO"
+    ],
+    [
+     "89061",
+     "BOMBA TORNILLO VERT KVB25"
+    ],
+    [
+     "86555",
+     "BULON TERMOSELLADOR 4024-0013-0000"
+    ],
+    [
+     "86535",
+     "BULON TERMOSELLADOR 4024-0022-0000"
+    ],
+    [
+     "85199",
+     "BURLETE P/CAMARA 93-100637"
+    ],
+    [
+     "88327",
+     "BY-PASS BOARD"
+    ],
+    [
+     "90234",
+     "C.ROTOR 25 316L REF:10256 INOXPA"
+    ],
+    [
+     "86538",
+     "CAÑO PASACABLE 4059-0025-0000"
+    ],
+    [
+     "86556",
+     "CAÑO PASACABLE 4059-0087-0000"
+    ],
+    [
+     "87774",
+     "CABEZAL DE IMPRESION"
+    ],
+    [
+     "89900",
+     "CABLE DE CONEXION P/SEVOMOTOR 2090-CSWM1"
+    ],
+    [
+     "88629",
+     "CAJA REDUCTORA C/VOLANTE 2A6\"040200-2120"
+    ],
+    [
+     "11927",
+     "CARBON PARA SELLO MECANICO 25MM"
+    ],
+    [
+     "86510",
+     "CARTER REDUCTOR SA77/SF77"
+    ],
+    [
+     "87016",
+     "CILINDRO BRONCE COD.11131238080"
+    ],
+    [
+     "86502",
+     "CONJUNTO DE SENSOR VJ 6230"
+    ],
+    [
+     "86584",
+     "CONTROL DE NIVEL P/AMONIACO AKS38-148H31"
+    ],
+    [
+     "86545",
+     "CUBO DE ROTULA 4025-0004-0000"
+    ],
+    [
+     "87693",
+     "CUBO ESTRIADO WCR71/119 CARC A0016901"
+    ],
+    [
+     "87611",
+     "CUERPO PEDROLLO BLOCK F32/200A 10HP"
+    ],
+    [
+     "86000",
+     "DESCALCIFICADOR EN LINEA ADL-5W"
+    ],
+    [
+     "89345",
+     "DESHUMECTADOR GUNTNER P/OREO DE QUESO"
+    ],
+    [
+     "88475",
+     "DETECTOR DE AMONIACO MSA A2X GRIS1015407"
+    ],
+    [
+     "88536",
+     "DETECTOR FIJO GAS AMONIACO SG100-NI-13-R"
+    ],
+    [
+     "86542",
+     "DIAFRAGMA 68 1131-XXXX-0001"
+    ],
+    [
+     "87341",
+     "EJE INOX PARA MOTOR"
+    ],
+    [
+     "87694",
+     "EJE SIN FIN COMPACTO WCR84 A0016351"
+    ],
+    [
+     "88952",
+     "ELECTROVALVULA VJ DATAFLEX BABY 403356"
+    ],
+    [
+     "11348",
+     "ELEMENTO FILTRANTE E220 A1 HB"
+    ],
+    [
+     "89452",
+     "ENVASADORA DOBLE CAMPANA MULTIVAC P700"
+    ],
+    [
+     "86022",
+     "EQUIPO AUTONOMO"
+    ],
+    [
+     "87676",
+     "EQUIPO FECHADORA TTO 6210 VIDEOJET"
+    ],
+    [
+     "89133",
+     "ESCUADRA DE FIJACION M56-WP-FESTO"
+    ],
+    [
+     "87222",
+     "ESTANDARIZADOR COD.218910"
+    ],
+    [
+     "89411",
+     "FANTINI COSMI FF82 FLUXOSTATO P/LIQ"
+    ],
+    [
+     "84969",
+     "FECHADORA VIDEOJET MODELO VJ1220"
+    ],
+    [
+     "89737",
+     "FILTRO ARMONICO APFGD-150/0,4 P/ UPS"
+    ],
+    [
+     "89899",
+     "FILTRO DE LINEA TRIF.2198-DB42-F"
+    ],
+    [
+     "88626",
+     "FILTRO ELGIN 084-1/2 ROSCADO"
+    ],
+    [
+     "82313",
+     "FMF 5-SENSOR DE HUMO AUTOMATICO 9V"
+    ],
+    [
+     "86536",
+     "GOMA CAÑO PASACABLE 1133-XXXX-0001"
+    ],
+    [
+     "81493",
+     "GOMA EMPAQUETADURA 79,3MM X 63,5MM"
+    ],
+    [
+     "87476",
+     "GUIAS DE BRONCE C/PERFORACION Y FRESADOS"
+    ],
+    [
+     "86686",
+     "HMI PI3070IG-O"
+    ],
+    [
+     "88334",
+     "IGBT"
+    ],
+    [
+     "87612",
+     "IMPULSOR P/ PEDROLLO F32/200C"
+    ],
+    [
+     "86528",
+     "INSUMO PARA VIDEO JET"
+    ],
+    [
+     "88332",
+     "INTERFACE BOARD"
+    ],
+    [
+     "17509",
+     "INTERRUCTOR DE NIVEL LIQUIPHANT FTL33"
+    ],
+    [
+     "82376",
+     "INTERRUPTOR DE NIVEL CLEVER LBFS-PNP"
+    ],
+    [
+     "88329",
+     "INVERER DRIVE BOARD (RST)"
+    ],
+    [
+     "88330",
+     "INVERTER CONTROL BOARD (RST)"
+    ],
+    [
+     "12967",
+     "JUEGO COJINETE DE BIELA"
+    ],
+    [
+     "87387",
+     "JUNTA CLAMP VALVULA VNR1T"
+    ],
+    [
+     "87613",
+     "KIT DE REPARO CILINDRO ACE 63"
+    ],
+    [
+     "87383",
+     "KIT JUNTAS LLDN40 VP2T ACTUADOR"
+    ],
+    [
+     "81804",
+     "LIQUICAP MFMI51-A1BGGJB1A1A"
+    ],
+    [
+     "85936",
+     "MANGUERA DE VACIO COD.8181710300"
+    ],
+    [
+     "81985",
+     "MANGUERA DE VACIO TOMA DE VACIO 4TRAM."
+    ],
+    [
+     "82162",
+     "MANGUERA PVC SANITARIA DE 25MM"
+    ],
+    [
+     "87410",
+     "MANIFOLF DISCHARGE,ANSI WILDEN"
+    ],
+    [
+     "88908",
+     "MANOMETRO DE PRESION P/HOMOGENIZADORA"
+    ],
+    [
+     "87728",
+     "MAQUINA DOSIFICADORAY PASTA PPF-1000"
+    ],
+    [
+     "87223",
+     "MOTOBOMBA COD.24035926"
+    ],
+    [
+     "87224",
+     "MOTOBOMBA COD.24035927"
+    ],
+    [
+     "87225",
+     "MOTOBOMBA COD.24035928"
+    ],
+    [
+     "87227",
+     "MOTOBOMBA COD.34000"
+    ],
+    [
+     "87226",
+     "MOTOBOMBA COD.8326"
+    ],
+    [
+     "87537",
+     "MOTOR ASICRONO DRN100LS4/FG"
+    ],
+    [
+     "87538",
+     "MOTOR ASICRONO DRN132S4/FG"
+    ],
+    [
+     "84961",
+     "MOTOREDUCTOR M08 5,5HP"
+    ],
+    [
+     "87411",
+     "MUFFLER PLATE P1/P2-WILDEN"
+    ],
+    [
+     "87478",
+     "M2 3TX5500X80MM F31"
+    ],
+    [
+     "86551",
+     "ORING 2330 VITON (PISTON)2052-2XXX-0232"
+    ],
+    [
+     "86564",
+     "ORING 2334 VITON (PISTON)2051-2XXX-0236"
+    ],
+    [
+     "89832",
+     "PERFIL DE DESLIZAMIENTO LAT.25MMX35MM"
+    ],
+    [
+     "89833",
+     "PERFIL DESLIZAMIENTO RECTANG.20MMX30MM"
+    ],
+    [
+     "87278",
+     "PERNO INOX P/VAJADA DE VASO PYC"
+    ],
+    [
+     "90332",
+     "PICO DE VALVULA DE 3GUIAS AT5/4-36"
+    ],
+    [
+     "88953",
+     "PISTON VJ DATAFLEX BABY SP103004"
+    ],
+    [
+     "88887",
+     "PORTA GOMA SELLADO HORIZONTAL"
+    ],
+    [
+     "81014",
+     "PORTA RESISTENCIA ALUMINIO P/SELLO"
+    ],
+    [
+     "4180",
+     "PORTA RESISTENCIA DE ALUM.VERTICAL"
+    ],
+    [
+     "87841",
+     "RALLADOR DE QUESO INOX"
+    ],
+    [
+     "89289",
+     "RASPADOR P/ ENFRIADOR"
+    ],
+    [
+     "88331",
+     "RECTIFIER/RECTIFICATION CONTROL BOARD"
+    ],
+    [
+     "88773",
+     "REDUCTOR FCNDK63 1.40 IEC80-B5 1,00HP"
+    ],
+    [
+     "86509",
+     "REDUCTOR SHF77/A"
+    ],
+    [
+     "86530",
+     "RESISTENCIA 5/8 X 3\"750W 230V FAST HEAT"
+    ],
+    [
+     "86543",
+     "RESORTE DIAFRAGMA 2024-0XXX-0005"
+    ],
+    [
+     "86559",
+     "RESORTE PUNTEADOR 2024-0XXX-0000"
+    ],
+    [
+     "86534",
+     "RESORTE TERMOSELLADOR 4024-0XXX-0003"
+    ],
+    [
+     "88625",
+     "ROBINETE V04 DANFOSS 1-1/4 RX3/4"
+    ],
+    [
+     "88624",
+     "ROBINTE V07 DANFOSS 1-3/4 RX7/8"
+    ],
+    [
+     "86544",
+     "ROTULA INFERIOR 4024-0030-0000"
+    ],
+    [
+     "86549",
+     "ROTULA SUPERIOR 4024-0031-0000"
+    ],
+    [
+     "89834",
+     "RUEDA DE RETORNO CENTRAL 90MM SIN PESTAÑ"
+    ],
+    [
+     "89831",
+     "RUEDA DENTADO 40X40MM EJE CUADRADO-Z10"
+    ],
+    [
+     "81519",
+     "SELLO MECANICO DE 22MM"
+    ],
+    [
+     "81505",
+     "SELLO MECANICO DE 22MM AS-GLF2 GRUNDFOSS"
+    ],
+    [
+     "19017",
+     "SELLO MECANICO 24MM SI-1000/24-VBNGG"
+    ],
+    [
+     "88691",
+     "SENSOR DE TEMP.C/OJAL 4059-0054-0000"
+    ],
+    [
+     "88690",
+     "SENSOR DE TEMP.C/ROSCA 2002-20XX-0010"
+    ],
+    [
+     "86539",
+     "SENSOR DE TEMPERATURA 1.5MTRS C/ROSCA"
+    ],
+    [
+     "89346",
+     "SET DE CUADRO DE VALVULAS"
+    ],
+    [
+     "13122",
+     "SOLDADURA DE RESISTENCIA"
+    ],
+    [
+     "85978",
+     "SOLDADURA ELECTRICA 220V 70W"
+    ],
+    [
+     "89180",
+     "SOPORTE DE BOMBA F32-40/200-F50/160"
+    ],
+    [
+     "86512",
+     "SOPORTE PARA CABAZAL INOXDE 35MM S/R1049"
+    ],
+    [
+     "88333",
+     "SYSTEM CONTROL BOARD CARD"
+    ],
+    [
+     "87230",
+     "TABLERO ELECTRICO CD. 190680608"
+    ],
+    [
+     "87229",
+     "TABLERO ELECTRICO 190680572"
+    ],
+    [
+     "86533",
+     "TAPA RESORTE 4071-0047-0000"
+    ],
+    [
+     "86554",
+     "TAPA SELLADOR S/ ROSCA 88"
+    ],
+    [
+     "86532",
+     "TAPA SELLADOR S/ROSCA 73"
+    ],
+    [
+     "90174",
+     "TC 400/5A"
+    ],
+    [
+     "88610",
+     "TELA P/HORNO CONTINUO 0,30MM ANCHO 1 MET"
+    ],
+    [
+     "86547",
+     "TRABA DE ROTULA 4075-0037-0000"
+    ],
+    [
+     "86537",
+     "TUERCA CAÑO PASACABLE 4025-0038-0000"
+    ],
+    [
+     "86548",
+     "TUERCA VARILLA DE ROTULA 4025-0005-0000"
+    ],
+    [
+     "87497",
+     "TURBINA C/ROTOR 60 P/ MOTOR 3HP TRIF."
+    ],
+    [
+     "87022",
+     "UGRAL INOX 57MM"
+    ],
+    [
+     "89096",
+     "VACUOMETRO DE ENVASADORA AL VACIO"
+    ],
+    [
+     "88846",
+     "VALCO ACHIQUE INOX 1HP 220V"
+    ],
+    [
+     "87920",
+     "VALV.MARIPOSA AC ENTREBRIDA 4\"C/CAJA"
+    ],
+    [
+     "86585",
+     "VALV.SOLENOIDE DANFOS EVRA25 032F6225"
+    ],
+    [
+     "87919",
+     "VALVULA MARIPOSA AC DE 6\" ENTREBRIDA"
+    ],
+    [
+     "87917",
+     "VALVULA MARIPOSA AC ENTREBRIDA 10\"C/CAJA"
+    ],
+    [
+     "87918",
+     "VALVULA MARIPOSA AC ENTREBRIDA 8\"C/CAJA"
+    ],
+    [
+     "88628",
+     "VALVULA MARIPOSA 6\"C/PALANCA BRAY 300600"
+    ],
+    [
+     "86546",
+     "VARILLA DE ROTULA 4081-0013-0000"
+    ],
+    [
+     "87460",
+     "VENTILADOR AXIAL LH M200"
+    ],
+    [
+     "87461",
+     "VENTILADOR AXIAL LH M300"
+    ],
+    [
+     "86540",
+     "VENTOSA DE POTES 2010-53XX-0001"
+    ],
+    [
+     "86541",
+     "VENTOSA P/TAPAS 2010-53XX-0000"
+    ],
+    [
+     "87477",
+     "1TX5500X80MM F10Z CERRADO"
+    ],
+    [
+     "87488",
+     "1133-XXXX-0001 GOMA CAÑO PASACABLE"
+    ],
+    [
+     "87489",
+     "2024-0XXX-0000 RESORTE PUNTEADOR"
+    ],
+    [
+     "90333",
+     "2053-1XXX-0001 HORQUIDEA IGUS GERNF-12F"
+    ],
+    [
+     "87487",
+     "4025-0004-0000 CUBO DE ROTULA"
+    ],
+    [
+     "87486",
+     "4059-0025-0000 CAÑO PASACABLE"
+    ],
+    [
+     "87490",
+     "4072-0006-0000 PERNO PUNTEADOR"
+    ],
+    [
+     "85201",
+     "90521-4692 P.TRANSM. FMB50-1Q88/0 DRD"
+    ],
+    [
+     "85323",
+     "90522-5799 INTERR.FTL33 VIBRONICO 3/4\"A"
+    ],
+    [
+     "87324",
+     "9240112123005 TUBO CALENFAC 300W 770-810"
+    ],
+    [
+     "87326",
+     "9422112158136 CINTA TRANSPORTE FRB-770"
+    ],
+    [
+     "87325",
+     "9430113077015 CORREA DE TEFLON FRB 770"
+    ],
+    [
+     "89677",
+     "BARRA DE DESLIZAMIENTO RPT-ME22C-04"
+    ],
+    [
+     "82432",
+     "BOBINA DE 30MM 220V50HZ-8W DIAM 13,5MM"
+    ],
+    [
+     "89678",
+     "BUJE PASAMURO CORTO RPT-ME22M-04C-1"
+    ],
+    [
+     "10518",
+     "BUJE PISTON D63.5-T15"
+    ],
+    [
+     "18565",
+     "CINTA TEFLON C/ADH 130MICRAS X19MM"
+    ],
+    [
+     "86346",
+     "CINTA TEFLON P/ENVASADORA DE QUESO"
+    ],
+    [
+     "89676",
+     "COJINETE ME 22A-03C-2"
+    ],
+    [
+     "86470",
+     "CUERPO COMPLETO CABEZAL DATAFLEX 6210"
+    ],
+    [
+     "89679",
+     "EJE CENTRAL GUIA RPT-ME22C-03C-10"
+    ],
+    [
+     "85919",
+     "FILTRO DE AIRE HITACHI"
+    ],
+    [
+     "85918",
+     "FILTRO DE TINTA PRINCIPAL"
+    ],
+    [
+     "85920",
+     "FILTRO FILTER 75 HITACHI"
+    ],
+    [
+     "17835",
+     "JUEGO RODAM.MOTOR PREDESARROLLO E 1155"
+    ],
+    [
+     "17836",
+     "JUEGO RODAMIENTO REDUC. DESARROLLO E1156"
+    ],
+    [
+     "17773",
+     "KIT DE MANTENIMIENTO ESSI 3500 HS A2-2"
+    ],
+    [
+     "82380",
+     "MANOMETRO SER.72 100R DE 1/2 INOX C/GLI."
+    ],
+    [
+     "17838",
+     "ORING SELLO BOQUILLA DOSIFICADO E 1211"
+    ],
+    [
+     "86135",
+     "PORTA VENTOSA ENVASADO"
+    ],
+    [
+     "86345",
+     "RESISTENCIA P/ENVASADORA DE FETEADO"
+    ],
+    [
+     "89344",
+     "RESORTE DE POSION E-2090"
+    ],
+    [
+     "86332",
+     "SENSOR PT100 5X150 MM"
+    ],
+    [
+     "86331",
+     "SENSOR PT100 6X200 MM"
+    ],
+    [
+     "89373",
+     "SERVICE KIT EPDM RV-P38M/DN40"
+    ],
+    [
+     "88970",
+     "SET DE EMPAQUE-HUALLIAN PPF-500-1000"
+    ],
+    [
+     "17837",
+     "TELA TEFLON SELLADO HORIZONTAL E 1318"
+    ],
+    [
+     "88969",
+     "9412120105011 REP ORING 70-60-5 PPF-1000"
+    ],
+    [
+     "86376",
+     "AC-15116 UNION RACORADA 1/2 OD A 1/2INOX"
+    ],
+    [
+     "18161",
+     "ACCESORIO RESORTE E1055-22"
+    ],
+    [
+     "18199",
+     "ACEITE ESSI E1208"
+    ],
+    [
+     "16774",
+     "ACOPLE DE BRONCE Y POLIACETAL P/ ESSI"
+    ],
+    [
+     "17891",
+     "ACOPLE DE POLIACEAL P/CERVO"
+    ],
+    [
+     "19462",
+     "ACOPLE MOTOR A REDUCTOR DESARROLLO"
+    ],
+    [
+     "81824",
+     "ACTUADOR SELLADO VERTICAL E2128"
+    ],
+    [
+     "81537",
+     "ALINEADOR DE PESTAÑA E-1690"
+    ],
+    [
+     "18134",
+     "ALMOHADILLA DE IMPACTO E-1531"
+    ],
+    [
+     "17394",
+     "ANOHO DE MAGNECIO"
+    ],
+    [
+     "13113",
+     "ARANDELA AISLANTE ESSI COD-E1137"
+    ],
+    [
+     "17546",
+     "ARANDELA ANTIGIRO E1138"
+    ],
+    [
+     "18561",
+     "ARANDELA M6 MECANIZADA ESSI"
+    ],
+    [
+     "18166",
+     "ARO RETENEDOR 5MM DESAIRE SUPERIOR E1146"
+    ],
+    [
+     "80670",
+     "BASE MORDAZA MOVIL ESSI"
+    ],
+    [
+     "16282",
+     "BOBINA MICRO 24VCC"
+    ],
+    [
+     "19367",
+     "BUJE ABIERTO ESSI COD.E-1068 L"
+    ],
+    [
+     "15857",
+     "BUJE ABIERTO ESSI COD-E1068"
+    ],
+    [
+     "13107",
+     "BUJE AISL. MORD.FRONT. ESSI COD-E1182-1"
+    ],
+    [
+     "19369",
+     "BUJE AISLANTE BARRAL E-1050 L"
+    ],
+    [
+     "17545",
+     "BUJE AISLANTE BARRAL E1050"
+    ],
+    [
+     "19380",
+     "BUJE AISLANTE HEMBRA E-1055-19 L"
+    ],
+    [
+     "18158",
+     "BUJE AISLANTE HEMBRA E1055-19"
+    ],
+    [
+     "19379",
+     "BUJE AISLANTE MACHO E-1055-18 L"
+    ],
+    [
+     "18157",
+     "BUJE AISLANTE MACHO E1055-18"
+    ],
+    [
+     "17544",
+     "BUJE AISLANTE PARA TORNILLO E1205"
+    ],
+    [
+     "19371",
+     "BUJE ANTIGIRO E-1139 L"
+    ],
+    [
+     "17547",
+     "BUJE ANTIGIRO E1139"
+    ],
+    [
+     "19368",
+     "BUJE CARRO MOVIL E-1079 L"
+    ],
+    [
+     "17496",
+     "BUJE CARRO MOVIL E1079"
+    ],
+    [
+     "19366",
+     "BUJE CERRADO ESSI COD. E-1067 L"
+    ],
+    [
+     "15856",
+     "BUJE CERRADO ESSI COD-E1067"
+    ],
+    [
+     "86703",
+     "BUJE CORTO DE TEFLON 60MM X 32MM"
+    ],
+    [
+     "15858",
+     "BUJE CUADRADO ESSI COD-E1260"
+    ],
+    [
+     "19363",
+     "BUJE CUADRADO ESSI COD-1064 L"
+    ],
+    [
+     "19372",
+     "BUJE DE DADO MOVIL DEL BALANCIN E-1154 L"
+    ],
+    [
+     "16655",
+     "BUJE DE DADO MOVIL DEL BALANCIN E1154"
+    ],
+    [
+     "87238",
+     "BUJE DE TEFLON 20MMX10MM"
+    ],
+    [
+     "19374",
+     "BUJE DESAIREADOR E-1223 L"
+    ],
+    [
+     "18153",
+     "BUJE DESAIREADOR E1223"
+    ],
+    [
+     "19365",
+     "BUJE MORDAZA MOVIL ESSI COD.E-1054 L"
+    ],
+    [
+     "13129",
+     "BUJE MORDAZA MOVIL ESSI COD-E1054"
+    ],
+    [
+     "19373",
+     "BUJE RODILLO HUMEDO E-1088 L"
+    ],
+    [
+     "18178",
+     "BUJE RODILLO HUMEDO E1088"
+    ],
+    [
+     "19208",
+     "CAJA MECANICA P/ MECANISMO SELLO ORIZON."
+    ],
+    [
+     "18562",
+     "CAJA REDUCTORA ESSI E-1767"
+    ],
+    [
+     "88367",
+     "CARRO MOVIL"
+    ],
+    [
+     "17453",
+     "CASQUETE ESSI"
+    ],
+    [
+     "17784",
+     "CHAPA CUARTO FRIO ESSI"
+    ],
+    [
+     "81603",
+     "CHAPA MANIJA ENVASADORA E1764"
+    ],
+    [
+     "18142",
+     "CHAVETA DIN 472-32 X 1.2 E1216"
+    ],
+    [
+     "13132",
+     "CHAVETA INOX ESSI COD-E1146"
+    ],
+    [
+     "15862",
+     "CINTA TEFLON ESSI COD-E1170-1"
+    ],
+    [
+     "15861",
+     "CINTA TEFLON SIN ADHESIVO E1014"
+    ],
+    [
+     "17790",
+     "CINTA TEFLON 3/4 ESSI E1170-2"
+    ],
+    [
+     "17533",
+     "COGINETE CON ROSCA MORDAZA HORZ E1188"
+    ],
+    [
+     "17452",
+     "COJIN DE RETENCION"
+    ],
+    [
+     "13118",
+     "COJIN DE RETENCION ESSI COD-E214"
+    ],
+    [
+     "19364",
+     "COJINETE E-1188 L"
+    ],
+    [
+     "13117",
+     "COJINETE ESSI COD. E213"
+    ],
+    [
+     "13104",
+     "COJINETE ESSI COD-E1179-1"
+    ],
+    [
+     "18147",
+     "COJINETE E1188"
+    ],
+    [
+     "19375",
+     "COJINETE ROSCADO E-1219 L"
+    ],
+    [
+     "18150",
+     "COJINETE ROSCADO E1219"
+    ],
+    [
+     "17525",
+     "COJINETE VALVULA MODULADORA E1173"
+    ],
+    [
+     "80642",
+     "COLLARIN 95"
+    ],
+    [
+     "82429",
+     "CONSUMIBLE ESSI A2-2"
+    ],
+    [
+     "16652",
+     "CORREA DE FRENO (NEOPRENO) E1149"
+    ],
+    [
+     "18172",
+     "CUBRE POLVO DISTENSIONADOR E1153"
+    ],
+    [
+     "19370",
+     "DESLIZADOR ESSI COD. E-1099 L"
+    ],
+    [
+     "13130",
+     "DESLIZADOR ESSI COD-E1099"
+    ],
+    [
+     "17460",
+     "DIAFRAGMA DOSIFICADOR ESSI E1170"
+    ],
+    [
+     "16855",
+     "DIAFRAGMA VALVULA DE PRODUCTO ESSI E1170"
+    ],
+    [
+     "16649",
+     "DIAFRAGMA VALVULA DE PRODUCTO E1170"
+    ],
+    [
+     "17782",
+     "EJE CONDUCIDO ESSI E1894"
+    ],
+    [
+     "17783",
+     "EJE CONDUCTOR"
+    ],
+    [
+     "18155",
+     "EMPAQUE CAJA REDUCTORA E1199-2"
+    ],
+    [
+     "17781",
+     "EMPAQUE DE PUERTA ESSI"
+    ],
+    [
+     "15864",
+     "EMPAQUE DE TURBINA ESSI COD-E1107"
+    ],
+    [
+     "17543",
+     "EMPAQUE MORDAZA HORIZONTAL E1199"
+    ],
+    [
+     "19242",
+     "EMPAQUE PARA TAPA E1199"
+    ],
+    [
+     "81604",
+     "EMPAQUE PUERTA ENVASADORA E1949"
+    ],
+    [
+     "18154",
+     "EMPAQUE TAPA SELLO E1199-1"
+    ],
+    [
+     "18227",
+     "EMPAQUE TAPA TANQUE"
+    ],
+    [
+     "17552",
+     "EMPAQUE TURBINA E1107"
+    ],
+    [
+     "19398",
+     "ESSI RULEMAN E6306ZZ LOCAL"
+    ],
+    [
+     "19544",
+     "ESSI RULEMAN W 61901 2ZSKS LOCAL"
+    ],
+    [
+     "19543",
+     "ESSI RULEMAN W 61904 2RS SKS LOCAL"
+    ],
+    [
+     "19548",
+     "ESSI RULEMAN W 6200 2Z SKS LOCAL"
+    ],
+    [
+     "19545",
+     "ESSI RULEMAN W 6203 2Z SKS LOCAL"
+    ],
+    [
+     "19394",
+     "ESSI RULEMAN W6001 2Z LOCAL"
+    ],
+    [
+     "19389",
+     "ESSI RULEMAN W6002-2Z LOCAL"
+    ],
+    [
+     "19399",
+     "ESSI RULEMAN W6004-2RS ESSI"
+    ],
+    [
+     "19393",
+     "ESSI RULEMAN W6004-2RS LOCAL"
+    ],
+    [
+     "19396",
+     "ESSI RULEMAN W6006-2Z LOCAL"
+    ],
+    [
+     "19397",
+     "ESSI RULEMAN W6007 -2Z LOCAL"
+    ],
+    [
+     "19390",
+     "ESSI RULEMAN W6201-2Z LOCAL"
+    ],
+    [
+     "19395",
+     "ESSI RULEMAN W6202-2RS LOCAL"
+    ],
+    [
+     "19392",
+     "ESSI RULEMAN W6205-2RS LOCAL"
+    ],
+    [
+     "19391",
+     "ESSI RULEMAN W6206-2Z LOCAL"
+    ],
+    [
+     "19542",
+     "ESSI RULEMAN 51104 SKF LOCAL"
+    ],
+    [
+     "19546",
+     "ESSI RULEMAN 628/9 2Z SKF LOCAL"
+    ],
+    [
+     "86374",
+     "ET-16396 CODO OD A OD 1/2\""
+    ],
+    [
+     "86375",
+     "ET-16483 UNION 1/2 IN NPT A 1/2 IN OD"
+    ],
+    [
+     "18170",
+     "FILTRO HEPA E1024"
+    ],
+    [
+     "13086",
+     "FILTRO PAPEL ESSI COD-E1010-2"
+    ],
+    [
+     "18173",
+     "FUELLE DISTENCIONADOR E1081"
+    ],
+    [
+     "13112",
+     "FUELLE ESSI COD-E1181"
+    ],
+    [
+     "84714",
+     "GANCHO FORMADOR E- 1325"
+    ],
+    [
+     "13098",
+     "GANCHO FORMADOR ESSI COD-E1009"
+    ],
+    [
+     "17788",
+     "GANCHO FORMADOR LARGO (PAR) ESSI"
+    ],
+    [
+     "17789",
+     "GANCHO FORMADOR LARGO IZQUIERDO"
+    ],
+    [
+     "84713",
+     "GANCHO FORMADOR 1,5MM E- 1324"
+    ],
+    [
+     "16659",
+     "GUARNICION DEL FRENO E1128"
+    ],
+    [
+     "13097",
+     "GUARNICION EMPALMADOR ESSI COD-E1100"
+    ],
+    [
+     "13089",
+     "GUARNICION MORDAZA RECIPR.ESSI COD-E1178"
+    ],
+    [
+     "17459",
+     "GUARNICION SELLADO HORIZONTAL E 1227"
+    ],
+    [
+     "18148",
+     "GUARNICION SELLADO HORIZONTAL E1227"
+    ],
+    [
+     "13095",
+     "GUARNICION SELLADO VERTICAL COD-1020"
+    ],
+    [
+     "19378",
+     "GUARNICION SELLO HORIZONTAL E-1227 L"
+    ],
+    [
+     "80641",
+     "JUEGO DE CORONA Y SIN FIN"
+    ],
+    [
+     "18138",
+     "JUEGO DE DIAFRAGMA BOMBA PEROXIDO E1110"
+    ],
+    [
+     "19830",
+     "JUEGO DE DIAFRAGMA INF.P/VAL.REGUL.1\""
+    ],
+    [
+     "80644",
+     "JUEGO DE RETEN"
+    ],
+    [
+     "80643",
+     "JUEGO DE RODAMIENTO"
+    ],
+    [
+     "13102",
+     "JUEGO EMPAQUES BOQUILLA ESSI COD-E1113"
+    ],
+    [
+     "17786",
+     "JUEGO RODAMIENTO MOTOR E1157"
+    ],
+    [
+     "85533",
+     "JUEGOS DE PALETAS DOSIFICADORAS E-1697"
+    ],
+    [
+     "13081",
+     "JUNTA TRICLOVER ESSI COD-E1005"
+    ],
+    [
+     "13088",
+     "JUNTA TRICLOVER ESSI COD-E1013"
+    ],
+    [
+     "13083",
+     "JUNTA TRICLOVER ESSI COD-1011"
+    ],
+    [
+     "80818",
+     "KIT DE MANTENIMIENTO DE 500 HORAS ESSI 1"
+    ],
+    [
+     "17819",
+     "KIT DE MANTENIMIENTO ESSI 4000 HS A2-2"
+    ],
+    [
+     "17821",
+     "KIT DE MANTENIMIENTO ESSI 5000 HS A2-2"
+    ],
+    [
+     "17822",
+     "KIT DE MANTENIMIENTO ESSI 5500 HS A2-2"
+    ],
+    [
+     "17823",
+     "KIT DE MANTENIMIENTO ESSI 6000 HS A2-2"
+    ],
+    [
+     "17820",
+     "KIT DE MANTENIMIENTO 4500HS ESSI-A2"
+    ],
+    [
+     "16650",
+     "KIT DE ORING VALVULA DE PRODUCTO E1174"
+    ],
+    [
+     "86503",
+     "KIT DE REPARO DSBC/G-63"
+    ],
+    [
+     "17548",
+     "KIT EMPAQUE CILINDRO E1059"
+    ],
+    [
+     "17553",
+     "KIT EMPAQUE CILINDRO E1085"
+    ],
+    [
+     "17549",
+     "KIT EMPAQUE CILINDRO E1102"
+    ],
+    [
+     "18174",
+     "KIT EMPAQUES CILINDRO E1213"
+    ],
+    [
+     "17785",
+     "KIT RETENEDORES DESARROLLO E1060-2"
+    ],
+    [
+     "19200",
+     "KIT RETENEDORES REDUCTOR PREDESAR.ESSI"
+    ],
+    [
+     "16653",
+     "MANTA DE ESTERILIZACION E1019"
+    ],
+    [
+     "18135",
+     "MEMBRANA ACEPTICA E1169"
+    ],
+    [
+     "17454",
+     "MEMBRANA DE DOSIFICADOR E1169"
+    ],
+    [
+     "16658",
+     "MEMBRANA DEL FRENO E1093"
+    ],
+    [
+     "16598",
+     "MEMBRANA VALVULA ASEPTICA"
+    ],
+    [
+     "17447",
+     "MICROMOTOR ALINEACION Y TENSION ESSI1312"
+    ],
+    [
+     "81567",
+     "MICROMOTOR DEL TAKA E-1312"
+    ],
+    [
+     "17448",
+     "MICROMOTOR DOSIFICADOR ESSI"
+    ],
+    [
+     "17449",
+     "MICROMOTOR ESSI"
+    ],
+    [
+     "16572",
+     "MODULO DE SALIDAS ANALOGICAS"
+    ],
+    [
+     "16283",
+     "NIPLE MICRO DE 1/8"
+    ],
+    [
+     "17551",
+     "ORING BASE EJE MOTRIZ E1168"
+    ],
+    [
+     "17534",
+     "ORING CUBIERTA DEL VISOR E1189"
+    ],
+    [
+     "17541",
+     "ORING CUBIERTA DEL VISOR MORD HORI E1196"
+    ],
+    [
+     "17538",
+     "ORING DE BRIDA CONX A PLACA MORDAZ E1193"
+    ],
+    [
+     "17528",
+     "ORING DE CONJUNTO DE MEMBRANA E1185"
+    ],
+    [
+     "17070",
+     "ORING DE VITON 120"
+    ],
+    [
+     "18141",
+     "ORING EXTERIOR DE PORTARODAMIENTO E1189"
+    ],
+    [
+     "18163",
+     "ORING EXTERNO BRIDA E1058"
+    ],
+    [
+     "17539",
+     "ORING EXTERNO BUJE MORDAZA HORIZON E1194"
+    ],
+    [
+     "18162",
+     "ORING INTERNO BRIDA E1057"
+    ],
+    [
+     "18140",
+     "ORING INTERNO BRIDA E1215"
+    ],
+    [
+     "17540",
+     "ORING INTERNO BUJE MORDAZA HORIZON E1195"
+    ],
+    [
+     "17450",
+     "ORING INTERNO CARTUCHO TEE E1184"
+    ],
+    [
+     "18139",
+     "ORING MEDIDOR DE NIVEL"
+    ],
+    [
+     "17531",
+     "ORING PASAMURO CENTL MORDAZA HRIZ E1186"
+    ],
+    [
+     "18175",
+     "ORING PLATO ACOPLE CAJA DESARROLLO E1062"
+    ],
+    [
+     "18136",
+     "ORING PLATO DE FIJACION E1045"
+    ],
+    [
+     "13105",
+     "ORING PORTACOJINETE ESSI COD-E"
+    ],
+    [
+     "17535",
+     "ORING PORTARRODAMIENTO LATERAL E1190"
+    ],
+    [
+     "17532",
+     "ORING PSAMURO BARRAL MORD HORIZ E1187"
+    ],
+    [
+     "17527",
+     "ORING RETENEDOR DOSIFICADOR E1184"
+    ],
+    [
+     "13134",
+     "ORING RUEDA GUIA ESSI COD-E1015"
+    ],
+    [
+     "18137",
+     "ORING SOPORTES E1161"
+    ],
+    [
+     "13087",
+     "ORING TAPA TANQUE ESSI COD-E1012"
+    ],
+    [
+     "13099",
+     "ORING TRAMPA ESTERILIZ. ESSI COD-1023"
+    ],
+    [
+     "17445",
+     "ORING VARILLA DOSIFICADOR E1185"
+    ],
+    [
+     "16351",
+     "ORING 38 X 44 X 3MM VITON"
+    ],
+    [
+     "16310",
+     "ORING 40,87 X 47,93 X 3,53MM VITON Nº223"
+    ],
+    [
+     "16309",
+     "ORING 50,33 X 57,45 X 3,53MM VITON Nº226"
+    ],
+    [
+     "81565",
+     "PALETA DERECHA ESSI E-1690-1"
+    ],
+    [
+     "81566",
+     "PALETA IZQUIERDA E-1690-2"
+    ],
+    [
+     "18130",
+     "PALETAS DEL ALINEADOR (PAR) ESSI"
+    ],
+    [
+     "18132",
+     "PALETAS FORMADORA DE DOSIFICADO"
+    ],
+    [
+     "17451",
+     "PASADOR DE LA HORQUILLA ESSI E1454"
+    ],
+    [
+     "18159",
+     "PASADOR RESISTENCIA 1055-20"
+    ],
+    [
+     "19377",
+     "PIÑON (DESARROLLO) EESI COD. E-1066 L"
+    ],
+    [
+     "15860",
+     "PIÑON (DESARROLLO) ESSI COD-E1066"
+    ],
+    [
+     "16853",
+     "PIÑON DEL DESARROLLO ESSI E1066"
+    ],
+    [
+     "16693",
+     "PORTA RESISTENCIA DE BAQUELITA ESSI"
+    ],
+    [
+     "18558",
+     "PORTA RESISTENCIA SELLADO HORIZONTAL"
+    ],
+    [
+     "13085",
+     "PREFILTRO GUATA ESSI COD-E1010-1"
+    ],
+    [
+     "81605",
+     "PT100 L 55CM X 3/8 E2121"
+    ],
+    [
+     "15867",
+     "RASPADOR ESSI COD-E1190"
+    ],
+    [
+     "18171",
+     "RASPADOR FIJO CANASTA HUMEDAS E1089"
+    ],
+    [
+     "85769",
+     "REDUCTOR SOLO 50-40-63"
+    ],
+    [
+     "80640",
+     "REDUCTOR SOLO FD-75H REL 50 LH"
+    ],
+    [
+     "80718",
+     "REGULADOR DE DOSIFICADO SACHETADORA"
+    ],
+    [
+     "88766",
+     "REGULADOR DE SERVOACCIONAM. CMMT-AS-C4"
+    ],
+    [
+     "16897",
+     "RESISTENCIA CARTUCHO 600W ESSI COD-1017"
+    ],
+    [
+     "13103",
+     "RESISTENCIA CARTUCHO 600W 12,7X180MM"
+    ],
+    [
+     "17303",
+     "RESISTENCIA CON ANODO DE MAGNECIO TERMOC"
+    ],
+    [
+     "13131",
+     "RESISTENCIA ESSI COD-1101"
+    ],
+    [
+     "18127",
+     "RESISTENCIA FRONTAL E1221"
+    ],
+    [
+     "18128",
+     "RESISTENCIA POSTERIOR E1221-1"
+    ],
+    [
+     "13096",
+     "RESISTENCIA VERTICAL ESSI COD-E1021/1614"
+    ],
+    [
+     "16660",
+     "RESORT/AJUSTE DESAIREADOR SUPERIOR E1148"
+    ],
+    [
+     "16857",
+     "RESORTE DE AJUSTE DES.SUPERIOR ESSIE1148"
+    ],
+    [
+     "19228",
+     "RESORTE DE GIRO DESAIREADOR E1148"
+    ],
+    [
+     "18156",
+     "RESORTE DE POSICION E1226"
+    ],
+    [
+     "16656",
+     "RESORTE DE TENSORES PREDESARROLLO E1069"
+    ],
+    [
+     "18152",
+     "RESORTE DESAIREADOR E1200"
+    ],
+    [
+     "16731",
+     "RESORTE INOX P/MANDIVULA ESSI"
+    ],
+    [
+     "18160",
+     "RESORTE PORTA RESISTENCIA E1055-21"
+    ],
+    [
+     "17446",
+     "RESORTE PORTARRESISTENCIA E1055-21"
+    ],
+    [
+     "16657",
+     "RESORTE POSICIONADOR (SUJECION EJE)E1147"
+    ],
+    [
+     "18177",
+     "RESORTE TENSOR PREDESARROLLO E1212"
+    ],
+    [
+     "17526",
+     "RETENEDOR DE DOSIFICADOR E1183"
+    ],
+    [
+     "17536",
+     "RETENEDOR 20-37-7CRW1-R MORDA HORI E1191"
+    ],
+    [
+     "17537",
+     "RODAMIENTO AXIAL 51104 MORDAZ HORI E1192"
+    ],
+    [
+     "18168",
+     "RODAMIENTO BRAZO FRENO E1150"
+    ],
+    [
+     "18164",
+     "RODAMIENTO DERECHO EJE E1142-1"
+    ],
+    [
+     "17550",
+     "RODAMIENTO EJE MOTRIZ E1167"
+    ],
+    [
+     "18169",
+     "RODAMIENTO EJE ROLLO E1103"
+    ],
+    [
+     "18165",
+     "RODAMIENTO IZQUIERDO EJE E1142-2"
+    ],
+    [
+     "16654",
+     "RODAMIENTO LIN. E1096 INA KH 1228/P/PPK"
+    ],
+    [
+     "15871",
+     "RODAMIENTO MOTOR ESSI COD-E1105"
+    ],
+    [
+     "18144",
+     "RODAMIENTO PORTARODAMIENTO LATERAL E1192"
+    ],
+    [
+     "18181",
+     "RODAMIENTO RODILLO CONDUCIDO E1160"
+    ],
+    [
+     "18180",
+     "RODAMIENTO RODILLO E1094 SKF W 61901-2Z"
+    ],
+    [
+     "18167",
+     "RODAMIENTO RODILLO 1\" E1104"
+    ],
+    [
+     "15870",
+     "RODAMIENTO SKF W 6001-2Z E1084"
+    ],
+    [
+     "18179",
+     "RODAMIENTO SKF W 6001-2Z E1086"
+    ],
+    [
+     "18436",
+     "RODAMIENTO W 628/9-2Z E1151"
+    ],
+    [
+     "17542",
+     "RODAMIENTO 61904-2RZ MORDAZA HORIZ E1197"
+    ],
+    [
+     "15868",
+     "RODILLO CONDUCIDO COD-E1098"
+    ],
+    [
+     "15869",
+     "RODILLO CONDUCTOR COD-E1097"
+    ],
+    [
+     "18151",
+     "ROSCA DEL COJINETE ROSACADO E1220"
+    ],
+    [
+     "19376",
+     "ROSCA DEL COJINETE ROSCADO E-1220 L"
+    ],
+    [
+     "16854",
+     "RTD SENSOR PT100 4X35MM 3HILOS E1210"
+    ],
+    [
+     "13133",
+     "RUEDA GUIA ESSI COD-E1127"
+    ],
+    [
+     "15859",
+     "RUEDA SILICONADA ESSI CDG-E1065"
+    ],
+    [
+     "16202",
+     "SELLADORA SILICONA 70 SHORE 5X8X194MM"
+    ],
+    [
+     "16645",
+     "SELLO MECANICO ALTA TEMP VITO DE 1\""
+    ],
+    [
+     "18149",
+     "SELLO PARA TORNILLO E1218"
+    ],
+    [
+     "82300",
+     "SENSOR DE NIVEL BAUMER LBFS-01111.0"
+    ],
+    [
+     "16399",
+     "SENSOR DE PROXIMIDAD MAGNETICO SME8MD 24"
+    ],
+    [
+     "16648",
+     "SENSOR DE TEMP.SELLADO HORISONTAL E1210"
+    ],
+    [
+     "84711",
+     "SENSOR FIN DE ROLLO E - 1307"
+    ],
+    [
+     "87877",
+     "SENSOR FOTOELECTRICO DIFUSO 750-10-30"
+    ],
+    [
+     "84712",
+     "SENSOR INDUCTIVO E - 1308 - 1"
+    ],
+    [
+     "18686",
+     "SENSOR KT8L-P3656 -KT8 SENSORES DE CONTR"
+    ],
+    [
+     "84707",
+     "SENSOR POSTERIOR FECHADOR E 1306"
+    ],
+    [
+     "84691",
+     "SENSOR PROXIMIDADFOTOELECTRICO CILINDRIC"
+    ],
+    [
+     "15955",
+     "SENSOR TACA"
+    ],
+    [
+     "15865",
+     "SENSOR TEMP SELLAD HORIZO ESSI COD-E1187"
+    ],
+    [
+     "84715",
+     "SENSOR VIBRONICO E - 1309"
+    ],
+    [
+     "18559",
+     "SEPARADOR PORTA RESISTENCIA"
+    ],
+    [
+     "81825",
+     "SERVO DISTENCIONADOR EN U E2127"
+    ],
+    [
+     "16651",
+     "SET DE EMPAQUE VALVULA DE PRODUCTO E1175"
+    ],
+    [
+     "17071",
+     "SOCKET LAMPARA GERMICIDA E1134"
+    ],
+    [
+     "18770",
+     "SOPORTE RESISTENCIA HORIZONTAL ESSI BRON"
+    ],
+    [
+     "17523",
+     "TAPON VALVULA MODULADORA E1171"
+    ],
+    [
+     "13100",
+     "TEFLON ADHESIVO CUELLO ESSI COD-1014"
+    ],
+    [
+     "17251",
+     "TELA BIDIN"
+    ],
+    [
+     "13090",
+     "TELA TEFLON ESSI COD-E1018"
+    ],
+    [
+     "15872",
+     "TUBO GERMICIDA ESSI COD-E1135"
+    ],
+    [
+     "17069",
+     "TUBO 30W GERMICIDA E1135"
+    ],
+    [
+     "17787",
+     "UNIDAD RODAMIENTOS REDUCTOR E1158"
+    ],
+    [
+     "16281",
+     "VALVULA DIRECCIONAL 1/8\" 3/2 MICRO M.E.A"
+    ],
+    [
+     "81568",
+     "VARIADOR DE VELOCIDAD E-2097"
+    ],
+    [
+     "17524",
+     "VASTAGO DE VALVULA MODULADORA E1172"
+    ],
+    [
+     "81950",
+     "5520.10002 MODULO DE CONTAMINACION ACEIT"
+    ],
+    [
+     "81951",
+     "5520.10003 SENSOR CONTAMINACION ACEITE"
+    ],
+    [
+     "86642",
+     "6-9611923031 SERVICE KIT EPDM LKB ISO"
+    ],
+    [
+     "86634",
+     "6-9611991679 SPRING LKC-1/2 51/NW50"
+    ],
+    [
+     "85401",
+     "ACOPLE DESARROLLO E-1768"
+    ],
+    [
+     "19558",
+     "CABLE CONECTOR HEMBRA RECTO SICKYF2A15"
+    ],
+    [
+     "81867",
+     "CILINDRO ACTUADOR DISTENCIONADOR E-1992"
+    ],
+    [
+     "84708",
+     "CINTA TEFLON E - 1070-2"
+    ],
+    [
+     "81864",
+     "CINTA TEFLON 1\" E 1070-1"
+    ],
+    [
+     "89207",
+     "CONECTOR HEMBRA RECTO M8 - 4PINES"
+    ],
+    [
+     "85849",
+     "CONECTOR HEMBRA RECTO M8 3 PINES CAB.A"
+    ],
+    [
+     "82428",
+     "CONSUMIBLE ESSI A-1"
+    ],
+    [
+     "81939",
+     "CUNSUMIBLE STOCK ESSI - A1"
+    ],
+    [
+     "80837",
+     "EMPAQUE TANQUE BALANCE E1321 A2-2"
+    ],
+    [
+     "80842",
+     "EMPAQUE TRICLOVER E-1013 A2-2"
+    ],
+    [
+     "80840",
+     "EMPAQUE TRICLOVER E1005 A2-2"
+    ],
+    [
+     "80841",
+     "EMPAQUE TRICLOVER E1011 A2-2"
+    ],
+    [
+     "80851",
+     "FUELLE E1081 A2-2"
+    ],
+    [
+     "80845",
+     "GANCHO FORMADOR E1324 A2-2"
+    ],
+    [
+     "80846",
+     "GANCHO FORMADOR E1325 A2-2"
+    ],
+    [
+     "80832",
+     "GUARNICION E1258 A2-2"
+    ],
+    [
+     "80833",
+     "GUARNICION E1258 A2-2"
+    ],
+    [
+     "84706",
+     "GUARNICION SH E-1527 A1-1"
+    ],
+    [
+     "80828",
+     "GUARNICIÓN SH E1527 A2-2"
+    ],
+    [
+     "80830",
+     "GUARNICIÓN SV E1532 A2-2"
+    ],
+    [
+     "80823",
+     "KIT DE MANTENIMIENTO ESSI 1000HS A2-2"
+    ],
+    [
+     "80824",
+     "KIT DE MANTENIMIENTO ESSI 1500HS A2-2"
+    ],
+    [
+     "80825",
+     "KIT DE MANTENIMIENTO ESSI 2000HS A2-2"
+    ],
+    [
+     "80826",
+     "KIT DE MANTENIMIENTO ESSI 2500HS A2-2"
+    ],
+    [
+     "80827",
+     "KIT DE MANTENIMIENTO ESSI 3000HS A2-2"
+    ],
+    [
+     "81928",
+     "KIT DE MANTENIMIENTO 1000HS ESSI-A1"
+    ],
+    [
+     "81929",
+     "KIT DE MANTENIMIENTO 1500HS ESSI-A1"
+    ],
+    [
+     "81930",
+     "KIT DE MANTENIMIENTO 2000HS ESSI - A1"
+    ],
+    [
+     "81931",
+     "KIT DE MANTENIMIENTO 2500HS ESSI - A1"
+    ],
+    [
+     "81932",
+     "KIT DE MANTENIMIENTO 3000HS ESSI - A1"
+    ],
+    [
+     "81934",
+     "KIT DE MANTENIMIENTO 4000HS ESSI - A1"
+    ],
+    [
+     "81935",
+     "KIT DE MANTENIMIENTO 4500HS ESSI - A1"
+    ],
+    [
+     "80822",
+     "KIT DE MANTENIMIENTO 500HS ESSI A2-2"
+    ],
+    [
+     "81927",
+     "KIT DE MANTENIMIENTO 500HS ESSI- A2"
+    ],
+    [
+     "81936",
+     "KIT DE MANTENIMIENTO 5000HS ESSI - A1"
+    ],
+    [
+     "81937",
+     "KIT DE MANTENIMIENTO 5500HS ESSI - A1"
+    ],
+    [
+     "81938",
+     "KIT DE MANTENIMIENTO 6000HS ESSI - A1"
+    ],
+    [
+     "81933",
+     "KIT DE MATENIMIENTO 3500HS ESSI - A1"
+    ],
+    [
+     "80843",
+     "MEMBRANA ASÉPTICA E1169 A2-2"
+    ],
+    [
+     "80849",
+     "MEMBRANA E1093 A2-2"
+    ],
+    [
+     "80855",
+     "MICROMOTOR DE ALINEACION Y TENSIÓN E1310"
+    ],
+    [
+     "85399",
+     "MOTOREDUCTOR PREDESARROLLO E-2049"
+    ],
+    [
+     "80844",
+     "ORING DE CONJUNTO MEMBRNA E1185 A2-2"
+    ],
+    [
+     "80834",
+     "ORING TRAMPA ESTERILIZACIÓN E1023 A2-2"
+    ],
+    [
+     "80853",
+     "PIÑÓN E1066 A2-2"
+    ],
+    [
+     "80854",
+     "PT-100 PARA SELLADO E1543 A2-2 4,8X30MM"
+    ],
+    [
+     "80829",
+     "PT100 E1528 A2-2 8X210MM 600W 220V"
+    ],
+    [
+     "80831",
+     "RESISTENCIA INFERIOR E1533 A2-2 8X370MM"
+    ],
+    [
+     "80835",
+     "ROLLO DE CINTA TEFLÓN DE 1\" E1070-1 A2-2"
+    ],
+    [
+     "80836",
+     "ROLLO DE CINTA TEFLÓN DE 2\" E1070-2 A2-2"
+    ],
+    [
+     "80852",
+     "RUEDA SILICONADA E1065 A2-2"
+    ],
+    [
+     "80857",
+     "SENSOR FIN DE ROLLO PORTARROLLO E1307"
+    ],
+    [
+     "80858",
+     "SENSOR INDUCTIVO PUERTAS E1308 A2-2"
+    ],
+    [
+     "80856",
+     "SENSOR POSTERIOR FECHADOR E1306 A2-2"
+    ],
+    [
+     "81865",
+     "SEPARADOR PORTA RESISTENCIA E-2147"
+    ],
+    [
+     "80839",
+     "SOCKET E1134 A2-2"
+    ],
+    [
+     "80850",
+     "TEFLÓN ADHESIVO CUELLO E1014 A2-2"
+    ],
+    [
+     "84709",
+     "TELA TEFLON E - 1549"
+    ],
+    [
+     "84710",
+     "TELA TEFLON E - 2148"
+    ],
+    [
+     "80848",
+     "TELA TEFLÓN POSTERIOR E1534 A2-2"
+    ],
+    [
+     "80847",
+     "TELA TEFLÓN POSTERIOR E1549 A2-2"
+    ],
+    [
+     "80838",
+     "TUBO GERMICIDA E1135 A2-2"
+    ],
+    [
+     "17696",
+     "DECAXIDE BIDON 10 LTS"
+    ],
+    [
+     "17695",
+     "FOS-1 BIDON X 20LTS"
+    ],
+    [
+     "82365",
+     "KIT DE REPARO GUARNIC CN10 DIAM.80MM"
+    ],
+    [
+     "11114",
+     "PISTON SEAL 45 PSB3 6-4723 1880 07"
+    ],
+    [
+     "81997",
+     "PISTON 45X340MM CROMADO DURO RECUBRIMET"
+    ],
+    [
+     "80040",
+     "REPUESTOS Y BOMBA P/HOMOGENIZADORA SIMES"
+    ],
+    [
+     "82179",
+     "SELLO MECANICO P/ CENTRIFUGA"
+    ],
+    [
+     "80222",
+     "TUBO DE RETORNO (BUTTER)HITACHI PB"
+    ],
+    [
+     "17765",
+     "TUBO VISOR PURGA AMONIACO"
+    ],
+    [
+     "88726",
+     "6-4722664903 VALVE SEAT 65"
+    ],
+    [
+     "86105",
+     "6-4932200225 HIDRAU.PRESSURE GAUGE 250BA"
+    ],
+    [
+     "15989",
+     "ANILLO DE IMPACTO (57X37X12)0454.385.6"
+    ],
+    [
+     "15988",
+     "BASE VAL. HMG MD D17 0455.375.9"
+    ],
+    [
+     "85753",
+     "BIELA 316"
+    ],
+    [
+     "84586",
+     "CASQUILLO BIELA ( SUPER MEDIDA )"
+    ],
+    [
+     "15994",
+     "CASQUILLO BIELA 0576.312.4"
+    ],
+    [
+     "15985",
+     "EMPAQ. D63X79.3 X B3T X L26(0104.C.637)"
+    ],
+    [
+     "82001",
+     "EMPAQUETADURA 79X65X26 POL.LOCAL 85-0000"
+    ],
+    [
+     "15863",
+     "EPAQUE DE TK DE BALANCE ESSI COD-E1321"
+    ],
+    [
+     "85956",
+     "GRIFO 1/4 HH-MOD.2839-6800.01006"
+    ],
+    [
+     "84589",
+     "J.MANOMETRO.33-H-ECOPUR 0473.920.7"
+    ],
+    [
+     "15987",
+     "JUNTA BAS VALV SUP EPDM 0554.970.8"
+    ],
+    [
+     "19807",
+     "JUNTA CAÑERIA DRENAJE VALV. SEG. (SIMES)"
+    ],
+    [
+     "80120",
+     "JUNTA CABEZAL HMG SIMES"
+    ],
+    [
+     "80118",
+     "JUNTA DE ENTRADA ALIMENTACION EPDM"
+    ],
+    [
+     "19802",
+     "JUNTA D30 X 3-(H-ECOPUR) (SIMES)"
+    ],
+    [
+     "19784",
+     "JUNTA D33,3 X 23,5 X 5(H-ECOPUR )(SIMES)"
+    ],
+    [
+     "85339",
+     "JUNTA D33,3X23,5X5-H-PU ( H-ECOPUR )"
+    ],
+    [
+     "15986",
+     "JUNTA D40 X 4- H-PU (H-ECOPUR)0102.404.7"
+    ],
+    [
+     "80119",
+     "JUNTA D85 X 5,5 H-PU (H-ECOPUR)"
+    ],
+    [
+     "19782",
+     "JUNTA D90 X 5,5( H-ECOPUR ) ( SIMES )"
+    ],
+    [
+     "15991",
+     "JUNTA GUIA VALV HMG-EPDM 0554.920.8"
+    ],
+    [
+     "19791",
+     "JUNTA PISTON HMG D130 (SIMES)"
+    ],
+    [
+     "19796",
+     "JUNTA PISTON HMG D95 (SIMES)"
+    ],
+    [
+     "19792",
+     "JUNTA SALIDA HMG-EPDM (SIMES)"
+    ],
+    [
+     "19804",
+     "JUNTA SUPERIOR BASE V.S (SIMES)"
+    ],
+    [
+     "19806",
+     "JUNTA SUPERIOR CUERPO VALV. SEG. (SIMES)"
+    ],
+    [
+     "19803",
+     "JUNTA SUPERIOR TOPE VAL.SEG.(SIMES)"
+    ],
+    [
+     "19808",
+     "JUNTA TAPA CRUCETA (SIMES)"
+    ],
+    [
+     "19805",
+     "JUNTA VASTAGO VALV.SEG. (SIMES)"
+    ],
+    [
+     "84590",
+     "MANOMETRO M33 0-600BAR-D4 7525.00600"
+    ],
+    [
+     "85338",
+     "MANOMETRO 0-7BAR-D63MM CAJA INOX"
+    ],
+    [
+     "82302",
+     "ORING CD.2-383 P/TAPA BALANCE DE SILICON"
+    ],
+    [
+     "82303",
+     "ORING CD.2-384 P/TAPA BALANCE DE SILICON"
+    ],
+    [
+     "84585",
+     "PISTON D63"
+    ],
+    [
+     "84966",
+     "PISTON D63"
+    ],
+    [
+     "85957",
+     "PRESOSTATO CEME"
+    ],
+    [
+     "15993",
+     "RASPADOR VASTAGO CRUCETA 0574.891.9"
+    ],
+    [
+     "15992",
+     "RETEN VASTAGO CRUCETA 0574.890.9"
+    ],
+    [
+     "84588",
+     "RETEN VASTAGO CRUCETA 0574.890.9"
+    ],
+    [
+     "19790",
+     "RETEN VASTAGO HMG GUG 15,8X22X6 (SIMES)"
+    ],
+    [
+     "85955",
+     "SENSOR FLUJO SIMES"
+    ],
+    [
+     "80117",
+     "TANQUE DE BALANCE ESSI"
+    ],
+    [
+     "15990",
+     "TAPA VALV. HGM MD D30 0454.370.9"
+    ],
+    [
+     "86208",
+     "TAPA VALV.HMG ST D35 C/APORTE STELLITTE"
+    ],
+    [
+     "86925",
+     "TUERCA IMPULSOR 25 ELEVADO 52006670"
+    ],
+    [
+     "81806",
+     "CONJUNTO TAPA TORNILLO Y JUNTA 2\""
+    ],
+    [
+     "19857",
+     "GAUGE SMS38 0-2,5MPA/0-25BAR 90522-152"
+    ],
+    [
+     "19855",
+     "HYDRAULIC PRESURE GAUGE 250BAR 6-225"
+    ],
+    [
+     "19856",
+     "HYDRAULIC PRESURE GAUGE 60BAR 6-226"
+    ],
+    [
+     "18076",
+     "MANCHON ACOPLE P/BOMBA HIDRAULICA"
+    ],
+    [
+     "11120",
+     "STEP SEAL 50 (501-06) TETRA PAK"
+    ],
+    [
+     "16965",
+     "STEP SEAL 50 (501-06) 6-4309900006"
+    ],
+    [
+     "18074",
+     "2568801-9308 BOMBA HIDRAULICA HOMO TETRA"
+    ],
+    [
+     "80589",
+     "2568801-9325 UPGRADE, PISTON CARTRIDFE"
+    ],
+    [
+     "82000",
+     "2568801-9327 UPGRADE,DRIVE UNIT INCLUDE"
+    ],
+    [
+     "80590",
+     "312105-499 SCREW M6 ISO 4014 M10X40 A480"
+    ],
+    [
+     "81844",
+     "342741-103 T-PIPE TA-8-R1/4\""
+    ],
+    [
+     "88730",
+     "6-4016030270 CIRCLIP 270X5 DIN 472"
+    ],
+    [
+     "80591",
+     "6-4300090206 SUPPORT RING 24X29.2X1 503"
+    ],
+    [
+     "88729",
+     "6-4302010500 O-RING 105X4"
+    ],
+    [
+     "88728",
+     "6-4302049056 O-RING 312X4"
+    ],
+    [
+     "80592",
+     "6-4302049228 O-RING 24.2 X 3 (503-21)"
+    ],
+    [
+     "88731",
+     "6-4305001500 SEALING BOX 150X180X15 DIN"
+    ],
+    [
+     "16966",
+     "6-4306000003 GUIDE BAND 30 (501-07)"
+    ],
+    [
+     "80593",
+     "6-4309900006 STEP SEAL 50 (501-06)"
+    ],
+    [
+     "81843",
+     "6-4350840507 CONECTION LR/G 1/4\""
+    ],
+    [
+     "88735",
+     "6-4648000005 PLUG 10.7"
+    ],
+    [
+     "80585",
+     "6-4722094202 VALVE SEALING 55 X 65 X 8"
+    ],
+    [
+     "80594",
+     "6-4722117809 SUPPORT RING 35 X 23.8 X 3"
+    ],
+    [
+     "80595",
+     "6-4722117818 SUPPORT RING 65"
+    ],
+    [
+     "12489",
+     "6-4722117845 SUPPORT RING 64"
+    ],
+    [
+     "88738",
+     "6-4722155254 SPACER RING 45 US-3A"
+    ],
+    [
+     "80596",
+     "6-4722198801 BELLOWS TA25"
+    ],
+    [
+     "88736",
+     "6-4722199701 CARRIER ALH/SHL 25"
+    ],
+    [
+     "80597",
+     "6-4722245502 PLATE"
+    ],
+    [
+     "80598",
+     "6-4722523301 SEALING RING 6 X 10"
+    ],
+    [
+     "88739",
+     "6-4722543601 SUPPORT RING 45 AGGFA"
+    ],
+    [
+     "88733",
+     "6-4722545901 PISTON HOLDER ALH/SHL 25"
+    ],
+    [
+     "80599",
+     "6-4722564201 SHIM 0.1"
+    ],
+    [
+     "80600",
+     "6-4722564202 SHIM 0.2"
+    ],
+    [
+     "80601",
+     "6-4722564203 SHIM 0.3"
+    ],
+    [
+     "80602",
+     "6-4722656201 O-RING 25 X 5"
+    ],
+    [
+     "80603",
+     "6-4722656242 O-RING 57 X 4"
+    ],
+    [
+     "88725",
+     "6-4722664802 MUSHROOM VALVE 65"
+    ],
+    [
+     "80584",
+     "6-4722665201 VALVE SPRING 65"
+    ],
+    [
+     "88727",
+     "6-4722665701 VALVE?5"
+    ],
+    [
+     "81845",
+     "6-4722674611 HYDRAULIC HOSE 1100"
+    ],
+    [
+     "80604",
+     "6-4722830181 REBUILDING KIT, PISTON CR"
+    ],
+    [
+     "88732",
+     "6-4722993401 OIL COOLER TA 25"
+    ],
+    [
+     "88734",
+     "6-4723125102 WORM DRIVE CLAMO 70-90"
+    ],
+    [
+     "80605",
+     "6-4723137014 O-RING 63.09X3.53 AL113"
+    ],
+    [
+     "81842",
+     "6-4932200226 HYDRAULIC PRESURE GAU.60BAR"
+    ],
+    [
+     "88723",
+     "6-9611920078 LIP SEAL KIT EPDM SMO/SPC/S"
+    ],
+    [
+     "88724",
+     "6-99035328 O-RING 15.99X3.53 EPDM E8502"
+    ],
+    [
+     "80586",
+     "6-99036836 O-RING 40.87X3.53 70 EPDM 291"
+    ],
+    [
+     "80606",
+     "6-99036839 O-RING 47.22X3.53 70 EPDM 291"
+    ],
+    [
+     "88737",
+     "90287-43 SCREW HEX.SOCK.SET MS6SS M6X30"
+    ],
+    [
+     "80607",
+     "90458-72 SCREW ISO 7380 S M6X12 A2"
+    ],
+    [
+     "81670",
+     "90532-3779 PRESURE GAUGE 0-25.0BAR MANO."
+    ],
+    [
+     "18733",
+     "SELLO MECANICO 18MM COMUN"
+    ],
+    [
+     "11419",
+     "GUIDE BAND 45X9.5"
+    ],
+    [
+     "15349",
+     "RULEMAN A RODILLO 100X140X24MM"
+    ],
+    [
+     "81620",
+     "3-9611992137 SP.PART O-RING EPDM STANDAR"
+    ],
+    [
+     "80691",
+     "6-4302049228 O-RING 24.2X3(503-21)"
+    ],
+    [
+     "80688",
+     "6-4722129501 IMPACT RING 28/38"
+    ],
+    [
+     "80690",
+     "6-4722129601 SEAT 28/38"
+    ],
+    [
+     "11113",
+     "6-4722141901 PRESSURE RING 45-STD"
+    ],
+    [
+     "80689",
+     "6-4722159001 FORCER 28/38"
+    ],
+    [
+     "12486",
+     "6-4722544201 ORING 56.7X3.5"
+    ],
+    [
+     "80687",
+     "6-4722639601 PRESSURE GAUGE"
+    ],
+    [
+     "80686",
+     "6-4723104501 PRESSURE ADJUSTING"
+    ],
+    [
+     "80692",
+     "6-4723137040 O-RING 57X4 FOODGRADE"
+    ],
+    [
+     "86893",
+     "6-4723137040 O-RING 57X4 FOODGRADE"
+    ],
+    [
+     "86344",
+     "6-7438600 PRESSURE GAUGE"
+    ],
+    [
+     "81619",
+     "6-9611922114 SP.P KIT PUMP LKH-10/-15SSS"
+    ],
+    [
+     "85519",
+     "6-9611995848 SPRINGS ROT.SEAL HOUSE"
+    ],
+    [
+     "85694",
+     "6-9612362602 SEAL HOUSING FOR SEAL LKHP"
+    ],
+    [
+     "89474",
+     "VALVE BODY 3321 GG DN32 PN16"
+    ],
+    [
+     "88607",
+     "2891219 VALVE /2891219 SIN ACTUADOR"
+    ],
+    [
+     "80058",
+     "6-221094236 SCREW"
+    ],
+    [
+     "12495",
+     "6-4306000002 GUIDE BAND 50(501-08)"
+    ],
+    [
+     "80055",
+     "6-6523200 SEAL 27.0/10.0X5.0 AL1133034-9"
+    ],
+    [
+     "80059",
+     "6-78533101 SPACER DISC"
+    ],
+    [
+     "80060",
+     "6-78533201 ADJUSTING WASHER"
+    ],
+    [
+     "80056",
+     "6-78533901 WASHER"
+    ],
+    [
+     "80057",
+     "6-78534001 RUBBER RING"
+    ],
+    [
+     "86049",
+     "90512-8457 TPT31 DIGIT.OUTPUT C.L-25MM"
+    ],
+    [
+     "90264",
+     "9612194003 AIR-ACTUADOR LKLA-T 85NC"
+    ],
+    [
+     "80771",
+     "FIELD GASKET EPDMFF C8 6-3900561026 PEAK"
+    ],
+    [
+     "80772",
+     "FIELD GASKET EPDMFF C8 6-3900561126 C-O"
+    ],
+    [
+     "88141",
+     "FUSIBLE NH 100A ULTRA RAPIDO"
+    ],
+    [
+     "80809",
+     "ROLLER BEARING LEFT NU230 6-4241020410"
+    ],
+    [
+     "80808",
+     "ROLLER BEARING RIGHT NUP224 6-4241220004"
+    ],
+    [
+     "80137",
+     "RUBBER STRIP 6-54531803"
+    ],
+    [
+     "80505",
+     "SEAL RING H-LINE H40-X-3 SILICONE"
+    ],
+    [
+     "90254",
+     "YAMADA-771980-REPUESTO-GASKET 5/5F"
+    ],
+    [
+     "86452",
+     "00-2600-52-700 GASKET AIR VALVE PO25"
+    ],
+    [
+     "81399",
+     "00-2600-52-700 GASKET AIR VALVE P.025"
+    ],
+    [
+     "88150",
+     "2657662 WELD-IN ADAPTER G1/2 W 50MM"
+    ],
+    [
+     "86790",
+     "315750-0129 RETAINING RING 45X1.75MMDIN"
+    ],
+    [
+     "88164",
+     "351826-4034 SENSOR CABLE EVF 4X0,34MM2"
+    ],
+    [
+     "88176",
+     "351829-1 SOCKET M12 STRAIGHT 4P A-CODE"
+    ],
+    [
+     "88175",
+     "351829-11 PLUG M12 STRAIGHT 4P A-CODE"
+    ],
+    [
+     "88162",
+     "351834-100 M12/OPEN END L:10.0M"
+    ],
+    [
+     "88163",
+     "351834-50 SENSOR CABLE M12/OPEN ENDL-5.0"
+    ],
+    [
+     "88173",
+     "351836-20 SENSOR CABLE M12/OPEN END L-2."
+    ],
+    [
+     "88174",
+     "351836-50 SENSOR CABLE M12/OPEN END L-5."
+    ],
+    [
+     "88144",
+     "5H1B50-H3J8/1PROMAG H100,5H1B50,DN50 2\""
+    ],
+    [
+     "19912",
+     "6-1643500 COTTER"
+    ],
+    [
+     "86744",
+     "6-164925101SEALRING C/MT70 MULTITUB EPDM"
+    ],
+    [
+     "19874",
+     "6-19060300 SEALSMS38/48X5.5AL113 3033.76"
+    ],
+    [
+     "19902",
+     "6-221260229 SCREW"
+    ],
+    [
+     "19873",
+     "6-22331801 SEAL 38.30/47.50X50 AL 113 13"
+    ],
+    [
+     "19889",
+     "6-22340814 ORING AL 113 3034-74"
+    ],
+    [
+     "19884",
+     "6-22341212 O-RING 94.10X5.70 AL113 3034-"
+    ],
+    [
+     "19878",
+     "6-22343611 SEAL 170.0/179.0X5.0 AL113 30"
+    ],
+    [
+     "19885",
+     "6-22621427 SPRING"
+    ],
+    [
+     "19920",
+     "6-31063784 PAD"
+    ],
+    [
+     "81415",
+     "6-3135301281 SEAL RING EPDM ( STANDARD )"
+    ],
+    [
+     "81412",
+     "6-3135301551 LIPSEAL EPDM SMO/SPC"
+    ],
+    [
+     "81413",
+     "6-3135303211 SEAL RING EPDM SRC/SMO"
+    ],
+    [
+     "81417",
+     "6-3135308161 DIAPHRAGM SUPPOR EPDM"
+    ],
+    [
+     "81419",
+     "6-3135308171 L-SEAL EPDM ( STANDARD )"
+    ],
+    [
+     "81420",
+     "6-3135308181 STEM SEAL EPDM (STAND.)SPC2"
+    ],
+    [
+     "81545",
+     "6-3135308201 DIAPHRAGM PTFE ARC/SPC/SMP"
+    ],
+    [
+     "81416",
+     "6-3135308211 WASHER ARC 38-63.5/NW40-65"
+    ],
+    [
+     "81418",
+     "6-3135808201 DIAPHRAGM PTFE ARC/SPC/SMP"
+    ],
+    [
+     "88148",
+     "6-3180118941 WELDING ADAPTER G1/8\"PT-100"
+    ],
+    [
+     "19918",
+     "6-3378700 GASKET"
+    ],
+    [
+     "81525",
+     "6-3450526302 RING GASKET C8 EPDMFF C-O"
+    ],
+    [
+     "19919",
+     "6-3500200 GASKET"
+    ],
+    [
+     "19921",
+     "6-3809200 BALL BEARING"
+    ],
+    [
+     "19894",
+     "6-3815900 LOCK WASHER"
+    ],
+    [
+     "19892",
+     "6-3816400 GASKET"
+    ],
+    [
+     "88129",
+     "6-3900561026 FIEL GASKET,C8 EPDMFF PEAK"
+    ],
+    [
+     "88130",
+     "6-3900561126 FIELD GASKET END,C8 EPDMFF"
+    ],
+    [
+     "81521",
+     "6-3900707403 MATALLIN C CHANEL C8L316"
+    ],
+    [
+     "81549",
+     "6-3900707405 METALLIN C CHAN.PLATE"
+    ],
+    [
+     "81550",
+     "6-3900707410 METALLIC C CHANNEL PLATE"
+    ],
+    [
+     "88114",
+     "6-3900707416 METALLIN C CHANNEL C8L31606"
+    ],
+    [
+     "81551",
+     "6-3900707471 METALLIC C END PLATE"
+    ],
+    [
+     "81534",
+     "6-3900707476 METALLIC C END PLTE C8 L316"
+    ],
+    [
+     "81523",
+     "6-3900707503 MATALLIN C CHANEL C8H316"
+    ],
+    [
+     "81553",
+     "6-3900707506 METALLIC C CHANEL PLATE"
+    ],
+    [
+     "81554",
+     "6-3900707509 METALLIC C CHANEL PLATE"
+    ],
+    [
+     "88115",
+     "6-3900707516 METALLIN C.CHAN CLIP831606"
+    ],
+    [
+     "81555",
+     "6-3900707584 METALLIC C CHANEL PLATE"
+    ],
+    [
+     "81556",
+     "6-3900707595 METAL END PLATEII,CLIP8"
+    ],
+    [
+     "81524",
+     "6-390077516 METALLIN C CHANEL C8H316"
+    ],
+    [
+     "81552",
+     "6-3950747975 END PLATE I,C8L316EPDMFF"
+    ],
+    [
+     "81522",
+     "6-399707416 METELLIN C CHANEL C8L316"
+    ],
+    [
+     "87827",
+     "6-41800302 GASKET"
+    ],
+    [
+     "88355",
+     "6-430009206 SUPORT RING 24X29,2X1(503-24"
+    ],
+    [
+     "88356",
+     "6-4306000002 GUIDE BAND 50 (501-08)"
+    ],
+    [
+     "88359",
+     "6-4306000003 GUIDE BAND 60 (501-07)"
+    ],
+    [
+     "88357",
+     "6-4309900006 STEP SEAL 50 (501-06)"
+    ],
+    [
+     "19917",
+     "6-4363100 RUBBER STRIP"
+    ],
+    [
+     "88344",
+     "6-4722094216 VALVE SEALING 55X65X7,5 3A"
+    ],
+    [
+     "88358",
+     "6-4722101601 HYDRAULIC PISTON 50"
+    ],
+    [
+     "88345",
+     "6-4722117818 SUPPORT RING 65"
+    ],
+    [
+     "88341",
+     "6-4722117845 SUPPORT RING 64"
+    ],
+    [
+     "88343",
+     "6-4722117853 SUPPORT RING 80.2"
+    ],
+    [
+     "88347",
+     "6-4722290802 VALVE SAT MUSHOROOM VALVE65"
+    ],
+    [
+     "88346",
+     "6-4722291305 MUSHROOM VALVE 42 STELLITE"
+    ],
+    [
+     "88348",
+     "6-4722320104 VALVE SPRING 4.0X36X40X5"
+    ],
+    [
+     "88351",
+     "6-4722362502 VALVE CAGE 65US-3A"
+    ],
+    [
+     "88339",
+     "6-4722656201 ORING 25X5MM"
+    ],
+    [
+     "86785",
+     "6-4722995201 TAPERED BEAR.120.00X165X29"
+    ],
+    [
+     "86787",
+     "6-4722995801 SPHERI.BEARI.50X110X27"
+    ],
+    [
+     "86791",
+     "6-4723016301 TAOERED BEARING 130X180X32M"
+    ],
+    [
+     "86792",
+     "6-4723016401 SEALRING DIN3760 130X160X12"
+    ],
+    [
+     "86793",
+     "6-4723016901 SHIM 165X155X0.2SS"
+    ],
+    [
+     "86786",
+     "6-4723027601 SPHERI.BEAR.50X110X27MM"
+    ],
+    [
+     "86789",
+     "6-4723027701 SEAL RING DIN3760 50X80X8A"
+    ],
+    [
+     "86774",
+     "6-4723135001 HEAT EXCHANGER"
+    ],
+    [
+     "88340",
+     "6-4723137033 ORING 58X3,5 FOODGRADE"
+    ],
+    [
+     "88352",
+     "6-4723137039 ORING 53X4 FOODGRADE"
+    ],
+    [
+     "88353",
+     "6-4723137040 ORING 57X4 FOODGRADE"
+    ],
+    [
+     "88342",
+     "6-4723137042 ORING 65X4 FOODGRADE"
+    ],
+    [
+     "81895",
+     "6-4723191201 BOMBA HIDRAULICA PUMP"
+    ],
+    [
+     "19890",
+     "6-51513303 NOZZLE"
+    ],
+    [
+     "19877",
+     "6-51628107 GASJET"
+    ],
+    [
+     "19882",
+     "6-51628108 GASKET"
+    ],
+    [
+     "19881",
+     "6-51628129 GASKET"
+    ],
+    [
+     "19887",
+     "6-52318803 NOZZLE"
+    ],
+    [
+     "19886",
+     "6-52426201 GASKET"
+    ],
+    [
+     "19898",
+     "6-52885684 FRICT PAD"
+    ],
+    [
+     "19900",
+     "6-53213704 V-RING"
+    ],
+    [
+     "85532",
+     "6-53747002 TACHOMETER"
+    ],
+    [
+     "19888",
+     "6-54192601 VALVE PLUG"
+    ],
+    [
+     "19914",
+     "6-54805110 BALL BEARING"
+    ],
+    [
+     "19915",
+     "6-54805111 BALL BEARING"
+    ],
+    [
+     "19909",
+     "6-54874501 BALL BEARING"
+    ],
+    [
+     "19916",
+     "6-54874604 BALL BEARING"
+    ],
+    [
+     "19907",
+     "6-54874703 BALL BEARING"
+    ],
+    [
+     "19891",
+     "6-6057100 ELASTIC PLATE"
+    ],
+    [
+     "19906",
+     "6-6410400 O-RING"
+    ],
+    [
+     "19899",
+     "6-6517200 GASKET"
+    ],
+    [
+     "19905",
+     "6-6519200 GASKET"
+    ],
+    [
+     "19903",
+     "6-6520100 O-RING"
+    ],
+    [
+     "19901",
+     "6-652500 DEEP GROOVE BALL BEARING"
+    ],
+    [
+     "19911",
+     "6-6619100 SPRING"
+    ],
+    [
+     "19893",
+     "6-6747200 NUT"
+    ],
+    [
+     "19895",
+     "6-702600 DEEP GROOVE BALL BEARING"
+    ],
+    [
+     "19913",
+     "6-7034000 SPRING"
+    ],
+    [
+     "19904",
+     "6-7034500 GASKET"
+    ],
+    [
+     "19910",
+     "6-7034600 BEFFER"
+    ],
+    [
+     "19908",
+     "6-7071400 SPRING"
+    ],
+    [
+     "19872",
+     "6-7106600 GASKET"
+    ],
+    [
+     "19871",
+     "6-7106800 GASKET"
+    ],
+    [
+     "19879",
+     "6-7435500 O.RING 525.00X5.00 AL 113 3034"
+    ],
+    [
+     "19883",
+     "6-7472200 RUBBER RING"
+    ],
+    [
+     "19880",
+     "6-7473600 SEALING RING"
+    ],
+    [
+     "19875",
+     "6-78587401 ADJUSTING RING"
+    ],
+    [
+     "19876",
+     "6-78587402 ADJUSTING RING"
+    ],
+    [
+     "19897",
+     "6-834100 SCREW"
+    ],
+    [
+     "19896",
+     "6-872600 DEEP GROOVE BALL BEARING"
+    ],
+    [
+     "85661",
+     "6-9612358907 TUBE FOR FLUCHED SHALT SEAL"
+    ],
+    [
+     "86745",
+     "6-9612402632 SEALRING EPDM LKB-F ISO"
+    ],
+    [
+     "88138",
+     "6-9612628553 LKB ISO WELD/WELD 51-EPDM30"
+    ],
+    [
+     "88137",
+     "6-9612628554 LKBISO WELD/WELD 63.5 EPDM"
+    ],
+    [
+     "88136",
+     "6-9612628555 LKB ISO WELD/WELD-76 EPMD"
+    ],
+    [
+     "89626",
+     "6-9613320146 VALVE UNIQUE SSV 51/2 111RA"
+    ],
+    [
+     "88142",
+     "6-9613342111 VALVE UNIQUE SSV 51/2 022DA"
+    ],
+    [
+     "88140",
+     "6-9615400415 TTV50 ASI3 62N 1SV 6MM THIN"
+    ],
+    [
+     "89627",
+     "6-9615400420 TTV50 24V IOL M12 1SV 6MM"
+    ],
+    [
+     "81414",
+     "6-99003401 O-RING EPDM ARC/SPC/SRC"
+    ],
+    [
+     "86746",
+     "6-99035318 O-RING 69.44X3.53 EPDM-FDA"
+    ],
+    [
+     "86747",
+     "6-99035333 O-RING56.74X3.53 EPDM-FDA"
+    ],
+    [
+     "86748",
+     "6-99035338 O-RING 50.39X3.53XEPDM E8502"
+    ],
+    [
+     "86749",
+     "6-99035343 O-RING 37.69X3.53 EPDM-FDA"
+    ],
+    [
+     "88177",
+     "70000205739 250 L/MIN 29.5-31.6V"
+    ],
+    [
+     "88165",
+     "90510-312 PASSIVE BUS TERMINATION M12"
+    ],
+    [
+     "88147",
+     "90510-5633 TEMP.METER TPT12 4-20MA 0-160"
+    ],
+    [
+     "88172",
+     "90510-9869 FC SPLITER AS FLAT CABLE"
+    ],
+    [
+     "86788",
+     "90511-2831 SEAL RING DIN3760 120X150X12A"
+    ],
+    [
+     "88171",
+     "90511-4217 AS-I CABLE END SEAL IP 67NBR"
+    ],
+    [
+     "88151",
+     "90515-9361 VALVE 2100/90E W42.4X2.2.0 NC"
+    ],
+    [
+     "88149",
+     "90516-3155 PRESSURE TRNSMITTER PMP51G1/2"
+    ],
+    [
+     "88161",
+     "90518-8033 SUPPLY ASI 115/230VAC"
+    ],
+    [
+     "88160",
+     "90519-495 GATEWAY M4 VER3.0.AS-I 2 MASTE"
+    ],
+    [
+     "88167",
+     "90519-5121 POWER SUPPLY DN 24V DC 5.0A"
+    ],
+    [
+     "89624",
+     "90519-5275 ANALOGUE OUTPUT 4ET200SP IP20"
+    ],
+    [
+     "88156",
+     "90519-5275 ANALOGUE OUTPUT,4ET200SP IP20"
+    ],
+    [
+     "88157",
+     "90520.9413 PLC ACCESSORIES 160MM"
+    ],
+    [
+     "88146",
+     "90520-538 LEVEL SWITCH FTW33 TRI-CL1 1/2"
+    ],
+    [
+     "88154",
+     "90520-8576 PLC CHASIS ET200SP SL:18"
+    ],
+    [
+     "88153",
+     "90520-8580 BASE UNIT ET200SP CO"
+    ],
+    [
+     "88169",
+     "90521-2245 NETWORK CABLE AS.I U/UTP"
+    ],
+    [
+     "86347",
+     "90521-6711 VALVE3321/3372 DN40KVS25"
+    ],
+    [
+     "81421",
+     "90522-152 P.GAUGE SMS38 0-2.5 A 0.25BAR"
+    ],
+    [
+     "86204",
+     "90522-5898 GASKET PROMAG DN50 5H B"
+    ],
+    [
+     "88166",
+     "90522-9314 POWER SUPPLY PSU-1AC 24V DC"
+    ],
+    [
+     "88155",
+     "90523-7483 ANALOGUE INPUT,ET200SP 20MA"
+    ],
+    [
+     "88145",
+     "90524-6684 RADAR LEVEL METER FMR10 G1"
+    ],
+    [
+     "88152",
+     "90525-9050 IMPUT MODULE ET200SP 16D1 24C"
+    ],
+    [
+     "88168",
+     "90530-3776 CONECTOR FIELD WIRABLE RJ45"
+    ],
+    [
+     "88143",
+     "90533-2327 VALVE 3321/3372/3725 DN40"
+    ],
+    [
+     "89625",
+     "90533-744 TOUCH SCREEN MTP1200 12.1INCH"
+    ],
+    [
+     "88158",
+     "90533-760 CPU,S7-1500 1515-2PN4500.0 KB"
+    ],
+    [
+     "88354",
+     "905522-3731 ORING 24,2X3,0MM 70EPDM 291"
+    ],
+    [
+     "88159",
+     "905533-744 TOUCH SCREEN MTP1200 12.1INCH"
+    ],
+    [
+     "88058",
+     "90515-7517 GATEWAY ETHEENET IP TOSOL VAL"
+    ],
+    [
+     "85891",
+     "BUJE AC 23MM X 20MM"
+    ],
+    [
+     "17494",
+     "DIAFAGMA 1/4 PB SANTOPRENE"
+    ],
+    [
+     "19217",
+     "DIAFRAGMA C/TELA TEFLON 39-106751 497D"
+    ],
+    [
+     "17434",
+     "DIAFRAGMA 1/4\" DE TEFLON"
+    ],
+    [
+     "17435",
+     "JUNTA PB 1/4\""
+    ],
+    [
+     "15386",
+     "SEGURO SEGGER INOX PARA EJE 18MM"
+    ],
+    [
+     "19308",
+     "SELLO BOMBA LKH113 6-9611922102 SP.PKIT"
+    ],
+    [
+     "19561",
+     "SELLO P BOMBA SP.PART SHAFT COMPL EPDM"
+    ],
+    [
+     "19218",
+     "UNION INOX P/DIAFRAGMA DE TEFLON 10X49"
+    ],
+    [
+     "17484",
+     "6-9611922102 SELLO MECANICO"
+    ],
+    [
+     "80044",
+     "6-9614345791 LKH-110-113/163 5.5KW 50HZ"
+    ],
+    [
+     "87188",
+     "BASE FIJA SOPORTE HORIZONTAL INOX"
+    ],
+    [
+     "87191",
+     "BASE MOVIL HORIZONTAL INOX"
+    ],
+    [
+     "86077",
+     "BOQUILLA DE 60 MICRAS 399422 P/IMPRESORA"
+    ],
+    [
+     "87190",
+     "BUJE DE GUIA MAND.HORIZONTAL"
+    ],
+    [
+     "88381",
+     "CINTA TEFLON 130MICRAS 50MM"
+    ],
+    [
+     "87192",
+     "COLLARIN INOX"
+    ],
+    [
+     "86693",
+     "DIAFRAGMA 68MM"
+    ],
+    [
+     "87189",
+     "EJE GUIA MANDIBULA HORI.1/2W INOX JUEGO"
+    ],
+    [
+     "19061",
+     "MANDIBULA PORTA RESISTENCIA HOLANDESA"
+    ],
+    [
+     "18816",
+     "PISTON NEUMATICO CARRERA 80MM"
+    ],
+    [
+     "19343",
+     "PISTON NEUMATICO FESTO ADN 80"
+    ],
+    [
+     "80319",
+     "PISTON TETRA 45-STD"
+    ],
+    [
+     "88272",
+     "SENSOR DE PRESION 0-10BAR M12 DE 1/2\""
+    ],
+    [
+     "82364",
+     "SENSOR DE PRESION DIG.1/8-10BAR 2XPNP"
+    ],
+    [
+     "18186",
+     "TELA TEFLON 90 MICRA"
+    ],
+    [
+     "80681",
+     "AISLANTE CABLE RESISTENCIA ( CONECTOR )"
+    ],
+    [
+     "17768",
+     "FECHADOR HOT STAMPINGII SIN SOPORTE"
+    ],
+    [
+     "21790",
+     "RESISTENCIA HORIZONTAL HOLANDESA"
+    ],
+    [
+     "4183",
+     "RESISTENCIA VERTICAL HOLANDESA"
+    ],
+    [
+     "16529",
+     "SENSOR FOTOELECT DIAM 18MM 8-200MM 24VDC"
+    ],
+    [
+     "11919",
+     "SENSOR KTM-WP11181P"
+    ],
+    [
+     "15625",
+     "TELA TEFLON DE 130 MICRONES"
+    ],
+    [
+     "15123",
+     "TELA TEFLON 100 MICRONES S/ADHESIVO"
+    ],
+    [
+     "18341",
+     "TELE TEFLON 150 MICRONES"
+    ],
+    [
+     "14438",
+     "CINTA TRANSP. CADENA DE TABLILLA 31/4"
+    ],
+    [
+     "15567",
+     "CINTA TRASPORTADORA T/TABLA 4 1/2\"820K"
+    ],
+    [
+     "85731",
+     "BRAZO DOBLE ROSCA INOX FREZADO C/TUERCA"
+    ],
+    [
+     "85260",
+     "BRIDA P/BASCULANTE FESTO SNCB63"
+    ],
+    [
+     "86259",
+     "CABEZAL DE TAPA EN BRONCE TM23"
+    ],
+    [
+     "85228",
+     "EMPAQUETADURA TEADIT DE TEFLON 1/4\" 6,4M"
+    ],
+    [
+     "89909",
+     "FILTRO 5700 E-17079"
+    ],
+    [
+     "89908",
+     "KINETIX 5500 E-15713"
+    ],
+    [
+     "89911",
+     "MATERIAL ELECTRICO E-16795"
+    ],
+    [
+     "88459",
+     "MODULO ALLEN BRADLEY ENTR.ANALOG.5062-F8"
+    ],
+    [
+     "89910",
+     "MOTOR VPL BAJA INERCIA 240V E-15711"
+    ],
+    [
+     "18232",
+     "REDUCTORES DE VELOCIDAD HITT PAC 140"
+    ],
+    [
+     "16834",
+     "RESISTENCIA CARTUCHO 400W 5/8\"X76MM 230V"
+    ],
+    [
+     "89443",
+     "SERVOMOTOR VPL-B"
+    ],
+    [
+     "90147",
+     "TENSOR DE RESISTENCIAS P/BARRA SELLADOR"
+    ],
+    [
+     "80443",
+     "BUJE BAJADA DE VASOS PYC1"
+    ],
+    [
+     "80440",
+     "BUJE CORTA CHORRO PYC2"
+    ],
+    [
+     "19757",
+     "BUJE DE BRONCE D=40X80MM.PYC2"
+    ],
+    [
+     "80441",
+     "BUJE INFERIOR DE DOSIFICADO PYC1"
+    ],
+    [
+     "80444",
+     "BUJE SUBIDA DE VASOS PYC1"
+    ],
+    [
+     "80442",
+     "BUJE SUPERIROR DOSIFICADOR PYC1"
+    ],
+    [
+     "80435",
+     "BUJE 14X22 BRAZO CABEZAL PYC2"
+    ],
+    [
+     "80439",
+     "BUJE 24,5X30 DOSIFICADOR PYC2"
+    ],
+    [
+     "80438",
+     "BUJE 30X25 EJE SELLADOR PYC2"
+    ],
+    [
+     "18242",
+     "CABEZAL DE ACERO PARA PYC 140"
+    ],
+    [
+     "15652",
+     "CABEZAL DE ACERO PYC 350"
+    ],
+    [
+     "15653",
+     "CABEZAL DE BRONCE SOLDADURA DE VASO PYC"
+    ],
+    [
+     "87868",
+     "CABEZAL DE FECHADOR HOT STAMPING COMP.2"
+    ],
+    [
+     "86228",
+     "CABEZAL DE TAPA DE BRONCE DE 350"
+    ],
+    [
+     "80436",
+     "DADO DE HIERRO CORTA CHORRO PYC"
+    ],
+    [
+     "80437",
+     "DADO DE HIERRO INFERIOR DOSIFICADO PYC"
+    ],
+    [
+     "86229",
+     "NIPLE DE BRONCE ROSCADO C/ REGULADOR"
+    ],
+    [
+     "87236",
+     "PORTA CABEZAL DE BRONCE PARA PYC"
+    ],
+    [
+     "87237",
+     "PORTA RESISTENCIA INOX PARA SACHETADORA"
+    ],
+    [
+     "18243",
+     "SEGURO ROSCADO PORTA CABEZAL PYC"
+    ],
+    [
+     "87869",
+     "TUBO MOLDEADOR DIAMETRO 89MM"
+    ],
+    [
+     "15736",
+     "SEGURO SEGGER INOX INT DE 33MM"
+    ],
+    [
+     "82125",
+     "KIT DE REPARO P/PISTON DE 125 A 200MM"
+    ],
+    [
+     "16764",
+     "MERCANTIL"
+    ],
+    [
+     "82124",
+     "PISTON DE 125 A 200MM FA/NAC2-00"
+    ],
+    [
+     "18072",
+     "PISTON PARA HITTPACK 140 D41,8X33"
+    ],
+    [
+     "18071",
+     "PISTON PARA HITTPAK140 D40X33"
+    ],
+    [
+     "15559",
+     "PT-100 INOXIDABLE 6X50MM"
+    ],
+    [
+     "18073",
+     "SELLO FIVI P/PISTON DE HITTPACK140"
+    ],
+    [
+     "15336",
+     "SENSOR DE TEMP. PT-100 C/ROSCA DE 1/4"
+    ],
+    [
+     "15706",
+     "SOPORTE DE MAQUINA HITTPAC 140CC"
+    ],
+    [
+     "15412",
+     "JUNTA EPDM DE 4\" DIAMETRO"
+    ],
+    [
+     "80001",
+     "JUNTA ESPECIAL (363JE)"
+    ],
+    [
+     "13971",
+     "JUNTA DE PLACA INTERCAMBIADOR N35"
+    ],
+    [
+     "13972",
+     "JUNTA DE PLACA INTERCAMBIADOR VT20"
+    ],
+    [
+     "13973",
+     "JUNTA DE PLACA INTERCAMBIADOR VT40"
+    ],
+    [
+     "16717",
+     "JUNTA DE PLACA INTERCAMBIADORA M10B/BD"
+    ],
+    [
+     "16716",
+     "JUNTA PLACA INTERCAMBIADOR M10B/BD LVERD"
+    ],
+    [
+     "84724",
+     "JUNTA TIPO \"T\"ENTRADA Y SALIDA"
+    ],
+    [
+     "81940",
+     "331702860 PLACA DE FLUJO VT40H 0.6AISI"
+    ],
+    [
+     "81941",
+     "331712860 PLACA DE CAMBIO VT40H 0.6AISI"
+    ],
+    [
+     "81942",
+     "331732860 PLACA INICIAL VT40H 0.6AISI"
+    ],
+    [
+     "81943",
+     "4300539 ANILLO VT40 NBR"
+    ],
+    [
+     "81157",
+     "6-9611923010 SERVICE KIT LKLA NO/NC"
+    ],
+    [
+     "85749",
+     "BELLOWS ASSY-FOR 1/2\"-3/4\"Y1\""
+    ],
+    [
+     "86303",
+     "BHE PARA AGUA MOD.CB200-30L"
+    ],
+    [
+     "85652",
+     "CILINDRO ACTUADOR NEUMATICO 25MM 1A500M"
+    ],
+    [
+     "85139",
+     "CILINDRO ESBF-BS-40-100-5P"
+    ],
+    [
+     "81362",
+     "CINTA MODULO E50"
+    ],
+    [
+     "85828",
+     "CJ.JUNTAS BRV2-1/2\"-1\""
+    ],
+    [
+     "82532",
+     "CORONA COD.40444-P/SAF67 RED.29.63"
+    ],
+    [
+     "86892",
+     "CORONA PARA REDUCTOR DE BRONCE"
+    ],
+    [
+     "85706",
+     "HIDRAULICO P/PRENSA 15 TONELADA"
+    ],
+    [
+     "82218",
+     "HORQUILLA B.T."
+    ],
+    [
+     "81769",
+     "HORQUILLA E1453"
+    ],
+    [
+     "86221",
+     "LOGO V8 MOD AMPLAM2 24V2EA"
+    ],
+    [
+     "81607",
+     "MORDAZA MOVIL E1452"
+    ],
+    [
+     "82545",
+     "MOTOVIBRADOR MVE 200/3E-0,12HP TRIFASICO"
+    ],
+    [
+     "87459",
+     "O-RING 37,69X53 EPDM-FDA"
+    ],
+    [
+     "16867",
+     "O-RING 56.7X3.5 6-4722544201"
+    ],
+    [
+     "80969",
+     "PANEL VIEW PLUS - ESSI -E1972"
+    ],
+    [
+     "86302",
+     "PHE PARA LECHE MOD.MS6-SR"
+    ],
+    [
+     "81768",
+     "PORTA RESISTENCIA S.H E-1714"
+    ],
+    [
+     "86072",
+     "PURGADOR A BOYA 1/2 ROSCADO"
+    ],
+    [
+     "86361",
+     "REDUCTOR FCNDK63 1:40 IEC80-B5 1,00HP"
+    ],
+    [
+     "82009",
+     "REFRACTOMETRO DIGITAL P/MED. DE PROPILEN"
+    ],
+    [
+     "86489",
+     "SENSOR DE PRECION OPT1BAR P2010 C400MBAR"
+    ],
+    [
+     "82533",
+     "SIN FIN COD.40398-P/SAF67 RED.29.63"
+    ],
+    [
+     "81614",
+     "T SECTION BOMBA WILDEN"
+    ],
+    [
+     "85227",
+     "TERMOMETRO C/ SONDA TESTO 108"
+    ],
+    [
+     "89156",
+     "TRANSMISOR DE TEMPE.BT-35-200A 850°"
+    ],
+    [
+     "81606",
+     "TRANSMISOR E1963"
+    ],
+    [
+     "88783",
+     "UPS 150KVA/120KW WITHOUT BATTERY 150K"
+    ],
+    [
+     "88814",
+     "VALV REDUC.VAPOR BRV 2S 1/2 VERDE BSPT"
+    ],
+    [
+     "86567",
+     "00-3800-99-700-ASSY P025 SHAFT"
+    ],
+    [
+     "86568",
+     "00-3850-99-700-ASSY PILOT SPOOL"
+    ],
+    [
+     "87661",
+     "5H5B50-A0J5/0 PROMAG H500-5H5B50,DN50 2\""
+    ],
+    [
+     "87455",
+     "6-3131703772 SEAL SMS 38/48X5,5 AL113"
+    ],
+    [
+     "87456",
+     "6-3131703785 SEAL SMS 51/61X5,5 AL 113"
+    ],
+    [
+     "87457",
+     "6-3131703793 SEAL SMS 63,5/73,5X5,5"
+    ],
+    [
+     "87458",
+     "6-3131703803 SEAL 76,1/86X5,5 AL 113"
+    ],
+    [
+     "16868",
+     "6-4723137033 O-RING 58X3.5 FOODGRADE"
+    ],
+    [
+     "89259",
+     "6-9611922471 SERVICE KIT SOLIDC-2 EPDM S"
+    ],
+    [
+     "89033",
+     "6-9611992983 SP.PART ORING EPDM STANDAR"
+    ],
+    [
+     "87662",
+     "71346428 TUBO DE MONTAJE KIT TRANSM.500"
+    ],
+    [
+     "81325",
+     "90243-110 MEASURING INSTRUMENT"
+    ],
+    [
+     "82077",
+     "90522-5432 LEVEL SWITCH FTL33 10-30VDC"
+    ],
+    [
+     "82427",
+     "90526-8225 SAMSON ACTUADOR 33723725"
+    ],
+    [
+     "17171",
+     "JUNTA POLYPAK 20X26X6,5"
+    ],
+    [
+     "18718",
+     "PURGADOR A BOYA FT14.10 DE 3/4"
+    ],
+    [
+     "90243",
+     "PURGADOR INOX 304 DE 3/4\" ROSCADO"
+    ],
+    [
+     "88527",
+     "SELLO - SRL-3 BOMBA LOVULO"
+    ],
+    [
+     "87672",
+     "SELLO JCP/COMPR.HOUDEN RV163"
+    ],
+    [
+     "16026",
+     "SELLO MECANICO ALTA TEMP VITON 1 1/4\""
+    ],
+    [
+     "16027",
+     "SELLO MECANICO ALTA TEMP VITON 1 3/4\""
+    ],
+    [
+     "19259",
+     "SELLO MECANICO COMUN DE 1\""
+    ],
+    [
+     "18204",
+     "SELLO MECANICO DE VITON 1 1/2\""
+    ],
+    [
+     "18203",
+     "SELLO MECANICO DE VITON 1 3/8\""
+    ],
+    [
+     "90278",
+     "SELLO MECANICO DE 12MM DE VITON"
+    ],
+    [
+     "19153",
+     "SELLO MECANICO DE 18MM"
+    ],
+    [
+     "18908",
+     "SELLO MECANICO DE 3/4 T-16 IMPACOM"
+    ],
+    [
+     "86427",
+     "SELLO MECANICO EBARA EVMS5 15F5 Q1BEG"
+    ],
+    [
+     "15456",
+     "SELLO MECANICO EUROPEO DE 1 3/4\""
+    ],
+    [
+     "15453",
+     "SELLO MECANICO EUROPEO DE 1\""
+    ],
+    [
+     "15459",
+     "SELLO MECANICO EUROPEO DE 16MM"
+    ],
+    [
+     "15452",
+     "SELLO MECANICO EUROPEO DE 19MM"
+    ],
+    [
+     "15450",
+     "SELLO MECANICO EUROPEO DE 2 7/8\""
+    ],
+    [
+     "15449",
+     "SELLO MECANICO EUROPEO DE 2\""
+    ],
+    [
+     "15461",
+     "SELLO MECANICO EUROPEO DE 26MM"
+    ],
+    [
+     "15463",
+     "SELLO MECANICO EUROPEO DE 3/4\""
+    ],
+    [
+     "15444",
+     "SELLO MECANICO EUROPEO DE 35MM"
+    ],
+    [
+     "15446",
+     "SELLO MECANICO EUROPEO DE 38MM"
+    ],
+    [
+     "15455",
+     "SELLO MECANICO EUROPEO DE 40MM"
+    ],
+    [
+     "15460",
+     "SELLO MECANICO EUROPEO DE 41MM"
+    ],
+    [
+     "15445",
+     "SELLO MECANICO EUROPEO DE 45MM"
+    ],
+    [
+     "15454",
+     "SELLO MECANICO EUROPEO DE 47MM"
+    ],
+    [
+     "15451",
+     "SELLO MECANICO EUROPEO DE 48MM"
+    ],
+    [
+     "15447",
+     "SELLO MECANICO EUROPEO DE 50MM"
+    ],
+    [
+     "15462",
+     "SELLO MECANICO EUROPEO DE 53MM"
+    ],
+    [
+     "15448",
+     "SELLO MECANICO EUROPEO DE 55MM"
+    ],
+    [
+     "15443",
+     "SELLO MECANICO EUROPEO DE 60MM"
+    ],
+    [
+     "15457",
+     "SELLO MECANICO EUROPEO DE 65MM"
+    ],
+    [
+     "14446",
+     "SELLO MECANICO FC30"
+    ],
+    [
+     "16721",
+     "SELLO MECANICO SH SEAL S/S32MM LKH 10-60"
+    ],
+    [
+     "18719",
+     "SELLO MECANICO SI-900/1\"-Q1Q1VGG"
+    ],
+    [
+     "19150",
+     "SELLO MECANICO TIPO M DE 18MM"
+    ],
+    [
+     "18537",
+     "SELLO MECANICO TIPO 2-20MM"
+    ],
+    [
+     "13367",
+     "SELLO MECANICO 1 1/2"
+    ],
+    [
+     "20728",
+     "SELLO MECANICO 1 1/4\""
+    ],
+    [
+     "16694",
+     "SELLO MECANICO 1 1/8\""
+    ],
+    [
+     "20729",
+     "SELLO MECANICO 1 3/4\"VITON IMPACOM"
+    ],
+    [
+     "19573",
+     "SELLO MECANICO 1-1/2\"SI-900 Q1Q1EGG"
+    ],
+    [
+     "14272",
+     "SELLO MECANICO 1/2\""
+    ],
+    [
+     "20727",
+     "SELLO MECANICO 1\" DE VITON"
+    ],
+    [
+     "19195",
+     "SELLO MECANICO 28MM IMPACOM"
+    ],
+    [
+     "20726",
+     "SELLO MECANICO 3/4\" VOTON"
+    ],
+    [
+     "16695",
+     "SELLO MECANICO 32MM ALFA LAVAL CA/SIL/VT"
+    ],
+    [
+     "81868",
+     "SELLO MECANICO 33MM SI-620/33Q1Q1EGG-G60"
+    ],
+    [
+     "20730",
+     "SELLO MECANICO 5/8\""
+    ],
+    [
+     "16298",
+     "SELLO MECANICO 55MM SI-602/55 Q1Q1VGGG60"
+    ],
+    [
+     "15842",
+     "SELLO MECANICO 7/8\""
+    ],
+    [
+     "86872",
+     "ACCESORIO DE MONTAJE TRICLAM 1-1/2\""
+    ],
+    [
+     "17514",
+     "BOBINA MAGNETICA MSFG-24/42-50/60 FESTO"
+    ],
+    [
+     "81241",
+     "CONDUCTIVIMETRO CLD18-BMOK SMARTEC TRANS"
+    ],
+    [
+     "86871",
+     "CONDUCTIVIMETRO KRONES VGBA455202100011"
+    ],
+    [
+     "18968",
+     "DIAFRAGMA BOMBA MYTHO DIC138VPPC4000"
+    ],
+    [
+     "18965",
+     "DIAFRAGMA BOMBA MYTHO DIC165VPPC4000"
+    ],
+    [
+     "88274",
+     "DIAFRAGMA DE TEFLON DOSIVAC DDI 300/600"
+    ],
+    [
+     "19678",
+     "FTW33-CA4N LIQUIPOINT FTW33"
+    ],
+    [
+     "16450",
+     "FUELLE BELLOWS TA25 6-4722198801"
+    ],
+    [
+     "19206",
+     "JUEGO DE REPARO DE BOMBA VICKING"
+    ],
+    [
+     "80764",
+     "JUNTA D30X3 H-ECOPUR 01023027"
+    ],
+    [
+     "80768",
+     "JUNTA SUP. CUERPO VAL. SEG. 04729839"
+    ],
+    [
+     "80765",
+     "JUNTA SUP.TOPE VALV. SEG 047298009"
+    ],
+    [
+     "80766",
+     "JUNTA SUPERIOR ASE V.S 04729859"
+    ],
+    [
+     "80987",
+     "JUNTA 1,5 X5MM DOSIFICADO HAIPAC 1"
+    ],
+    [
+     "87735",
+     "MOTOR TRIFASICO 4P IP55 W22 C160L"
+    ],
+    [
+     "16746",
+     "PERNO P/SOPORTE DE CUCHILLA DE QUECERIAS"
+    ],
+    [
+     "80672",
+     "PIÑON MN175 Z21"
+    ],
+    [
+     "81504",
+     "PLC 5380 3MB 60NOD 31 MOD 16AXI E-16748"
+    ],
+    [
+     "80038",
+     "PREFILTRO DE AIRE UMA 59X49X4,5CM."
+    ],
+    [
+     "87276",
+     "RASPADOR P/PAILA DE DULCES 2000 LTRS"
+    ],
+    [
+     "81891",
+     "RASPADOR PARA PAILA"
+    ],
+    [
+     "87218",
+     "SENSOR DE CONDUCTIVIDAD OPTISYS 8100.15C"
+    ],
+    [
+     "16747",
+     "SOPORTE DE MANCAL VIELETA PYC"
+    ],
+    [
+     "18967",
+     "VALVULA RECALQUE BOMBA MYTHO DIC165VPPC4"
+    ],
+    [
+     "18969",
+     "VALVULA SUCCION BOMBA MYTHO DIC138VPP400"
+    ],
+    [
+     "18966",
+     "VALVULA SUCCION BOMBA MYTHO DIC165VPPC40"
+    ],
+    [
+     "80673",
+     "WHEEL 2 MN175 Z51"
+    ],
+    [
+     "81701",
+     "28-609-00 GOMA P/VALV. MARIPOSA 101MM"
+    ],
+    [
+     "89839",
+     "6-3287156493 BHE CB110 50L THREADEXT21/2"
+    ],
+    [
+     "85825",
+     "6-4722198701 BELLOW FUELLE ALEX 2.150.20"
+    ],
+    [
+     "17633",
+     "6-9611922102 KITLKH-113-SSS-3-18.5KWEPDM"
+    ],
+    [
+     "89861",
+     "6-9611923030 SERVICE KIT EPDM LKB ISO"
+    ],
+    [
+     "89862",
+     "6-9611923031 SERVICE KIT EPDM LKB ISO"
+    ],
+    [
+     "89863",
+     "6-9611923032 SERVICE KIT EPDM LKB ISO"
+    ],
+    [
+     "89860",
+     "6-9615400404 TTV50 24V DIG M12 1SV 6MM"
+    ],
+    [
+     "81700",
+     "60-095-00 RASPADOR P/PAILA UAMH"
+    ],
+    [
+     "17083",
+     "MANOMETRO DE 0 A 10 P/AGUA 1/4\""
+    ],
+    [
+     "85722",
+     "MANOMETRO 1/4\"0 A 10BAR ROC. POSTERIOR"
+    ],
+    [
+     "86353",
+     "ACOPLAMIENTO AT50 46MM ANTARES 10 A 25HP"
+    ],
+    [
+     "17556",
+     "CAPSULA ZM BOMBADUR"
+    ],
+    [
+     "19181",
+     "DRENO AUTOMATICO P/ FILTRO"
+    ],
+    [
+     "81981",
+     "ELEMENTO FILTRANTRE DE 1/2\""
+    ],
+    [
+     "19056",
+     "FILTRO ELGIN ROSCA 1/2\""
+    ],
+    [
+     "17555",
+     "JUEGO DE SELLO ZM BOMBADUR (CARBON/TAPA)"
+    ],
+    [
+     "86209",
+     "REDUCT.DE PRESION DN20 BSP 84-3405502778"
+    ],
+    [
+     "18939",
+     "VALVULA DE 4VIAS P/ AIRE DE 9000BTU"
+    ],
+    [
+     "85432",
+     "VENTILADOR PARA MOTOR 200 2P WEG"
+    ],
+    [
+     "81982",
+     "VISORES RETORNO DE ACEITE"
+    ],
+    [
+     "13855",
+     "ACOPLE ROTULAR GUMMI M28 P/ VMC"
+    ],
+    [
+     "18445",
+     "BOBINA VALV.DIRECCIONAL CID 220V HOWDEN"
+    ],
+    [
+     "80026",
+     "CARCAZA PARA FA7"
+    ],
+    [
+     "18444",
+     "ELEMENTO FILTRANTE BAH 1/2\"NH3 HOWDEN"
+    ],
+    [
+     "81923",
+     "ELEMENTO FILTRANTE 5 MICRAS CSF16 1\""
+    ],
+    [
+     "18441",
+     "GOMA P/ ACOPLAMIENTO FA7/0-1 PE2750246"
+    ],
+    [
+     "18443",
+     "GOMA P/ VIDRIO VISOR DE ACEITE HOWDEN"
+    ],
+    [
+     "18423",
+     "KIT DE IMPECCION P/ COMP.HOWDEN WRV 163"
+    ],
+    [
+     "18421",
+     "KIT RODAMIENTO P/ COMP.HOWDEN WRV 163"
+    ],
+    [
+     "18334",
+     "SELLO MECANICO P/ BOMBA PEDROLLO 19MM"
+    ],
+    [
+     "81152",
+     "SELLO MECANICO P/BOMBA LOBULO JABCO 1\""
+    ],
+    [
+     "18422",
+     "SELLO MECANICO P/COMPRESOR HOWDEN WRV163"
+    ],
+    [
+     "17256",
+     "SELLO MEKNICO NEOPRENE P/ BOMB HL 495 VI"
+    ],
+    [
+     "18446",
+     "VALV. DIRECCIONAL CIF 2SH4-12-2 HOWDEN"
+    ],
+    [
+     "16833",
+     "VALV.SEGURIDAD1/2\"SFV15T 18 BAR DANFOS"
+    ],
+    [
+     "82366",
+     "VIDRIO VISOR INOX 3/4\"GENEBRE"
+    ],
+    [
+     "18442",
+     "VIDRIO VISOR TRANSPARENTE 60X10MM HOWDEN"
+    ],
+    [
+     "6905",
+     "CHIPS P/ CALDERA"
+    ],
+    [
+     "20400",
+     "GASOIL"
+    ],
+    [
+     "20470",
+     "LEÑA"
+    ],
+    [
+     "89380",
+     "FINEAMIN 95T"
+    ],
+    [
+     "86678",
+     "INSUMOS PARA FECHADORAS"
+    ],
+    [
+     "86670",
+     "SOLVENTE DE LIMPIEZA BASE METANOL 1L"
+    ],
+    [
+     "19114",
+     "TINTA NEGRA MA SOJET 52S+"
+    ],
+    [
+     "20841",
+     "ERPON RSP"
+    ],
+    [
+     "20404",
+     "KEMABIO 1421"
+    ],
+    [
+     "20405",
+     "KEMABIO 1435"
+    ],
+    [
+     "8385",
+     "KEMAZUR 1214"
+    ],
+    [
+     "20403",
+     "KEMAZUR 1239"
+    ],
+    [
+     "13582",
+     "SOLERPON AP-P"
+    ],
+    [
+     "25024",
+     "SOLERPON SDK"
+    ],
+    [
+     "85190",
+     "ADITIVO NEGRO P/CITRO.METIL ETIL CETONA"
+    ],
+    [
+     "8755",
+     "ADITIVO NEGRO P/CITRONIX"
+    ],
+    [
+     "86671",
+     "ADITIVO PARA VIDEO JET METANOL 75ML"
+    ],
+    [
+     "85235",
+     "ADITIVO PLASTIC METIL ETIL CETONA DE 750"
+    ],
+    [
+     "89508",
+     "CARTUCHO SOLVENTE V705D 750ML"
+    ],
+    [
+     "85901",
+     "DILUYENTE INK JET SV 1199 M/A DE 750 ML"
+    ],
+    [
+     "5670",
+     "DILUYENTE TH-TYPE A HITACHI DE 1 LITRO"
+    ],
+    [
+     "21122",
+     "GLICERINA LIQUIDA"
+    ],
+    [
+     "8757",
+     "SOLVENTE METIL ETIL CETONA DE 1LT CITRON"
+    ],
+    [
+     "23727",
+     "SOLVENTE VIDEO JET 8535 V705-D"
+    ],
+    [
+     "81043",
+     "SOLVENTE V705-D METIL ETIL CETONA DE 750"
+    ],
+    [
+     "85902",
+     "TINTA NEGRA INK JET 1188 M/A DE 1 LITRO"
+    ],
+    [
+     "5272",
+     "TINTA NEGRA JP-K67 HITACHI DE 1 LITRO"
+    ],
+    [
+     "8756",
+     "TINTA PLASTIC METIL ETIL CETONA DE 750ML"
+    ],
+    [
+     "17611",
+     "TINTA VIDEOJET V410D"
+    ],
+    [
+     "4380",
+     "TINTA VIDEOJET 8530"
+    ],
+    [
+     "85236",
+     "TINTA V410-D METIL ETIL CETONA DE 750 ML"
+    ]
+   ]
+  },
+  {
+   "id": "marketing",
+   "nombre": "Marketing",
+   "items": [
+    [
+     "109338",
+     "AGENDA LP 2026 PINTA SORISAS"
+    ],
+    [
+     "89906",
+     "BANDERITA PARAGUAY C/ SOPORTE"
+    ],
+    [
+     "12688",
+     "BOLSO TERMICO"
+    ],
+    [
+     "39603",
+     "BOLSO TERMICO 25 AÑOS"
+    ],
+    [
+     "13033",
+     "BOLSOS TERMICOS C/LOGO BORDADOºº"
+    ],
+    [
+     "17400",
+     "CLIPS DE PLASTICOS"
+    ],
+    [
+     "107610",
+     "DELANTAL ECONIMICO BLANCO"
+    ],
+    [
+     "109249",
+     "DELANTAL TELA PINTA SONRISAS"
+    ],
+    [
+     "102337",
+     "ESTANTES LECHES UAT 2022"
+    ],
+    [
+     "80087",
+     "FRASCO 1062 ML"
+    ],
+    [
+     "80088",
+     "FRASCO 850 ML"
+    ],
+    [
+     "109250",
+     "INDIVIDUALES TELA PINTA SONRISAS"
+    ],
+    [
+     "39575",
+     "MANOPLA DE GOMA VACA"
+    ],
+    [
+     "109251",
+     "MANOPLAS TELA PINTA SONRISAS"
+    ],
+    [
+     "89948",
+     "MASCARA PLASTICA VAQUITA"
+    ],
+    [
+     "19360",
+     "MASCARILLAS DE ACETATO"
+    ],
+    [
+     "19116",
+     "MOLDE PARA GALLETITAS"
+    ],
+    [
+     "90223",
+     "PELUCHE VAQUITA GRANDE LA PRADERA"
+    ],
+    [
+     "6789",
+     "PELUCHE VAQUITA LA PRADERA"
+    ],
+    [
+     "109252",
+     "POSAVASOS TELA PINTA SONRISAS"
+    ],
+    [
+     "104652",
+     "POTE BOWL MANCHA VACA"
+    ],
+    [
+     "104653",
+     "POTE BOWL VERDE LP"
+    ],
+    [
+     "21111",
+     "RECETARIOS LA PRADERA"
+    ],
+    [
+     "101129",
+     "REMERA ALBIRROJA PUMA"
+    ],
+    [
+     "89950",
+     "REMERA LA PRADERA PARAGUAY"
+    ],
+    [
+     "90307",
+     "REMERA POLO WRC 2026"
+    ],
+    [
+     "89213",
+     "SACOCHILA MOCHILA C/ IMPRESION"
+    ],
+    [
+     "4863",
+     "TALLIMETRO"
+    ],
+    [
+     "89680",
+     "TAZA ACERO INOX LP"
+    ],
+    [
+     "106963",
+     "TAZA DE ALUMINIO COCIDO"
+    ],
+    [
+     "89402",
+     "TAZAS DIA DE LOS ENAMORADOS"
+    ],
+    [
+     "109292",
+     "TAZAS PINTA SORISAS DE PORCELANA"
+    ],
+    [
+     "89951",
+     "TERMO DE MATE C/ YERBERO"
+    ],
+    [
+     "88632",
+     "TERMO DE TERERE ECONOMICO"
+    ],
+    [
+     "107828",
+     "TERMO FORRADO P/ TERERE 2LTS. LP"
+    ],
+    [
+     "89681",
+     "TUPPER ACERO INOX MANCHAS/VAQUITA 591 ML"
+    ],
+    [
+     "37013",
+     "TUPPER LA PRADERA"
+    ],
+    [
+     "107352",
+     "VAQUITA DE ARCILLA"
+    ],
+    [
+     "39023",
+     "VASOS TERMICOS DE PORCELANA"
+    ],
+    [
+     "87687",
+     "ACCESORIO CAJA PEQUEÑA 30 AÑOS 2025"
+    ],
+    [
+     "86971",
+     "AFICHE COCIDO CON LECHE 37,5 X 56"
+    ],
+    [
+     "90072",
+     "AFICHE DULCE DE LECHE 0"
+    ],
+    [
+     "85853",
+     "AFICHE SIN LACTOSA NUEVO"
+    ],
+    [
+     "85113",
+     "AFICHE YOGUR NUEVA PRESENT. 2023"
+    ],
+    [
+     "85852",
+     "AFICHES LARGA VIDA 2023"
+    ],
+    [
+     "87471",
+     "AFICHES MERMELADA DE GUAYABA"
+    ],
+    [
+     "104606",
+     "AGENDA FIN DE AÑO 2023"
+    ],
+    [
+     "106132",
+     "AGENDA LA PRADERA 2024 MANCHAS"
+    ],
+    [
+     "100293",
+     "AGENDAS LA PRADERA 2021"
+    ],
+    [
+     "101388",
+     "AGENDAS LP 2022"
+    ],
+    [
+     "105667",
+     "ALFAJOR LA PRADERA BY COCO LEIVA"
+    ],
+    [
+     "101237",
+     "ALFAJORES LA PRADERA DULCE MANJAR"
+    ],
+    [
+     "108044",
+     "ALFAJORES PASCUAS D/CACAO COCO L"
+    ],
+    [
+     "105187",
+     "ALFAJORES PASCUAS LA OMA"
+    ],
+    [
+     "100054",
+     "ALFAJORES TATAKUA LP"
+    ],
+    [
+     "102140",
+     "ALMOHADA PEPE VAQUITA"
+    ],
+    [
+     "87030",
+     "ALQUILER DE PANTALLA EXPO"
+    ],
+    [
+     "87028",
+     "ALQUILER DE PANTALLAS EXPO"
+    ],
+    [
+     "88577",
+     "ALQUILER MESA DE QUESOS"
+    ],
+    [
+     "89056",
+     "ARO DE LUZ MKT"
+    ],
+    [
+     "88741",
+     "BACKPODIUM LP PINTA SONRISAS"
+    ],
+    [
+     "84795",
+     "BICICLETA REYES MAGOS"
+    ],
+    [
+     "87311",
+     "BLANQUEAMIENTO DE MOVIL"
+    ],
+    [
+     "38088",
+     "BLAZER SIN SOLAPA DAMAS OCRE"
+    ],
+    [
+     "38089",
+     "BLUSA C/ ALFORCITAS DAMAS OCRE"
+    ],
+    [
+     "107539",
+     "BLUSA INMI DEGUSTADORAS"
+    ],
+    [
+     "39039",
+     "BLUSA P/EMBARAZADA OCRE"
+    ],
+    [
+     "9849",
+     "BORDADO EN MOCHILAS"
+    ],
+    [
+     "20741",
+     "BOTA DE GOMA BLANCA CAÑO LARGO"
+    ],
+    [
+     "20639",
+     "BOTA DE GOMA NEGRA"
+    ],
+    [
+     "89972",
+     "BOTA NEW HOLLAND FATTORIA CHOCOLATE Nº37"
+    ],
+    [
+     "13297",
+     "BOTA WORKSAFE MARRON-INACT."
+    ],
+    [
+     "10852",
+     "BRAZALETE BRIGADA"
+    ],
+    [
+     "22510",
+     "BUFANDA"
+    ],
+    [
+     "81464",
+     "CAJA FIN DE AÑO 2021"
+    ],
+    [
+     "87684",
+     "CAJA GRANDE 30 AÑOS 2025"
+    ],
+    [
+     "87686",
+     "CAJA PEQUEÑA 30 AÑOS 2025"
+    ],
+    [
+     "85229",
+     "CAJAS LA ALEMANA CENTRO"
+    ],
+    [
+     "87705",
+     "CAJITA DL 250 Y DG 250 30 AÑOS"
+    ],
+    [
+     "86203",
+     "CAJITA MANCHAS OBSEQUIO 2023"
+    ],
+    [
+     "85168",
+     "CALCOMANIA DE VISICULER"
+    ],
+    [
+     "88934",
+     "CALCOMANIA P/ MOVIL SENACSA"
+    ],
+    [
+     "81389",
+     "CALENDARIO DE MESA 2022"
+    ],
+    [
+     "84611",
+     "CALENDARIO DE MESA 2023"
+    ],
+    [
+     "86150",
+     "CALENDARIO DE MESA 2024"
+    ],
+    [
+     "87683",
+     "CALENDARIO DE MESA 2025"
+    ],
+    [
+     "81390",
+     "CALENDARIO DE PARED 2022"
+    ],
+    [
+     "84610",
+     "CALENDARIO DE PARED 2023"
+    ],
+    [
+     "86133",
+     "CALENDARIO DE PARED 2024 MANCHAS"
+    ],
+    [
+     "87595",
+     "CALENDARIO DE PARED 2025"
+    ],
+    [
+     "89339",
+     "CALENDARIO DE PARED 2026"
+    ],
+    [
+     "89340",
+     "CALENDARIOS DE MESAS 2026"
+    ],
+    [
+     "23079",
+     "CALZADOS DEP.DEGUSTADORAS"
+    ],
+    [
+     "17230",
+     "CAMBIO Y REPARACION DE CARTEL"
+    ],
+    [
+     "22427",
+     "CAMISA CABALLERO UNIFORME"
+    ],
+    [
+     "382",
+     "CAMISA CELESTE P/CABALLERO M/C"
+    ],
+    [
+     "147",
+     "CAMISA CELESTE P/DAMA M/C"
+    ],
+    [
+     "22426",
+     "CAMISA DAMA UNIFORME"
+    ],
+    [
+     "38697",
+     "CAMISA M/C CABALLEROS"
+    ],
+    [
+     "38091",
+     "CAMISA M/L CABALLEROS OCRE"
+    ],
+    [
+     "14048",
+     "CAMISA M/L UNIFORME CABALLERO"
+    ],
+    [
+     "5571",
+     "CAMISAS CELESTE M/L DAMA"
+    ],
+    [
+     "11235",
+     "CAMPERA INVIERNO IMPERMEABLE"
+    ],
+    [
+     "21189",
+     "CAMPERA P/DEGUSTACION"
+    ],
+    [
+     "4470",
+     "CAMPERA TIPO POLAR"
+    ],
+    [
+     "21014",
+     "CAMPERON GRIS P/CAMARA"
+    ],
+    [
+     "87310",
+     "CARTEL ACM TAMBITO LP"
+    ],
+    [
+     "84742",
+     "CARTEL NUEVO SALON OVIEDO"
+    ],
+    [
+     "89215",
+     "CARTEL SALON ABASTO NORTE"
+    ],
+    [
+     "89390",
+     "CARTEL SUCURSAL CDE"
+    ],
+    [
+     "87724",
+     "CARTEL TROQUEL 30 AÑOS"
+    ],
+    [
+     "81541",
+     "CARTELERIA CAPIIBARY"
+    ],
+    [
+     "89139",
+     "CARTELERIA DITRI. CHORE"
+    ],
+    [
+     "88712",
+     "CARTELERIA SALON PERU"
+    ],
+    [
+     "88061",
+     "CARTELES PASILLO DE VISITAS"
+    ],
+    [
+     "22512",
+     "CARTUCHERA"
+    ],
+    [
+     "108804",
+     "CATALOGO LP PINTA SONRISAS"
+    ],
+    [
+     "85161",
+     "CENEFA INTERIOR ENCARNACION NUEVO"
+    ],
+    [
+     "86972",
+     "CENEFA PORTA PRECIO COCIDO CON LECHE"
+    ],
+    [
+     "90073",
+     "CENEFA PORTA PRECIO 2026"
+    ],
+    [
+     "18469",
+     "CENEFAS DE ARROZ CON LECHE"
+    ],
+    [
+     "24934",
+     "CHALECO IMPERMEABLE C/IMPRESION"
+    ],
+    [
+     "30510",
+     "CHAMPIONCITO B/N-INACT."
+    ],
+    [
+     "20658",
+     "CHAQUETA AZUL MANGA CORTA"
+    ],
+    [
+     "20659",
+     "CHAQUETA AZUL MANGA LARGA"
+    ],
+    [
+     "20604",
+     "CHAQUETA BLANCA PRODUC."
+    ],
+    [
+     "22513",
+     "CHAQUETA GRIS CAMARA"
+    ],
+    [
+     "85665",
+     "CLISE ALFAJOR COCO LEIVA"
+    ],
+    [
+     "81728",
+     "CLISE ALFAJOR PASCUAS"
+    ],
+    [
+     "90081",
+     "CLISE DULCE 0 DE 40 GR"
+    ],
+    [
+     "22514",
+     "COFIA AZUL MANT."
+    ],
+    [
+     "101632",
+     "COFIA BLANCA GRIMM LP"
+    ],
+    [
+     "9921",
+     "COFIA GRIS CAMARA/PALETIZ."
+    ],
+    [
+     "21473",
+     "COFIAS BLANCA PRODUC."
+    ],
+    [
+     "6782",
+     "CONSERVADORA 50 LTS."
+    ],
+    [
+     "85552",
+     "CORPOREO LOGO LP EXPO"
+    ],
+    [
+     "86910",
+     "CORPOREO VAQUITA SILUETA"
+    ],
+    [
+     "87685",
+     "CUNA CAJA GRANDE 2025"
+    ],
+    [
+     "86202",
+     "CUNITA OBSEQUIO 2023"
+    ],
+    [
+     "87309",
+     "CUNITA PACK DULCE MOLDE GALLETITA"
+    ],
+    [
+     "88185",
+     "CURSILLO DE SEMANA SANTA"
+    ],
+    [
+     "101631",
+     "DELANTAL GRIMM LP"
+    ],
+    [
+     "36525",
+     "DELANTAL TELA LP CON LOGO"
+    ],
+    [
+     "5106",
+     "DELANTAL VACA"
+    ],
+    [
+     "21314",
+     "DELANTAL VERDE"
+    ],
+    [
+     "18503",
+     "DELNATAL CARA VACA"
+    ],
+    [
+     "87726",
+     "DESMONTAJE DE PESEBRE"
+    ],
+    [
+     "108935",
+     "ENTRADA VIP ALBIRROJA PARAGUAY"
+    ],
+    [
+     "85318",
+     "ETIQUETA ALFA.PASCUAS LA OMA"
+    ],
+    [
+     "85666",
+     "ETIQUETA ALFAJOR COCO LEIVA"
+    ],
+    [
+     "85464",
+     "ETIQUETA DIA DE LA MADRE DULCE 40 GR"
+    ],
+    [
+     "90080",
+     "ETIQUETA DULCE 0 40 GR"
+    ],
+    [
+     "85317",
+     "ETIQUETA PASCUAS PECHU LP 40GR"
+    ],
+    [
+     "82143",
+     "EVENTO CHOCOLATZAL"
+    ],
+    [
+     "86019",
+     "EVENTO DE PEDIATRIA"
+    ],
+    [
+     "88482",
+     "EVENTO EXPO COMAMPAR"
+    ],
+    [
+     "88289",
+     "EVENTO GASTRONOMIK"
+    ],
+    [
+     "89187",
+     "EXPO IRUÑA"
+    ],
+    [
+     "89015",
+     "EXPO SAN PEDRO"
+    ],
+    [
+     "13159",
+     "GLOBO LA PRADERA CHINA"
+    ],
+    [
+     "22922",
+     "GORRITO POLAR"
+    ],
+    [
+     "21116",
+     "GUARDAPOLVO BLANCO ML"
+    ],
+    [
+     "88847",
+     "ILUSTRACION VAQUITAS LP PINTA SONRISAS"
+    ],
+    [
+     "89210",
+     "IMPRESION TELA LP 2025 TIZADA"
+    ],
+    [
+     "23136",
+     "INDIVIDUALES LA PRADERA"
+    ],
+    [
+     "88445",
+     "INDIVIDUALES PAPEL 30 AÑOS"
+    ],
+    [
+     "82256",
+     "INFORMACION DULCE DE LECHE"
+    ],
+    [
+     "18920",
+     "JUEGO DE OLLAS DE COCINA"
+    ],
+    [
+     "105732",
+     "KEPI JOSHUA"
+    ],
+    [
+     "156",
+     "KEPIS BORDADO BLANCO"
+    ],
+    [
+     "21527",
+     "KEPIS BORDADO BLANCO"
+    ],
+    [
+     "21526",
+     "KEPIS BORDADO NEGRO"
+    ],
+    [
+     "87704",
+     "LIMPIEZA DE CARTEL SALON"
+    ],
+    [
+     "6809",
+     "MANTEL LA PRADERA"
+    ],
+    [
+     "22833",
+     "MASCARAS LP-EXPO"
+    ],
+    [
+     "86911",
+     "MDF ALTO TRANSITO PARA EXPO 2024"
+    ],
+    [
+     "102041",
+     "MEDIALUNAS EXPO"
+    ],
+    [
+     "9772",
+     "MOCHILA C/BORDADO PERSONALIZADO"
+    ],
+    [
+     "9765",
+     "MOCHILA GRIS REGALO FIN DE AÑO"
+    ],
+    [
+     "18126",
+     "MOCHILAS ECOLOGICAS"
+    ],
+    [
+     "88497",
+     "MUEBLE BLU TRADE SALON UAT"
+    ],
+    [
+     "88275",
+     "MUEBLE BLU TREDE SALONES"
+    ],
+    [
+     "86909",
+     "MUEBLE DE MERCHAND PARA EXPO"
+    ],
+    [
+     "81092",
+     "MUEBLE PARA LECHE UAT"
+    ],
+    [
+     "88387",
+     "MUEBLE TAZA GRANDE"
+    ],
+    [
+     "88442",
+     "MUEBLE TAZA LP"
+    ],
+    [
+     "81176",
+     "MUEBLES DE SIXPACK UAT"
+    ],
+    [
+     "100219",
+     "PAN DULCE CHOCOCHIPS LA PRADERA"
+    ],
+    [
+     "7692",
+     "PANTALON AZUL MANT."
+    ],
+    [
+     "39492",
+     "PANTALON BLANCO PROD. TAM ESPECIAL"
+    ],
+    [
+     "20603",
+     "PANTALON BLANCO PRODUC."
+    ],
+    [
+     "12588",
+     "PANTALON CABALLERO MANTENIMIENTO"
+    ],
+    [
+     "22548",
+     "PANTALON CABALLERO OFICINA"
+    ],
+    [
+     "38696",
+     "PANTALON CLASICO P/DAMA"
+    ],
+    [
+     "22120",
+     "PANTALON CON LOGO-INACT."
+    ],
+    [
+     "12589",
+     "PANTALON DAMA OFICINA"
+    ],
+    [
+     "38090",
+     "PANTALON DAMAS OCRE"
+    ],
+    [
+     "38092",
+     "PANTALON DE SARGA CABALLEROS OCRE"
+    ],
+    [
+     "39493",
+     "PANTALON GRIS CON CINTA REFLEC"
+    ],
+    [
+     "20875",
+     "PANTALON GRIS LP P/M"
+    ],
+    [
+     "39491",
+     "PANTALON GRIS LP TAMAÑO ESPECIAL"
+    ],
+    [
+     "26049",
+     "PANTALON GRIS POLAR P/CAMARA"
+    ],
+    [
+     "107540",
+     "PANTALON INMI DEGUSTADORAS"
+    ],
+    [
+     "20758",
+     "PANTALON JEANS SALON"
+    ],
+    [
+     "38695",
+     "PANTALON MANGO C/BOLSILLOS"
+    ],
+    [
+     "39040",
+     "PANTALON P/EMBARAZADA"
+    ],
+    [
+     "38262",
+     "PANTALON TALLE ESPECIAL DAMA"
+    ],
+    [
+     "37959",
+     "PANTALONES CONF. LOMBARDO"
+    ],
+    [
+     "86869",
+     "PARRILLA ENROLLABLE DIA DEL PADRE"
+    ],
+    [
+     "89349",
+     "PATIN ELECTRICO REYES 2026"
+    ],
+    [
+     "88444",
+     "PINTURA SALON NUEVO CAPIATA INTERIOR"
+    ],
+    [
+     "87882",
+     "PINTURA Y PLOTEADO FURGON 30 AÑOS"
+    ],
+    [
+     "89932",
+     "PINTURA Y PLOTEADO NUEVO LOGO 2026"
+    ],
+    [
+     "88443",
+     "PINTURA ZOCALO PASILLO VISITAS"
+    ],
+    [
+     "87121",
+     "PLOTEADO BALDES"
+    ],
+    [
+     "87884",
+     "PLOTEADO CONGELADOR VERTICAL SUPER"
+    ],
+    [
+     "87883",
+     "PLOTEADO CULATA Y LATERAL 30 AÑOS"
+    ],
+    [
+     "87029",
+     "PLOTEADO DE TERMO CALIENTE"
+    ],
+    [
+     "81540",
+     "PLOTEADO DE VISICOOLER INTERIOR"
+    ],
+    [
+     "18476",
+     "PLOTEADO POTE ARROZ CON LECHE"
+    ],
+    [
+     "85466",
+     "PLOTEADO SUCURSAL INTERIOR"
+    ],
+    [
+     "89347",
+     "PLOTEDO MUEBLES PINTA SONRISAS ADMINIS"
+    ],
+    [
+     "89544",
+     "PORTA AFICHES PRODUCCION"
+    ],
+    [
+     "18472",
+     "PRENDEDORES DE ARROZ CON LECHE"
+    ],
+    [
+     "20660",
+     "REMERA AZUL MC"
+    ],
+    [
+     "35950",
+     "REMERA AZUL ML"
+    ],
+    [
+     "20602",
+     "REMERA BLANCA MC"
+    ],
+    [
+     "108803",
+     "REMERA BLANCA WRC PECHUGON"
+    ],
+    [
+     "101630",
+     "REMERA CUELLO REDONDO GRIMM LP"
+    ],
+    [
+     "28436",
+     "REMERA GRIS MC"
+    ],
+    [
+     "27805",
+     "REMERA GRIS ML"
+    ],
+    [
+     "85673",
+     "REMERA JOSHUA"
+    ],
+    [
+     "88305",
+     "REMERA OBSEQUIO 30 AÑOS"
+    ],
+    [
+     "27827",
+     "REMERA PIQUET GRIS C/BORDADO-INACT."
+    ],
+    [
+     "11990",
+     "REMERA POLO /BORDADO ACTUAL"
+    ],
+    [
+     "20777",
+     "REMERA POLO C/IMPRESION-INACT."
+    ],
+    [
+     "101629",
+     "REMERA POLO GRIMM LP"
+    ],
+    [
+     "37370",
+     "REMERA PROMO GELATINAS DIET."
+    ],
+    [
+     "37747",
+     "REMERA PROMO VARIOS"
+    ],
+    [
+     "36446",
+     "REMERA PROMOCION GRIEGO"
+    ],
+    [
+     "9920",
+     "REMERA PROMOCION POSTRE"
+    ],
+    [
+     "35953",
+     "REMERA T/POLO CAB G/XG"
+    ],
+    [
+     "27213",
+     "REMERA T/POLO CAB.P/M"
+    ],
+    [
+     "35947",
+     "REMERA T/POLO DAMAS G/XG"
+    ],
+    [
+     "35951",
+     "REMERA T/POLO DAMAS P/M"
+    ],
+    [
+     "12716",
+     "REMERA UNIFORME SALON"
+    ],
+    [
+     "18621",
+     "REMERA VERDE DE DEGUSTACION"
+    ],
+    [
+     "39175",
+     "REMERA VERDE MANZANA 25 AÑOS LP"
+    ],
+    [
+     "87969",
+     "RENDERIZADO SALONES 3D"
+    ],
+    [
+     "88178",
+     "RENOVACION SALON DE VENTAS"
+    ],
+    [
+     "86207",
+     "REPARACION DE MUEBLE UAT"
+    ],
+    [
+     "87725",
+     "REPARACION DE MUEBLE UAT"
+    ],
+    [
+     "88283",
+     "REPARACION DE MUEBLES EXHIBIDOR LP"
+    ],
+    [
+     "86260",
+     "REPARACION DE MUEBLES UAT"
+    ],
+    [
+     "87119",
+     "RESTAURACION FOOK TRUCK"
+    ],
+    [
+     "89545",
+     "REVESTIMIENTO MESADA SALON DE VENTAS"
+    ],
+    [
+     "88567",
+     "REVESTIMIENTO SALA DE AUDITORIO"
+    ],
+    [
+     "22700",
+     "ROMPEVIENTO C/BORDADO"
+    ],
+    [
+     "89188",
+     "RULETA LP STAND"
+    ],
+    [
+     "85163",
+     "SACHET DE LONA UAT"
+    ],
+    [
+     "88276",
+     "SERVICIO DE AUDIO Y PANTALLA"
+    ],
+    [
+     "88384",
+     "SERVICIO DE MOZOS FESTEJO"
+    ],
+    [
+     "88720",
+     "SERVICIOS AUDIOVISUALES"
+    ],
+    [
+     "109736",
+     "SERVICIOS MKT DIGITIL"
+    ],
+    [
+     "88385",
+     "SERVICIOS PRESTADOS"
+    ],
+    [
+     "17455",
+     "SERVILLETAS LP"
+    ],
+    [
+     "88060",
+     "SOMBRERO LP"
+    ],
+    [
+     "85392",
+     "SPOT CAMPAÑA UAT DALLYS"
+    ],
+    [
+     "85551",
+     "STAND EXPO 2023"
+    ],
+    [
+     "85684",
+     "STIKER MOVIL TERCERIZADO"
+    ],
+    [
+     "85230",
+     "STIKERS ALFAJORES LA OMA"
+    ],
+    [
+     "102123",
+     "STIKERS VAQUITAS LP"
+    ],
+    [
+     "39710",
+     "TAPABOCAS LP C/ENTRETELA"
+    ],
+    [
+     "89082",
+     "TELA BLANCA PARA IMPRESION 2025"
+    ],
+    [
+     "12007",
+     "TELA CON IMPRESION LA VAQUITA"
+    ],
+    [
+     "105526",
+     "TERMO DE MATE VAQUITA 2023"
+    ],
+    [
+     "106980",
+     "TERMO DE TERERE TERMOLAR"
+    ],
+    [
+     "20794",
+     "TERMO DE 1L P/MATE ACERO INOXIDABLE"
+    ],
+    [
+     "239",
+     "TERMO FORRADO ESPECIAL"
+    ],
+    [
+     "105025",
+     "TERMO 1/2 MATE TERERE FORRADO"
+    ],
+    [
+     "12198",
+     "TERMO 2 LTRO ACERO INOXIDABLE LP"
+    ],
+    [
+     "81976",
+     "TERMOS DE FRIO/CALIENTE EXPO"
+    ],
+    [
+     "102372",
+     "TORTA LA PRADERA GERARDITO"
+    ],
+    [
+     "102402",
+     "TORTA MIL HOJAS LP & PERDEZANI"
+    ],
+    [
+     "89057",
+     "TRIPODE ARO DE LUZ"
+    ],
+    [
+     "87782",
+     "TROQUEL CAJA DULCE 30 AÑOS VISORES"
+    ],
+    [
+     "87781",
+     "TROQUEL CAJA 30 AÑOS OBSEQUIO"
+    ],
+    [
+     "85465",
+     "TROQUEL LOGO LA PRADERA"
+    ],
+    [
+     "87415",
+     "VACA 3D NAVIDAD"
+    ],
+    [
+     "16818",
+     "VAQUITA INFLABLE MKT"
+    ],
+    [
+     "108391",
+     "VAQUITA LP PINTADA ARTISTAS"
+    ],
+    [
+     "106256",
+     "VASITOS DE SILICONA VERDE LP"
+    ],
+    [
+     "100954",
+     "VASO DE ALUMINIO 2021 LP"
+    ],
+    [
+     "6813",
+     "VASO DE VIDRIO"
+    ],
+    [
+     "85605",
+     "VENTILADOR DE PIE EXPO"
+    ],
+    [
+     "88498",
+     "VIDEO COLABORADORES 30 AÑOS"
+    ],
+    [
+     "88631",
+     "VOLANTES GRIEGO/NATURAL"
+    ],
+    [
+     "87055",
+     "VOZ EN OFF"
+    ],
+    [
+     "7107",
+     "ZAPATON BLANCO BRACOL"
+    ],
+    [
+     "20742",
+     "ZAPATON NEGRO C/PUNTERA"
+    ],
+    [
+     "24419",
+     "ZAPATOS PARA MANTENIMIENTO"
+    ],
+    [
+     "90365",
+     "SOMBRERO LARGO WRC 2026"
+    ],
+    [
+     "90366",
+     "KEPIS WRC 2026"
+    ]
+   ]
+  },
+  {
+   "id": "uniformes",
+   "nombre": "Uniformes",
+   "items": [
+    [
+     "108068",
+     "BLAZER P/ DAMA T.ESPECIAL"
+    ],
+    [
+     "38088",
+     "BLAZER SIN SOLAPA DAMAS OCRE"
+    ],
+    [
+     "19964",
+     "BLUSA DAMA ARTEMERA"
+    ],
+    [
+     "107269",
+     "BLUSA P/ DAMA INMI"
+    ],
+    [
+     "108066",
+     "BLUSA P/ DAMA T.ESPECIAL"
+    ],
+    [
+     "39039",
+     "BLUSA P/EMBARAZADA OCRE"
+    ],
+    [
+     "39457",
+     "BLUSA SEDA P/DAMA OCRE"
+    ],
+    [
+     "20741",
+     "BOTA DE GOMA BLANCA CAÑO LARGO"
+    ],
+    [
+     "39540",
+     "BOTA DE GOMA BLANCA EX.LARGO"
+    ],
+    [
+     "20639",
+     "BOTA DE GOMA NEGRA"
+    ],
+    [
+     "89972",
+     "BOTA NEW HOLLAND FATTORIA CHOCOLATE Nº37"
+    ],
+    [
+     "10852",
+     "BRAZALETE BRIGADA"
+    ],
+    [
+     "22510",
+     "BUFANDA"
+    ],
+    [
+     "22427",
+     "CAMISA CABALLERO UNIFORME"
+    ],
+    [
+     "38697",
+     "CAMISA M/C CABALLEROS"
+    ],
+    [
+     "38091",
+     "CAMISA M/L CABALLEROS OCRE"
+    ],
+    [
+     "27377",
+     "CAMPERA DE DAMA TAMAÑO ESPECIAL"
+    ],
+    [
+     "107297",
+     "CAMPERA IMPERMEABLE C/CAPUCHA"
+    ],
+    [
+     "11235",
+     "CAMPERA INVIERNO IMPERMEABLE"
+    ],
+    [
+     "39433",
+     "CAMPERA INVIERNO IMPERMEABLE TALLE ESP."
+    ],
+    [
+     "21014",
+     "CAMPERON GRIS P/CAMARA"
+    ],
+    [
+     "110215",
+     "CAMPERON GRIS P/CAMARA TALLE ESPECIAL"
+    ],
+    [
+     "24934",
+     "CHALECO IMPERMEABLE C/IMPRESION"
+    ],
+    [
+     "21532",
+     "CHALECOS C/BORDADO LP-ADULTO"
+    ],
+    [
+     "279",
+     "CHAQUETA AZUL M/C TALLE ESPECIAL"
+    ],
+    [
+     "280",
+     "CHAQUETA AZUL M/L TALLE ESPECIAL"
+    ],
+    [
+     "20659",
+     "CHAQUETA AZUL MANGA LARGA"
+    ],
+    [
+     "105348",
+     "CHAQUETA BLANCA ML - TALLE ESPECIAL"
+    ],
+    [
+     "20604",
+     "CHAQUETA BLANCA PRODUC."
+    ],
+    [
+     "22513",
+     "CHAQUETA GRIS CAMARA"
+    ],
+    [
+     "105347",
+     "CHAQUETA GRIS ML - TALLE ESPECIAL"
+    ],
+    [
+     "19517",
+     "CHAQUETA GRIS ML C/CINTA REFLECTIVA"
+    ],
+    [
+     "19458",
+     "FOULARDS DAMAS"
+    ],
+    [
+     "20658",
+     "CHAQUETA AZUL MANGA CORTA"
+    ],
+    [
+     "22514",
+     "COFIA AZUL MANT."
+    ],
+    [
+     "9921",
+     "COFIA GRIS CAMARA/PALETIZ."
+    ],
+    [
+     "21473",
+     "COFIAS BLANCA PRODUC."
+    ],
+    [
+     "20660",
+     "REMERA AZUL MC"
+    ],
+    [
+     "20602",
+     "REMERA BLANCA MC"
+    ],
+    [
+     "28436",
+     "REMERA GRIS MC"
+    ],
+    [
+     "27805",
+     "REMERA GRIS ML"
+    ],
+    [
+     "10675",
+     "REMERA GRIS POLO"
+    ],
+    [
+     "11990",
+     "REMERA POLO /BORDADO ACTUAL"
+    ],
+    [
+     "84594",
+     "REMERA POLO C/LOGO BORDADO"
+    ],
+    [
+     "39175",
+     "REMERA VERDE MANZANA 25 AÑOS LP"
+    ],
+    [
+     "4470",
+     "CAMPERA TIPO POLAR"
+    ],
+    [
+     "83753",
+     "PANTALON AZUL CARPINTERO"
+    ],
+    [
+     "39492",
+     "PANTALON BLANCO PROD. TAM ESPECIAL"
+    ],
+    [
+     "20603",
+     "PANTALON BLANCO PRODUC."
+    ],
+    [
+     "20875",
+     "PANTALON GRIS LP P/M"
+    ],
+    [
+     "26049",
+     "PANTALON GRIS POLAR P/CAMARA"
+    ],
+    [
+     "100817",
+     "PANTALON JEANS SAL. T.ESPECIAL"
+    ],
+    [
+     "20758",
+     "PANTALON JEANS SALON"
+    ],
+    [
+     "39637",
+     "TAPABOCA TELA DOBLE"
+    ],
+    [
+     "20742",
+     "ZAPATON NEGRO C/PUNTERA"
+    ],
+    [
+     "21526",
+     "KEPIS BORDADO NEGRO"
+    ],
+    [
+     "22922",
+     "GORRITO POLAR"
+    ],
+    [
+     "39229",
+     "KEPI VERDE MANZANA 25 AÑOS"
+    ],
+    [
+     "84597",
+     "KEPIS AZUL MARINO C/BORDADO"
+    ],
+    [
+     "21527",
+     "KEPIS BORDADO BLANCO"
+    ],
+    [
+     "19826",
+     "MAMELUCO"
+    ],
+    [
+     "128",
+     "PAÑOLETA"
+    ],
+    [
+     "109",
+     "PANTALON BLANCO"
+    ],
+    [
+     "7692",
+     "PANTALON AZUL MANT."
+    ],
+    [
+     "39235",
+     "PANTALON AZUL MANT.TALLE ESPECIAL"
+    ],
+    [
+     "12590",
+     "PANTALON CABALLERO DENIM NOBLE"
+    ],
+    [
+     "12588",
+     "PANTALON CABALLERO MANTENIMIENTO"
+    ],
+    [
+     "38090",
+     "PANTALON DAMAS OCRE"
+    ],
+    [
+     "38092",
+     "PANTALON DE SARGA CABALLEROS OCRE"
+    ],
+    [
+     "39493",
+     "PANTALON GRIS CON CINTA REFLEC"
+    ],
+    [
+     "39491",
+     "PANTALON GRIS LP TAMAÑO ESPECIAL"
+    ],
+    [
+     "284",
+     "PANTALON JEANS"
+    ],
+    [
+     "104612",
+     "PANTALON JEANS DAMAS"
+    ],
+    [
+     "108067",
+     "PANTALON P/ DAMA T.ESPECIAL"
+    ],
+    [
+     "23350",
+     "PANTALON PARA DAMA SPORT AZUL"
+    ],
+    [
+     "84596",
+     "PANTALON SARGA AZUL MARINO"
+    ],
+    [
+     "19442",
+     "PARCHES PARA NOMBRES"
+    ],
+    [
+     "80795",
+     "POLLERA OCRE"
+    ],
+    [
+     "39237",
+     "REMERA AZUL MC TALLE ESPECIAL"
+    ],
+    [
+     "35950",
+     "REMERA AZUL ML"
+    ],
+    [
+     "39238",
+     "REMERA AZUL ML TALLE ESPECIAL"
+    ],
+    [
+     "84595",
+     "REMERA BASICA C/IMPRESION-NOMBRE"
+    ],
+    [
+     "101590",
+     "REMERA BLANCA MC T.ESPEC."
+    ],
+    [
+     "35945",
+     "REMERA BLANCA ML G/XG"
+    ],
+    [
+     "39207",
+     "REMERA BLANCA POLO SERIGRAFIA 25 AÑOS"
+    ],
+    [
+     "101588",
+     "REMERA GRIS MC T.ESP."
+    ],
+    [
+     "101589",
+     "REMERA GRIS ML T.ESPEC."
+    ],
+    [
+     "102203",
+     "REMERA GRIS POLO ML"
+    ],
+    [
+     "110084",
+     "REMERA GRIS POLO TALLE ESPECIAL"
+    ],
+    [
+     "39731",
+     "REMERA P/SALON C/CUELLO T.ESPECIAL"
+    ],
+    [
+     "110043",
+     "REMERA POLO BLANCO"
+    ],
+    [
+     "110044",
+     "REMERA POLO BLANCO T.ESPECIAL"
+    ],
+    [
+     "109957",
+     "REMERA POLO GRIS TAMAÑO ESPECIAL 2026"
+    ],
+    [
+     "109956",
+     "REMERA POLO GRIS 2026"
+    ],
+    [
+     "35953",
+     "REMERA T/POLO CAB G/XG"
+    ],
+    [
+     "27213",
+     "REMERA T/POLO CAB.P/M"
+    ],
+    [
+     "35947",
+     "REMERA T/POLO DAMAS G/XG"
+    ],
+    [
+     "35951",
+     "REMERA T/POLO DAMAS P/M"
+    ],
+    [
+     "100517",
+     "REMERA TIPO POLO TALLE ESPECIAL"
+    ],
+    [
+     "12716",
+     "REMERA UNIFORME SALON"
+    ],
+    [
+     "39234",
+     "REMERA VERDE MANZANA 25 AÑOS MC TALLE ES"
+    ],
+    [
+     "105547",
+     "ROMPEVIENTO C/ BORDADO T.ESPECIAL"
+    ],
+    [
+     "22700",
+     "ROMPEVIENTO C/BORDADO"
+    ],
+    [
+     "19275",
+     "TAPA BOCA DE TELA"
+    ],
+    [
+     "7107",
+     "ZAPATON BLANCO BRACOL"
+    ],
+    [
+     "21308",
+     "CUCHARITAS P/DEGUSTACION"
+    ]
+   ]
+  }
+ ]
 }

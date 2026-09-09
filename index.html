@@ -218,12 +218,12 @@ label.fld > span{font-family:var(--cond);text-transform:uppercase;letter-spacing
     <section class="view" id="v-agregar">
       <h2>Agregar código</h2>
       <div class="note">Para un código que aparece en el depósito y no estaba en la lista. Se suma al final de <b id="ag-inv">—</b> y queda marcado como agregado en el Excel.</div>
-      <label class="fld"><span>Código</span>
-        <input class="inp mono" id="ag-cod" autocomplete="off" placeholder="10045"></label>
-      <label class="fld"><span>Descripción</span>
+      <label class="fld"><span>Código · obligatorio</span>
+        <input class="inp mono" id="ag-cod" autocomplete="off" placeholder="10045" required></label>
+      <label class="fld"><span>Cantidad física · obligatorio</span>
+        <input class="inp mono" id="ag-cant" inputmode="decimal" autocomplete="off" placeholder="0" required></label>
+      <label class="fld"><span>Descripción · opcional</span>
         <input class="inp" id="ag-desc" autocomplete="off" placeholder="GUANTE NITRILO T-8"></label>
-      <label class="fld"><span>Cantidad física (opcional)</span>
-        <input class="inp mono" id="ag-cant" inputmode="decimal" autocomplete="off" placeholder="0"></label>
       <button class="btn pri wide" id="btn-ag-guardar">Agregar al inventario</button>
       <button class="btn wide" id="btn-ag-volver">Cancelar</button>
     </section>
@@ -481,16 +481,28 @@ function mueve(d){
 /* ------------------------------------------------------------ agregar */
 function agregarCodigoUI(){
   var cod=$("#ag-cod").value.trim();
-  if(!cod){ toast("Falta el código."); $("#ag-cod").focus(); return; }
-  var desc=$("#ag-desc").value.trim();
+  if(!cod){ toast("Falta el código."); $("#ag-cod").classList.add("req"); $("#ag-cod").focus(); return; }
+  $("#ag-cod").classList.remove("req");
+
   var cant=$("#ag-cant").value.trim().replace(",",".");
+  if(cant===""){ toast("Falta la cantidad física."); $("#ag-cant").classList.add("req"); $("#ag-cant").focus(); return; }
+  if(isNaN(Number(cant))){ toast("La cantidad tiene que ser un número."); $("#ag-cant").classList.add("req"); $("#ag-cant").focus(); return; }
+  $("#ag-cant").classList.remove("req");
+
+  var desc=$("#ag-desc").value.trim();
   var inv=invDe(S.actual); if(!inv) return;
 
   var yaEsta=S.items.filter(function(x){ return x.cod.toLowerCase()===cod.toLowerCase(); })[0];
   if(yaEsta){
     S.idx=yaEsta.o-1; S.renderO=null;
     ver("conteo"); pinta();
-    toast("Ese código ya estaba en la lista, en la posición "+yaEsta.o+".");
+    var reg=regDe(inv.id,yaEsta);
+    if(tieneCant(reg)){
+      toast("Ese código ya estaba en la posición "+yaEsta.o+", con "+reg.q+" cargado. No lo pisé.");
+    }else{
+      $("#cant").value=cant; guardaActual(); pinta();
+      toast("Ese código ya estaba en la posición "+yaEsta.o+". Le puse la cantidad ahí.");
+    }
     return;
   }
 
@@ -499,7 +511,7 @@ function agregarCodigoUI(){
   S.items=armaItems(inv);
   S.idx=S.items.length-1; S.renderO=null;
   ver("conteo"); pinta();
-  if(cant!==""){ $("#cant").value=cant; guardaActual(); pinta(); }
+  $("#cant").value=cant; guardaActual(); pinta();
   toast("Código agregado al final de la lista.");
 }
 
@@ -629,6 +641,7 @@ $("#btn-agregar").addEventListener("click",function(){
   guardaActual();
   $("#ag-inv").textContent=(invDe(S.actual)||{}).nombre||"—";
   $("#ag-cod").value="";$("#ag-desc").value="";$("#ag-cant").value="";
+  $("#ag-cod").classList.remove("req");$("#ag-cant").classList.remove("req");
   ver("agregar");
   setTimeout(function(){$("#ag-cod").focus();},60);
 });
