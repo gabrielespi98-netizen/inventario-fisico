@@ -1,0 +1,10 @@
+{
+  "periodo": "Septiembre 2026",
+  "actualizado": "2026-09-09",
+  "inventarios": [
+    {"id": "insumos",   "nombre": "Insumos",   "items": []},
+    {"id": "taller",    "nombre": "Taller",    "items": []},
+    {"id": "marketing", "nombre": "Marketing", "items": []},
+    {"id": "uniformes", "nombre": "Uniformes", "items": []}
+  ]
+}
