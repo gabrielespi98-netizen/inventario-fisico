@@ -95,6 +95,9 @@ label.fld > span{font-family:var(--cond);text-transform:uppercase;letter-spacing
 .sector .pct{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:19px;font-weight:600;line-height:1}
 .sector[data-vacio="1"]{opacity:.7}
 .sector[data-vacio="1"] .stripe{background:var(--line-strong)}
+.sector[data-bloq="1"]{opacity:.45}
+.sector[data-bloq="1"]:hover{border-color:var(--line)}
+.inp.req{border-color:var(--warn);background:var(--warn-soft)}
 .rail{display:block;height:5px;border-radius:2px;overflow:hidden;background:var(--surface-2)}
 .rail i{display:block;height:100%;background:var(--ok)}
 
@@ -158,9 +161,10 @@ label.fld > span{font-family:var(--cond);text-transform:uppercase;letter-spacing
       <div class="note bad" id="err-json" hidden></div>
 
       <label class="fld">
-        <span>Quién cuenta</span>
-        <input class="inp" id="in-usuario" placeholder="Tu nombre" autocomplete="name">
+        <span>Quién cuenta · obligatorio</span>
+        <input class="inp" id="in-usuario" placeholder="Tu nombre" autocomplete="name" required>
       </label>
+      <div class="note warn" id="aviso-nombre" hidden>Escribí tu nombre para poder empezar. Queda guardado en cada cantidad que cargues, así después se sabe quién contó qué.</div>
 
       <div>
         <div class="eyebrow" style="margin-bottom:8px">Inventarios</div>
@@ -367,6 +371,16 @@ async function arranca(){
 }
 
 /* ------------------------------------------------------------ inicio */
+// Sin nombre no se cuenta: la columna "Contado por" del Excel es lo que
+// después permite volver sobre una diferencia con la persona correcta.
+function nombreOk(){ return (S.usuario||"").replace(/\s+/g," ").trim().length>=2; }
+function pideNombre(){
+  $("#aviso-nombre").hidden=false;
+  $("#in-usuario").classList.add("req");
+  $("#in-usuario").focus();
+  toast("Escribí tu nombre antes de empezar.");
+}
+
 function pintaSectores(){
   var c=$("#lista-sectores");
   if(!CFG.invs.length){ c.innerHTML='<p class="small muted">La lista del mes todavía no tiene inventarios.</p>'; return; }
@@ -380,7 +394,8 @@ function pintaSectores(){
   c.innerHTML=CFG.invs.map(function(inv,i){
     var p=contados(inv);
     var pct=p.total?Math.round(p.hechos*100/p.total):0;
-    return '<button class="sector" data-id="'+esc(inv.id)+'"'+(p.total?'':' data-vacio="1"')+'>'
+    return '<button class="sector" data-id="'+esc(inv.id)+'"'+(p.total?'':' data-vacio="1"')
+      +(nombreOk()?'':' data-bloq="1" aria-disabled="true"')+'>'
       +'<span class="stripe" style="background:var('+COLORES[i%COLORES.length]+')"></span>'
       +'<span class="body"><span class="nm">'+esc(inv.nombre)+'</span>'
       +'<span class="rail"><i style="width:'+pct+'%"></i></span>'
@@ -389,12 +404,16 @@ function pintaSectores(){
       +'<span class="small muted">'+(p.total-p.hechos)+' pend.</span></span></button>';
   }).join("");
   Array.prototype.forEach.call(c.querySelectorAll(".sector"),function(b){
-    b.addEventListener("click",function(){ abreConteo(b.getAttribute("data-id")); });
+    b.addEventListener("click",function(){
+      if(!nombreOk()){ pideNombre(); return; }
+      abreConteo(b.getAttribute("data-id"));
+    });
   });
 }
 
 /* ------------------------------------------------------------ conteo */
 function abreConteo(id){
+  if(!nombreOk()){ ver("inicio"); pideNombre(); return; }
   var inv=invDe(id); if(!inv) return;
   S.actual=id; S.renderO=null;
   S.items=armaItems(inv);
@@ -635,8 +654,10 @@ $("#btn-solo-pend").addEventListener("click",function(){
 });
 
 $("#in-usuario").addEventListener("input",function(){
-  S.usuario=this.value.trim();
+  S.usuario=this.value.replace(/\s+/g," ").trim();
   try{ localStorage.setItem("cf2_usuario",S.usuario); }catch(e){}
+  if(nombreOk()){ $("#aviso-nombre").hidden=true; this.classList.remove("req"); }
+  pintaSectores();
 });
 $("#btn-ir-export").addEventListener("click",function(){ pintaExport(); ver("export"); });
 $("#btn-cancelar-export").addEventListener("click",function(){ ver("inicio"); });
@@ -644,8 +665,9 @@ $("#btn-descargar").addEventListener("click",descargar);
 $("#btn-copiar").addEventListener("click",copiar);
 window.addEventListener("beforeunload",guardaActual);
 
-try{ S.usuario=localStorage.getItem("cf2_usuario")||""; }catch(e){}
+try{ S.usuario=(localStorage.getItem("cf2_usuario")||"").replace(/\s+/g," ").trim(); }catch(e){}
 $("#in-usuario").value=S.usuario;
+if(!nombreOk()) $("#aviso-nombre").hidden=false;
 net();
 arranca();
 })();
