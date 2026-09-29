@@ -271,6 +271,23 @@ var COLORES=["--sec-1","--sec-2","--sec-3","--sec-4"];
 var CAB=["Inventario","Orden","Código","Descripción","Cantidad Física","Observación","Contado por","Fecha","Agregado"];
 
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];});}
+// El codigo se MUESTRA con separador de miles, pero se guarda y se exporta
+// limpio, para que cruce con el ERP. Solo se separa si es todo numeros.
+function fmtCod(c){
+  var s=String(c==null?"":c);
+  return /^\d+$/.test(s) ? s.replace(/\B(?=(\d{3})+(?!\d))/g,".") : s;
+}
+function limpiaCod(s){
+  s=String(s==null?"":s).trim();
+  var sin=s.replace(/[.\s]/g,"");
+  return /^\d+$/.test(sin) ? sin : s;
+}
+function coincideCod(cod,q){
+  if(!q) return true;
+  q=q.toLowerCase();
+  return fmtCod(cod).toLowerCase().indexOf(q)>=0
+      || String(cod).toLowerCase().indexOf(limpiaCod(q).toLowerCase())>=0;
+}
 function slug(s){return String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");}
 var toastT;
 function toast(m){var t=$("#toast");t.textContent=m;t.classList.add("on");clearTimeout(toastT);toastT=setTimeout(function(){t.classList.remove("on");},2800);}
@@ -439,7 +456,7 @@ function pinta(){
   $("#c-pos").textContent=String(S.idx+1);
   $("#c-total").textContent=String(S.items.length);
   $("#c-orden").textContent="Orden "+it.o+(it.extra?" · agregado":"");
-  $("#c-codigo").textContent=it.cod;
+  $("#c-codigo").textContent=fmtCod(it.cod);
   $("#c-desc").textContent=it.desc;
   var hechos=0;
   S.items.forEach(function(x){ if(tieneCant(regDe(S.actual,x))) hechos++; });
@@ -480,7 +497,7 @@ function mueve(d){
 
 /* ------------------------------------------------------------ agregar */
 function agregarCodigoUI(){
-  var cod=$("#ag-cod").value.trim();
+  var cod=limpiaCod($("#ag-cod").value);
   if(!cod){ toast("Falta el código."); $("#ag-cod").classList.add("req"); $("#ag-cod").focus(); return; }
   $("#ag-cod").classList.remove("req");
 
@@ -523,7 +540,7 @@ function pintaSheet(){
   var filas=S.items.map(function(it,i){return {it:it,i:i};}).filter(function(x){
     var reg=regDe(S.actual,x.it);
     if(S.soloPend&&tieneCant(reg)) return false;
-    if(qc&&x.it.cod.toLowerCase().indexOf(qc)<0) return false;
+    if(!coincideCod(x.it.cod,qc)) return false;
     if(qd&&x.it.desc.toLowerCase().indexOf(qd)<0) return false;
     return true;
   });
@@ -532,7 +549,7 @@ function pintaSheet(){
     var reg=regDe(S.actual,x.it);
     return '<button class="item" data-i="'+x.i+'"'+(x.i===S.idx?' aria-current="true"':'')+'>'
       +'<span class="o">'+x.it.o+'</span>'
-      +'<span style="min-width:0"><span class="c">'+esc(x.it.cod)+'</span>'
+      +'<span style="min-width:0"><span class="c">'+esc(fmtCod(x.it.cod))+'</span>'
       +(x.it.extra?'<span class="marca">nuevo</span>':'')
       +'<br><span class="d">'+esc(x.it.desc)+'</span></span>'
       +'<span class="q'+(tieneCant(reg)?'':' pend')+'">'+(tieneCant(reg)?esc(reg.q):"—")+'</span></button>';
